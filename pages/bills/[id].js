@@ -51,8 +51,6 @@ function Sponsor(sponsor, i) {
 
 export default function Bill({ bill }) {
 
-  // console.log('>>>>>bill', bill);
-
   const rawSearchable = bill.rawSearchable;
   const rawBill = bill.raw;
 
@@ -66,7 +64,7 @@ export default function Bill({ bill }) {
     <Page className={styles.main}>
 
       <Head>
-        <title>{`TL;DP: ${bill.apiData.shortTitle}`}</title>
+        <title>{`ParseTheBill.com: ${bill.apiData.shortTitle}`}</title>
       </Head>
 
       <div>
