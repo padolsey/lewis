@@ -1,0 +1,39 @@
+{
+  "name": "lewis_app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "delay": "^5.0.0",
+    "dotenv": "^16.3.1",
+    "eventsource-parser": "^1.0.0",
+    "fast-xml-parser": "^4.2.6",
+    "gpt-3-encoder": "^1.1.4",
+    "level": "^8.0.0",
+    "lru-cache": "^10.0.0",
+    "marked": "^5.1.1",
+    "natural": "^6.3.0",
+    "next": "^13.4.10",
+    "node-fetch": "^3.3.1",
+    "node-sass": "^9.0.0",
+    "object-hash": "^3.0.0",
+    "p-queue": "^7.3.4",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^3.8.162",
+    "puppeteer": "^20.8.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.63.6",
+    "xml2js": "^0.6.0"
+  }
+}

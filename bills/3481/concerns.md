@@ -1,0 +1,1 @@
+While the bill itself looks reasonable, broader engagement, monitoring, and accountability will remain important for Northern Ireland's budgeting process.

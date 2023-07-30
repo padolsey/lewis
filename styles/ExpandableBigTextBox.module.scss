@@ -1,0 +1,96 @@
+.expandableBigTextBox {
+
+  position: relative;
+  // background: #fffffe;
+  margin: 0 0 1.7rem;
+
+  section {
+    padding: 1.4rem;
+    // border-left: 8px solid #111;
+    // background: #fffdc5;
+    // border-bottom: 3px solid #111;
+    // height: 100%;
+  }
+
+  section *, section h2 {
+    // display: inline;
+    font-size: 1.2rem;
+  }
+
+  button {
+    display: none;
+    z-index: 999;
+    box-shadow: 0 0 50px #fffee6;
+    border-radius: 3px;
+    // border-bottom-right-radius: 0;
+    // border-bottom-left-radius: 0;
+    background: #fffee6;
+    color: #111;
+    font-size: 1rem !important;
+    display: block;
+    position: absolute;
+    left: 50%;
+    bottom: 1em;
+    padding: .3em .6em;
+    // width: 100%;
+    // height: 50px;
+    transform: translate(-50%, 0);
+    // line-height: 50px;
+    border: none;
+    cursor: pointer;
+    font-weight: 700;
+    // padding: 4px 7px;
+    border: 3px solid #111;
+    // border-bottom: 0;
+    &:hover, &:focus {
+      // background: #111;
+      // color: white;
+      text-decoration: underline;
+    }
+  }
+
+  &.expandable {
+
+    cursor: pointer;
+    overflow: hidden;
+
+    &:hover {
+
+    }
+
+    &:after {
+      content: "";
+      display: block;
+      position: absolute;
+      width: 100%;
+      bottom: 0;
+      left: 0;
+      z-index: 9;
+      height: 40px;
+      font-size: .7rem;
+      background: inherit;
+      border-bottom: 3px solid #fffee6;
+      background: linear-gradient(0deg, #fffee6 0%, transparent 100%);
+    }
+
+    section button {
+      display: block;
+    }
+
+    section {
+      max-height: 300px;
+    }
+
+    &.expanded {
+      cursor: auto;
+      &:after {
+        display: none;
+      }
+      section {
+        height: auto;
+        max-height: none;
+      }
+    }
+  }
+
+}

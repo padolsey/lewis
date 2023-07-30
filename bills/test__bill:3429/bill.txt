@@ -1,0 +1,3635 @@
+Illegal Migration Bill
+[AS AMENDED IN COMMITTEE]
+CONTENTS
+Introduction
+1 Introduction
+Duty to make arrangements for removal
+2 Duty to make arrangements for removal
+3 Unaccompanied children and power to provide for exceptions
+4 Disregard of certain claims, applications etc
+5 Removal for the purposes of section 2 or 3
+6 Powers to amend Schedule 1
+7 Further provisions about removal
+8 Support where asylum claim inadmissible
+9 Other consequential amendments relating to removal
+Detention, bail etc
+10 Powers of detention
+11 Period for which persons may be detained
+12 Powers to grant immigration bail
+13 Disapplication of duty to consult Independent Family Returns Panel
+14 Electronic devices etc
+Unaccompanied children
+15 Accommodation and other support for unaccompanied migrant children
+16 Transfer of children from Secretary of State to local authority and vice versa
+17 Duty of local authority to provide information to the Secretary of State
+18 Enforcement of local authorities’ duties under sections 16 and 17
+19 Extension to Wales, Scotland and Northern Ireland
+20 Transfer of children between local authorities
+Modern slavery
+21 Provisions relating to removal and leave
+22 Provisions relating to support: England and Wales
+23 Provisions relating to support: Scotland
+24 Provisions relating to support: Northern Ireland
+25 Suspension and revival of sections 21 to 24
+26 Procedure for certain regulations under section 25
+HL Bill 148 58/3 
+27 Amendments relating to sections 21 to 24
+28 Disapplication of modern slavery provisions
+Entry, settlement and citizenship
+29 Entry into and settlement in the United Kingdom
+30 Persons prevented from obtaining British citizenship etc
+31 British citizenship
+32 British overseas territories citizenship
+33 British overseas citizenship
+34 British subjects
+35 Disapplication of sections 31 to 34
+36 Amendments relating to sections 31 to 35
+Legal proceedings
+37 Suspensive claims: interpretation
+38 Serious harm suspensive claims: interpretation
+39 Meaning of “serious and irreversible harm”
+40 Relationship with other proceedings
+41 Serious harm suspensive claims
+42 Factual suspensive claims
+43 Appeals in relation to suspensive claims
+44 Permission to appeal in relation to suspensive claims certified as clearly
+unfounded
+45 Suspensive claims out of time
+46 Suspensive claims: duty to remove
+47 Upper Tribunal consideration of new matters
+48 Appeals in relation to suspensive claims: timing
+49 Procedure for Tribunal Procedure Rules
+50 Finality of certain decisions by the Upper Tribunal
+51 Judges of First-tier Tribunal and Upper Tribunal
+52 Special Immigration Appeals Commission
+53 Interim remedies
+54 Interim measures of the European Court of Human Rights
+55 Legal aid
+Age assessments etc
+56 Decisions relating to a person’s age
+57 Age assessments: power to make provision about refusal to consent to
+scientific methods
+Inadmissibility of certain asylum and human rights claims
+58 Inadmissibility of certain asylum and human rights claims
+Safe and legal routes
+59 Cap on number of entrants using safe and legal routes
+60 Report on safe and legal routes
+ii Illegal Migration Bill 
+Credibility of claimant
+61 Credibility of claimant: concealment of information etc
+General
+62 Financial provision
+63 Consequential and minor provision
+64 Regulations
+65 Defined expressions
+66 Extent
+67 Commencement
+68 Short title
+Schedule 1 — Countries or territories to which a person may be removed
+Schedule 2 — Electronic devices etc
+Illegal Migration Bill iii 
+
+[AS AMENDED IN COMMITTEE]
+A
+BILL
+TO
+Make provision for and in connection with the removal from the United
+Kingdom of persons who have entered or arrived in breach of immigration
+control; to make provision about detention for immigration purposes; to make
+provision about unaccompanied children; to make provision about victims of
+slavery or human trafficking; to make provision about leave to enter or remain
+in the United Kingdom; to make provision about citizenship; to make provision
+about the inadmissibility of certain protection and certain human rights claims
+relating to immigration; to make provision about the maximum number of
+persons entering the United Kingdom annually using safe and legal routes;
+to make further provision about the credibility of claimants making asylum
+and human rights claims; and for connected purposes.
+B E IT ENACTED by the King’s most Excellent Majesty, by and with the advice and
+consent of the Lords Spiritual and Temporal, and Commons, in this present
+Parliament assembled, and by the authority of the same, as follows:—
+Introduction
+1 Introduction
+(1) The purpose of this Act is to prevent and deter unlawful migration, and in
+5
+particular migration by unsafe and illegal routes, by requiring the removal
+from the United Kingdom of certain persons who enter or arrive in the United
+Kingdom in breach of immigration control.
+(2) To advance that purpose, this Act—
+(a) places a duty on the Secretary of State to make arrangements for the
+10
+removal of certain persons who enter or arrive in the United Kingdom
+in breach of immigration control as soon as is reasonably practicable
+after their entry or arrival, subject only to the exceptions specified by
+or under this Act;
+(b) provides for protection claims and certain human rights claims made
+15
+by persons who meet the conditions for removal under this Act to be
+inadmissible;
+(c) provides for the detention of persons who are subject to removal under
+this Act;
+HL Bill 148 58/3
+Illegal Migration Bill 1 
+(d) provides for protections and entitlements to assistance and support
+which are available to victims of modern slavery or human trafficking
+not to apply to persons who are subject to removal under this Act;
+(e)
+5
+prevents persons who meet the conditions for removal under this Act
+from being given leave to enter or remain in the United Kingdom;
+(f) prevents persons who meet the conditions for removal under this Act
+from settling in the United Kingdom or obtaining citizenship;
+(g) provides a procedure for persons who are subject to removal under
+10
+this Act to challenge their removal by means of a suspensive claim
+(as defined in section 37);
+(h) has the effect that all other legal challenges to the removal of persons
+under this Act do not suspend the duty to make arrangements for
+their removal.
+(3)
+15
+Accordingly, and so far as it is possible to do so, provision made by or by
+virtue of this Act must be read and given effect so as to achieve the purpose
+mentioned in subsection (1).
+(4) In addition, this Act makes provision—
+(a) about the period for which persons may be detained in immigration
+detention;
+(b) for protections that apply to victims of modern slavery or human 20
+trafficking not to apply to persons who are a threat to public order
+or who have claimed to be victims in bad faith unless compelling
+circumstances apply;
+(c)
+25
+for persons who have been sentenced to a period of imprisonment for
+an offence or who are liable to deportation to be deemed to be a threat
+to public order for the purposes of the disapplication of those
+protections;
+(d) for asylum claims and human rights claims made by nationals of
+certain safe States to be inadmissible;
+(e) for the maximum number of persons who may enter the United 30
+Kingdom annually using safe and legal routes to be specified in
+regulations which are subject to approval by Parliament;
+(f) for certain kinds of behaviour relating to an identity document or
+35
+electronic information by a person who makes an asylum claim or a
+human rights claim to be taken into account as damaging the
+claimant’s credibility.
+(5) Section 3 of the Human Rights Act 1998 (interpretation of legislation) does
+not apply in relation to provision made by or by virtue of this Act.
+Duty to make arrangements for removal
+2 Duty to make arrangements for removal 40
+(1) The Secretary of State must make arrangements for the removal of a person
+from the United Kingdom if the person meets the following four conditions.
+(2) The first condition is that—
+2 Illegal Migration Bill 
+(a) the person requires leave to enter the United Kingdom, but has entered
+the United Kingdom—
+(i) without leave to enter, or
+(ii)
+5
+with leave to enter that was obtained by means which included
+deception by any person,
+(b) the person has entered the United Kingdom in breach of a deportation
+order,
+(c) the person has entered or arrived in the United Kingdom at a time
+10
+when they were an excluded person within the meaning of section 8B
+of the Immigration Act 1971 (persons excluded from the United
+Kingdom under certain instruments) and—
+(i) subsection (5A) of that section (exceptions to section 8B) does
+not apply to the person, and
+(ii)
+15
+an exception created under, or direction given by virtue of,
+section 15(4) of the Sanctions and Anti-Money Laundering Act
+2018 (power to create exceptions to section 8B) does not apply
+to the person,
+(d) the person requires entry clearance under the immigration rules, but
+20
+has arrived in the United Kingdom without a valid entry clearance,
+or
+(e) the person is required under immigration rules not to travel to the
+United Kingdom without an electronic travel authorisation that is
+valid for that person’s journey to the United Kingdom, but has arrived
+in the United Kingdom without such an electronic travel authorisation.
+(3) The second condition is that the person entered or arrived in the United 25
+Kingdom as mentioned in subsection (2) on or after 7 March 2023.
+(4) The third condition is that, in entering or arriving as mentioned in subsection
+(2), the person did not come directly to the United Kingdom from a country
+30
+in which the person’s life and liberty were threatened by reason of their race,
+religion, nationality, membership of a particular social group or political
+opinion.
+(5) For the purposes of subsection (4) a person is not to be taken to have come
+directly to the United Kingdom from a country in which their life and liberty
+35
+were threatened as mentioned in that subsection if, in coming from such a
+country, they passed through or stopped in another country outside the United
+Kingdom where their life and liberty were not so threatened.
+(6) The fourth condition is that the person requires leave to enter or remain in
+the United Kingdom but does not have it.
+(7)
+40
+Any limited leave to enter or remain given under the immigration rules to a
+person within section 3(1) (unaccompanied children) is to be disregarded in
+determining whether the person meets the condition in subsection (6).
+(8) In this section—
+“country” includes territory;
+45
+“deportation order” means an order under section 5 of the Immigration
+Act 1971;
+Illegal Migration Bill 3 
+“electronic travel authorisation” means an authorisation in electronic
+form to travel to the United Kingdom;
+“entry clearance” has the meaning given by section 33(1) of the
+Immigration Act 1971.
+(9) In this Act “immigration rules” means rules under section 3(2) of the 5
+Immigration Act 1971.
+(10) Section 11(1) of the Immigration Act 1971 (person deemed not to enter the
+United Kingdom before disembarkation, while in controlled area or while
+10
+under immigration control) applies for the purposes of this section as it applies
+for the purposes of that Act.
+(11) The only circumstances in which the duty in subsection (1) does not apply
+to a person who meets the four conditions in this section are where—
+(a) section 3(1) (unaccompanied children) applies to the person,
+(b) regulations under section 3(7) (other exceptions) apply to the person,
+(c) a Minister of the Crown has made a determination under section 54(2) 15
+(interim measures of the European Court of Human Rights) in relation
+to the person, or
+(d) section 61 or 62 of the Nationality and Borders Act 2022 (victims of
+20
+slavery and human trafficking) apply in relation to the person, so far
+as they have effect by virtue of section 21 of this Act (modern slavery
+provisions relating to removal and leave).
+3 Unaccompanied children and power to provide for exceptions
+(1) The duty in section 2(1) does not require the Secretary of State to make
+25
+arrangements for the removal of a person from the United Kingdom at a time
+when the person is an unaccompanied child.
+(2) The Secretary of State may make arrangements for the removal of a person
+from the United Kingdom at a time when the person is an unaccompanied
+child.
+(3) The power in subsection (2) may be exercised only—
+(a) where the person is to be removed for the purposes of reunion with 30
+the person’s parent;
+(b) where the person is to be removed to a country listed in section
+80AA(1) of the Nationality, Immigration and Asylum Act 2002 (safe
+States for the purposes of section 80A of that Act) which is—
+(i) a country of which the person is a national, or 35
+(ii) a country in which the person has obtained a passport or other
+document of identity;
+(c) where the person has not made a protection claim or a human rights
+claim and the person is to be removed to—
+(i) a country of which the person is a national, 40
+(ii) a country or territory in which the person has obtained a
+passport or other document of identity, or
+4 Illegal Migration Bill 
+(iii) a country or territory in which the person embarked for the
+United Kingdom;
+(d) in such other circumstances as may be specified in regulations made
+by the Secretary of State.
+(4) Regulations under subsection (3)(d) may confer a discretion on the Secretary 5
+of State.
+(5) For the purposes of this Act a person (“C”) is an “unaccompanied child” if—
+(a) C meets the four conditions in section 2,
+(b) C is under the age of 18, and
+(c) at the relevant time no individual (whether or not a parent of C) who 10
+was aged 18 or over had care of C.
+(6) In subsection (5) “the relevant time” means the time of C’s entry or arrival
+in the United Kingdom by virtue of which the duty in section 2(1) would
+apply in relation to C apart from this section.
+(7) The Secretary of State may by regulations make provision for other exceptions 15
+from the duty in section 2(1).
+(8) Regulations under subsection (7) may make provision—
+(a) for this Act or any other enactment to have effect with modifications,
+20
+in relation to a person to whom an exception applies, in consequence
+of the application of the exception to that person;
+(b) for an exception, or for any provision made by virtue of paragraph
+(a), to be treated as having had effect from a time before the coming
+into force of the regulations.
+(9)
+25
+Regulations made by virtue of subsection (8)(a) may, in particular, disapply
+any provision of this Act or any other enactment in relation to a person to
+whom an exception applies.
+(10) In subsections (8) and (9) “enactment” includes—
+(a) an enactment contained in subordinate legislation within the meaning
+of the Interpretation Act 1978;
+(b) an enactment contained in, or in an instrument made under, an Act 30
+of the Scottish Parliament;
+(c) an enactment contained in, or in an instrument made under, a Measure
+or Act of Senedd Cymru;
+(d)
+35
+an enactment contained in, or in an instrument made under, Northern
+Ireland legislation.
+(11) In this Act—
+“human rights claim” has the meaning given by section 113(1) of the
+Nationality, Immigration and Asylum Act 2002;
+“national” includes citizen;
+“protection claim” has the meaning given by section 82(2) of that Act. 40
+Illegal Migration Bill 5 
+4 Disregard of certain claims, applications etc
+(1) The duty in section 2(1) or the power in section 3(2) applies in relation to a
+person who meets the four conditions in section 2 regardless of whether—
+(a) the person makes a protection claim,
+(b) the person makes a human rights claim, 5
+(c) the person claims to be a victim of slavery or a victim of human
+trafficking as defined by regulations made by the Secretary of State
+under section 69 of the Nationality and Borders Act 2022, or
+(d)
+10
+the person makes an application for judicial review in relation to their
+removal from the United Kingdom under this Act.
+(2) If a person who meets the four conditions in section 2 makes a protection
+claim, or a human rights claim within subsection (5), the Secretary of State
+must declare the claim inadmissible (and see section 40(4) in relation to human
+rights claims not within subsection (5)).
+(3) A protection claim or a human rights claim declared inadmissible under 15
+subsection (2) cannot be considered under the immigration rules.
+(4) A declaration under subsection (2) that a protection claim or a human rights
+claim is inadmissible is not a decision to refuse the claim and, accordingly,
+20
+no right of appeal under section 82(1)(a) or (b) of the Nationality, Immigration
+and Asylum Act 2002 (appeal against refusal of protection claim or human
+rights claim) arises.
+(5) A human rights claim is within this subsection if it is a claim that removal
+of a person from the United Kingdom to—
+(a) a country of which the person is a national, or
+(b) a country or territory in which the person has obtained a passport or 25
+other document of identity,
+would be unlawful under section 6 of the Human Rights Act 1998 (public
+authority not to act contrary to Convention).
+(6) In this Act “application for judicial review” means—
+(a) in England and Wales and Northern Ireland, an application to the 30
+High Court for judicial review,
+(b) in Scotland, an application to the supervisory jurisdiction of the Court
+of Session, and
+(c)
+35
+any other application to a court or tribunal which is required by an
+enactment to be determined by applying the principles that would be
+applied by a court on an application within paragraph (a) or (b).
+(7) In this section, references to a claim include a claim—
+(a) that was made on or after 7 March 2023, and
+(b)
+40
+that has not been decided by the Secretary of State on the date on
+which this section comes into force.
+6 Illegal Migration Bill 
+5 Removal for the purposes of section 2 or 3
+(1) Where the Secretary of State is required by section 2(1) to make arrangements
+for the removal of a person from the United Kingdom, the Secretary of State
+must ensure that the arrangements are made—
+(a) as soon as is reasonably practicable after the person’s entry or arrival 5
+in the United Kingdom, or
+(b) where the person has ceased to be an unaccompanied child, as soon
+as is reasonably practicable after the person has ceased to be an
+unaccompanied child.
+(2) The following provisions of this section apply where— 10
+(a) the Secretary of State is required by section 2(1) to make arrangements
+for the removal of a person (“P”) from the United Kingdom, or
+(b) the Secretary of State may make arrangements for the removal of a
+person (“P”) from the United Kingdom under section 3(2).
+(3) Subject to section 3(3)(c) (removal of certain unaccompanied children) and to 15
+the following provisions of this section, P may be removed to—
+(a) a country of which P is a national,
+(b) a country or territory in which P has obtained a passport or other
+document of identity,
+(c) a country or territory in which P embarked for the United Kingdom, 20
+or
+(d) a country or territory to which there is reason to believe P will be
+admitted.
+(4)
+25
+If P is a national of a country listed in section 80AA(1) of the Nationality,
+Immigration and Asylum Act 2002 (inadmissibility of certain asylum and
+human rights claims: safe States), or has obtained a passport or other document
+of identity in such a country, P may not be removed to a country or territory
+within subsection (3)(a) or (b) if—
+(a) P makes a protection claim or a human rights claim, and
+(b) the Secretary of State considers that there are exceptional circumstances 30
+which prevent P’s removal to that country.
+(5) For the purposes of subsection (4), exceptional circumstances include—
+(a) in a case where P is a national of a country that is a signatory to the
+35
+Human Rights Convention, or has obtained a passport or other
+document of identity in such a country, where that country is
+derogating from any of its obligations under the Human Rights
+Convention in accordance with Article 15 of the Convention;
+(b) in a case where P is a national of a member State, or has obtained a
+40
+passport or other document of identity in a member State, where the
+member State is the subject of a proposal initiated in accordance with
+the procedure referred to in Article 7(1) of the Treaty on European
+Union and—
+(i) the proposal has yet to be determined by the Council of the
+European Union or (as the case may be) the European Council,
+Illegal Migration Bill 7 
+(ii) the Council of the European Union has determined, in
+accordance with Article 7(1), that there is a clear risk of a
+serious breach by the member State of the values referred to
+in Article 2 of the Treaty, or
+(iii) the European Council has determined, in accordance with 5
+Article 7(2), the existence of a serious and persistent breach by
+the member State of the values referred to in Article 2 of the
+Treaty.
+(6) Subsection (7) applies if—
+(a) P is a national of a country listed in section 80AA(1) of the Nationality, 10
+Immigration and Asylum Act 2002, or has obtained a passport or other
+document of identity in such a country, and
+(b) P makes a protection claim or a human rights claim.
+(7)
+15
+P may be removed to a country or territory within subsection (3)(c) or (d)
+only if it is listed in Schedule 1.
+(8) Subsection (9) applies if—
+(a) P is not a national of a country listed in section 80AA(1) of the
+Nationality, Immigration and Asylum Act 2002, and has not obtained
+a passport or other document of identity in such a country, and
+(b) P makes a protection claim or a human rights claim. 20
+(9) P may not be removed to a country or territory within subsection (3)(a) or
+(b); and P may be removed to a country or territory within subsection (3)(c)
+or (d) only if it is listed in Schedule 1.
+(10)
+25
+Where a country or territory is listed in Schedule 1 in respect of a description
+of person, subsection (7) or (9) has effect in relation to P and that country or
+territory only if the Secretary of State is satisfied that P is within that
+description.
+(11) Where a part of a country or territory is listed in Schedule 1, references to a
+30
+country or territory in subsections (7), (9) and (10) have effect in relation to
+that country or territory as if they were references to that part.
+(12) In this section references to a claim include a claim—
+(a) that was made on or after 7 March 2023, and
+(b) that has not been decided by the Secretary of State on the date on
+which this section comes into force.
+(13) In this Act “the Human Rights Convention” means the Convention for the 35
+Protection of Human Rights and Fundamental Freedoms, agreed by the
+Council of Europe at Rome on 4 November 1950, as it has effect for the time
+being in relation to the United Kingdom.
+(14)
+40
+Where the Secretary of State exercises the power in subsection (2) of section
+80AA of the Nationality, Immigration and Asylum Act 2002 to amend the
+list of States in subsection (1) of that section so as to add a State, subsections
+(4), (6) and (7) apply to a person who is a national of that State, or who has
+obtained a passport or other document of identity in that State, if—
+8 Illegal Migration Bill 
+(a) they have made a protection claim or a human rights claim on or after
+7 March 2023, and
+(b) the claim has not been decided by the Secretary of State on the date
+on which the amendment comes into force.
+6 Powers to amend Schedule 1 5
+(1) The Secretary of State may by regulations amend Schedule 1 to add a country
+or territory, or part of a country or territory, if satisfied that—
+(a) there is in general in that country or territory, or part, no serious risk
+of persecution, and
+(b) removal of persons to that country or territory, or part, pursuant to 10
+the duty in section 2(1) will not in general contravene the United
+Kingdom’s obligations under the Human Rights Convention.
+(2) If the Secretary of State is satisfied that the statements in subsection (1)(a)
+15
+and (b) are true of a country or territory, or part of a country or territory, in
+relation to a description of person, regulations under subsection (1) may add
+the country or territory or part to Schedule 1 in respect of that description of
+person.
+(3) A description for the purposes of subsection (2) may refer to—
+(a) sex,
+(b) language, 20
+(c) race,
+(d) religion,
+(e) nationality,
+(f) membership of a social or other group,
+(g) political opinion, or 25
+(h) any other attribute or circumstance that the Secretary of State thinks
+appropriate.
+(4) In deciding whether the statements in subsection (1)(a) and (b) are true of a
+country or territory, or part of a country or territory, the Secretary of State—
+(a) must have regard to all the circumstances of the country or territory, 30
+or part (including its laws and how they are applied), and
+(b) must have regard to information from any appropriate source
+(including member States and international organisations).
+(5)
+35
+The Secretary of State may by regulations amend Schedule 1 to omit a country
+or territory, or part of a country or territory; and the omission may—
+(a) be general, or
+(b) have the effect that the country or territory, or part, remains listed in
+Schedule 1 in respect of a description of person.
+7 Further provisions about removal
+(1) This section applies where— 40
+Illegal Migration Bill 9 
+(a) the Secretary of State is required by section 2(1) to make arrangements
+for the removal of a person (“P”) from the United Kingdom, or
+(b) the Secretary of State may make arrangements for the removal of a
+person (“P”) from the United Kingdom under section 3(2).
+(2) P may not be removed from the United Kingdom unless— 5
+(a) the Secretary of State or an immigration officer has given a notice in
+writing to P stating—
+(i) that P is to be removed, and
+(ii) the country or territory to which P is to be removed, and
+(b) the condition in subsection (3) is met. 10
+(3) The condition in this subsection is that—
+(a) the claim period for any suspensive claim that may be made by P has
+expired, or
+(b)
+15
+P has notified the Secretary of State (orally or in writing) that P does
+not intend to make a suspensive claim.
+(4) The giving of a notification by P under subsection (3)(b) does not affect any
+ability of P to make a suspensive claim before P is removed from the United
+Kingdom under this Act (and accordingly if P makes such a claim, sections
+37 to 52 apply in relation to the claim).
+(5) But where P has been removed from the United Kingdom under this Act 20
+following such a notification, P may not make a suspensive claim (regardless
+of whether the claim period has expired).
+(6) A notice under subsection (2)(a) must—
+(a)
+25
+contain details of any right P has to make a suspensive claim under
+this Act, and
+(b) set out the claim period for any such suspensive claim.
+(7) In this section—
+“claim period”—
+(a)
+30
+in relation to a suspensive claim within section 37(2)(a) (serious
+harm suspensive claims), has the meaning given by section
+41(7), and
+(b) in relation to a suspensive claim within section 37(2)(b) (factual
+suspensive claims), has the meaning given by section 42(7);
+35
+“suspensive claim” has the meaning given by section 37 (suspensive
+claims: interpretation).
+(8) Subject to section 5 (removal for the purposes of section 2 or 3), the Secretary
+of State may give directions to the owners or agents of a ship, aircraft, train
+or vehicle requiring them to make arrangements for P’s removal from the
+40
+United Kingdom in any ship, aircraft, train or vehicle specified or indicated
+in the direction to a country or territory so specified.
+(9) Where the Secretary of State may give directions for P’s removal in accordance
+with subsection (8) the Secretary of State may instead give directions for P’s
+removal in accordance with arrangements to be made by the Secretary of
+10 Illegal Migration Bill 
+State to any country or territory to which P could be removed under
+subsection (8).
+(10) The costs of complying with any directions given under this section must be
+defrayed by the Secretary of State.
+(11) P may be placed, under the authority of an immigration officer or the Secretary 5
+of State, on board any ship, aircraft, train or vehicle in which P is to be
+removed in accordance with directions under this section.
+(12) Where subsection (11) applies, the captain of the ship or aircraft, the train
+manager of the train or the driver of the vehicle—
+(a) must, if so required by an immigration officer or the Secretary of State, 10
+prevent P from disembarking in the United Kingdom or before the
+directions for P’s removal have been fulfilled, and
+(b) may for that purpose detain P in custody on board the ship, aircraft,
+train or vehicle.
+(13) A person is deemed to be in legal custody at any time when the person is 15
+detained under subsection (12)(b).
+(14) Paragraph 17A of Schedule 2 to the Immigration Act 1971 (period of detention)
+applies in relation to detention under subsection (12)(b) on board a ship,
+20
+aircraft, train or vehicle as it applies in relation to detention on board a ship
+or aircraft under paragraph 16(4) of that Schedule.
+(15) In this section a reference to an “owner” of a ship, aircraft, train or vehicle
+includes a reference to any person who jointly owns it.
+(16) Where—
+(a) P is to be removed to a country or territory, and
+(b) only part of that country or territory is listed in Schedule 1, 25
+references in this section to the country or territory are to that part.
+(17) In this Act “immigration officer” means a person appointed by the Secretary
+of State as an immigration officer under paragraph 1 of Schedule 2 to the
+Immigration Act 1971.
+8 Support where asylum claim inadmissible 30
+(1) The Immigration and Asylum Act 1999 is amended in accordance with
+subsections (2) and (3).
+(2) If paragraph 1 of Schedule 11 to the Immigration Act 2016, which repeals
+35
+section 4 of the Immigration and Asylum Act 1999, is not yet in force on the
+day this section comes into force, in subsection (2)(b) of that section, after
+“the Nationality, Immigration and Asylum Act 2002” insert “and section 4 of
+the Illegal Migration Act 2023”.
+(3) In section 94 (interpretation of Part 6: support for asylum-seekers etc)—
+(a)
+40
+in subsection (4A), after “the Nationality, Immigration and Asylum
+Act 2002” insert “or section 4 of the Illegal Migration Act 2023”,
+Illegal Migration Bill 11 
+(b) in subsection (4B), for “of that Act” substitute “of the Nationality,
+Immigration and Asylum Act 2002”, and
+(c) in subsection (4C), for “of that Act” substitute “of the Nationality,
+5
+Immigration and Asylum Act 2002 or under section 4 of the Illegal
+Migration Act 2023”.
+(4) The Nationality, Immigration and Asylum Act 2002 is amended as follows.
+(5) In section 18(1ZA) (asylum seeker: definition), after “section 80A or 80B”
+insert “of this Act or section 4 of the Illegal Migration Act 2023”.
+(6)
+10
+In section 21 (sections 17 to 20: supplementary), in subsection (3)(a), after
+“section 80A or 80B” insert “of this Act or section 4 of the Illegal Migration
+Act 2023”.
+(7) In paragraph 17(2A) of Schedule 3 (withholding and withdrawal of support:
+interpretation), after “section 80A or 80B” insert “of this Act or section 4 of
+the Illegal Migration Act 2023”.
+9 Other consequential amendments relating to removal 15
+(1) The Immigration Act 1971 is amended in accordance with subsections (2) and
+(3).
+(2) In section 27(1) (offences by persons connected with ships or aircraft)—
+(a) after paragraph (a) insert—
+“(aa) if, being the captain of a ship or aircraft, the train 20
+manager of a train or the driver of a vehicle, the person
+knowingly permits a person to disembark in the United
+Kingdom when required under section 7(12)(a) of the
+Illegal Migration Act 2023 to prevent it;”, and
+(b) after paragraph (b) insert— 25
+“(ba) if, as owner or agent of a ship, aircraft, train or vehicle,
+the person fails, without reasonable excuse, to make
+arrangements for or in connection with the removal of
+30
+a person from the United Kingdom when required to
+do so by directions given under section 7(8) or (9) of
+the Illegal Migration Act 2023;”.
+(3) In Schedule 2 (administrative provisions as to control on entry etc), after
+paragraph 11 insert—
+“11A Paragraphs 8 to 10 do not apply to a person if—
+(a) the Secretary of State is required by section 2(1) of the Illegal 35
+Migration Act 2023 to make arrangements for the removal
+of the person from the United Kingdom, or
+(b) the Secretary of State may make arrangements for the
+40
+removal of the person from the United Kingdom under
+section 3(2) of that Act,
+but see section 7 of that Act.”
+12 Illegal Migration Bill 
+(4) The Immigration and Asylum Act 1999 is amended in accordance with
+subsections (5) and (6).
+(5) In section 10 (removal of persons unlawfully in the United Kingdom), after
+subsection (11) insert—
+“(12) This section does not apply to a person if— 5
+(a) the Secretary of State is required by section 2(1) of the Illegal
+Migration Act 2023 to make arrangements for the removal of
+the person from the United Kingdom, or
+(b)
+10
+the Secretary of State may make arrangements for the removal
+of the person from the United Kingdom under section 3(2) of
+that Act,
+but see section 7 of that Act.”
+(6) In section 156(1)(b) (arrangements for the provision of escorts and custody),
+for “or this Act” substitute “, this Act or the Illegal Migration Act 2023”.
+(7) In section 80A of the Nationality, Immigration and Asylum Act 2002 (claims 15
+by nationals of listed safe States), after subsection (5) insert—
+“(5A) This section does not apply to a person who meets the four conditions
+in section 2 of the Illegal Migration Act 2023 (duty to make
+arrangements for removal).”
+(8) In Schedule 3 to the Asylum and Immigration (Treatment of Claimants, etc) 20
+Act 2004 (removal of asylum seeker to safe country)—
+(a) in paragraph 3, after sub-paragraph (2) insert—
+“(3) This paragraph does not apply for the purposes of
+25
+determining whether a person who has made an asylum
+claim or a human rights claim may be removed from the
+United Kingdom to a State of which the person is not a
+national or citizen if—
+(a) the Secretary of State is required by section 2(1) of
+30
+the Illegal Migration Act 2023 to make arrangements
+for the removal of the person from the United
+Kingdom, or
+(b) the Secretary of State may make arrangements for
+the removal of the person from the United Kingdom
+under section 3(2) of that Act,
+but see section 5 of that Act.”; 35
+(b) in paragraph 8, after sub-paragraph (2) insert—
+“(3) This paragraph does not apply for the purposes of
+determining whether a person who has made an asylum
+40
+claim may be removed from the United Kingdom to a State
+of which the person is not a national or citizen if—
+(a) the Secretary of State is required by section 2(1) of
+the Illegal Migration Act 2023 to make arrangements
+for the removal of the person from the United
+Kingdom, or
+Illegal Migration Bill 13 
+(b) the Secretary of State may make arrangements for
+the removal of the person from the United Kingdom
+under section 3(2) of that Act,
+but see section 5 of that Act.”;
+(c) in paragraph 13, after sub-paragraph (2) insert— 5
+“(3) This paragraph does not apply for the purposes of
+determining whether a person who has made an asylum
+claim may be removed from the United Kingdom to a State
+of which the person is not a national or citizen if—
+(a) the Secretary of State is required by section 2(1) of 10
+the Illegal Migration Act 2023 to make arrangements
+for the removal of the person from the United
+Kingdom, or
+(b)
+15
+the Secretary of State may make arrangements for
+the removal of the person from the United Kingdom
+under section 3(2) of that Act,
+but see section 5 of that Act.”
+Detention, bail etc
+10 Powers of detention
+(1) Schedule 2 to the Immigration Act 1971 (administrative provisions as to control 20
+on entry etc) is amended in accordance with subsections (2) and (3).
+(2) After paragraph 16(2B), insert—
+“(2C) A person may be detained under the authority of an immigration
+officer—
+(a) if the immigration officer suspects that the person meets the 25
+four conditions in section 2 of the Illegal Migration Act 2023
+(conditions relating to removal from the United Kingdom),
+pending a decision as to whether the conditions are met;
+(b)
+30
+if the immigration officer suspects that the Secretary of State
+has a duty to make arrangements for the removal of the
+person from the United Kingdom under that section, pending
+a decision as to whether the duty applies;
+(c) if the Secretary of State has such a duty, pending the person’s
+35
+removal from the United Kingdom in accordance with that
+section;
+(d) if the person meets those four conditions but the Secretary
+of State does not have such a duty by virtue of subsection
+(1) of section 3 of that Act—
+(i)
+40
+pending a decision to give limited leave to enter or
+remain under the immigration rules to the person for
+the purposes of that subsection,
+(ii) pending a decision to give leave under section 8AA
+of the Immigration Act 1971 (discretionary leave for
+persons generally ineligible for leave etc),
+14 Illegal Migration Bill 
+(iii) pending a decision to give leave under section 65(2)
+of the Nationality and Borders Act 2022 (leave to
+remain for victims of slavery or human trafficking),
+or
+(iv) pending a decision to remove the person under 5
+subsection (2) of section 3 of the Illegal Migration
+Act 2023 (power to remove unaccompanied children),
+and pending their removal in accordance with that
+subsection.
+(2D) The powers in sub-paragraph (2C) may be exercised in respect of 10
+an unaccompanied child only in the circumstances specified in
+regulations made by the Secretary of State.
+(2E) The Secretary of State may, by regulations, specify time limits that
+15
+apply in relation to the detention of an unaccompanied child under
+sub-paragraph (2C)(d)(iv) (detention of unaccompanied child in
+relation to removal).
+(2F) Regulations under sub-paragraph (2D) may confer a discretion on
+the Secretary of State or an immigration officer.
+(2G) Regulations under sub-paragraph (2D) or (2E)—
+(a) may make different provision for different purposes; 20
+(b) may make consequential, supplementary, incidental,
+transitional or saving provision;
+(c) must be made by statutory instrument.
+(2H)
+25
+A person who may be detained under sub-paragraph (2C) may no
+longer be detained under sub-paragraph (1), (1A), (1B), (2), (3) or
+(4).
+(2I) A person (of any age) detained under sub-paragraph (2C) may be
+detained in any place that the Secretary of State considers
+appropriate.
+(2J) A statutory instrument containing regulations under sub-paragraph 30
+(2D) or (2E) is subject to annulment in pursuance of a resolution of
+either House of Parliament.
+(2K) In sub-paragraphs (2D) and (2E), “unaccompanied child” has the
+35
+same meaning as in the Illegal Migration Act 2023 (see section 3 of
+that Act).”
+(3) In the italic heading before paragraph 16, at the end insert “, or for the
+purposes of the Illegal Migration Act 2023”.
+(4) In section 147 of the Immigration and Asylum Act 1999 (interpretation of Part
+8 of that Act), in the definition of “pre-departure accommodation”—
+(a) in the words before paragraph (a), omit “for a period of”; 40
+(b) at the beginning of paragraph (a), insert “for a period of”;
+(c) omit the “or” at the end of paragraph (a);
+(d) at the beginning of paragraph (b), insert “for a period of”;
+Illegal Migration Bill 15 
+(e) at the end of paragraph (b), insert “, or
+(c) for any period, where the detention is under—
+(i) paragraph 16(2C) of Schedule 2 to the
+5
+Immigration Act 1971 (detention under authority
+of immigration officer for the purposes of the
+Illegal Migration Act 2023), or
+(ii) section 62(2A) of the Nationality, Immigration
+and Asylum Act 2002 (detention under authority
+10
+of Secretary of State for the purposes of the
+Illegal Migration Act 2023);”.
+(5) Section 62 of the Nationality, Immigration and Asylum Act 2002 (detention
+by Secretary of State) is amended in accordance with subsections (6) to (10).
+(6) After subsection (2), insert—
+“(2A)
+15
+A person may be detained under the authority of the Secretary of
+State—
+(a) if the Secretary of State suspects that the person meets the four
+conditions in section 2 of the Illegal Migration Act 2023
+(conditions relating to removal from the United Kingdom),
+pending a decision as to whether the conditions are met;
+(b) if the Secretary of State suspects that the Secretary of State has 20
+a duty to make arrangements for the removal of the person
+from the United Kingdom under that section, pending a
+decision as to whether the duty applies;
+(c)
+25
+if the Secretary of State has such a duty, pending the person’s
+removal from the United Kingdom in accordance with that
+section;
+(d) if the person meets those four conditions but the Secretary of
+State does not have such a duty by virtue of subsection (1) of
+section 3 of that Act—
+(i) pending a decision to give limited leave under the 30
+immigration rules to the person for the purposes of that
+subsection,
+(ii) pending a decision to give leave under section 8AA of
+35
+the Immigration Act 1971 (discretionary leave for
+persons generally ineligible for leave etc),
+(iii) pending a decision to give leave under section 65(2) of
+the Nationality and Borders Act 2022 (leave to remain
+for victims of slavery or human trafficking), or
+(iv)
+40
+pending a decision to remove the person under
+subsection (2) of section 3 of the Illegal Migration Act
+2023 (power to remove unaccompanied children), and
+pending their removal in accordance with that
+subsection.
+(2B)
+45
+The powers in subsection (2A) may be exercised in respect of an
+unaccompanied child only in the circumstances specified in regulations
+made by the Secretary of State.
+16 Illegal Migration Bill 
+(2C) The Secretary of State may, by regulations, specify time limits that
+apply to the detention of an unaccompanied child under subsection
+(2A)(d)(iv) (detention of unaccompanied child in relation to removal).
+(2D)
+5
+Regulations under subsection (2B) may confer a discretion on the
+Secretary of State or an immigration officer.
+(2E) Regulations under subsection (2B) or (2C)—
+(a) may make different provision for different purposes;
+(b) may make consequential, supplementary, incidental, transitional
+or saving provision;
+(c) must be made by statutory instrument. 10
+(2F) A person who may be detained under subsection (2A) may no longer
+be detained under subsection (1) or (2).
+(2G) A person (of any age) detained under subsection (2A) may be detained
+in any place that the Secretary of State considers appropriate.
+(2H) A statutory instrument containing regulations under subsection (2B) 15
+or (2C) is subject to annulment in pursuance of a resolution of either
+House of Parliament.
+(2I) In subsections (2B) and (2C), “unaccompanied child” has the same
+20
+meaning as in the Illegal Migration Act 2023 (see section 3 of that
+Act).”
+(7) In subsection (3), in the opening words, for “that Act” substitute “the
+Immigration Act 1971”.
+(8) After subsection (3) insert—
+“(3A)
+25
+But a provision of Schedule 2 to the Immigration Act 1971 which is
+expressed to relate only to a person who is detained or liable to
+detention under sub-paragraph (2) of paragraph 16 of that Schedule
+does not apply to a person who is detained or liable to detention
+under subsection (2A) of this section.”
+(9) In subsection (7), for “this section” substitute “subsection (1) or (2)”.
+(10) In subsection (7A), for “this section” substitute “subsection (1) or (2)”. 30
+(11) In section 60(8) of Immigration Act 2016 (limitation on detention of pregnant
+women), in paragraph (c) of the definition of “relevant detention power”,
+after “section 62” insert “(1) or (2)”.
+11 Period for which persons may be detained
+(1) In Schedule 2 to the Immigration Act 1971 (administrative provisions as to 35
+control on entry etc.)—
+(a) in paragraph 16 (powers to detain), after sub-paragraph (4) insert—
+“(5) See paragraph 17A for provision about the period for which
+persons may be detained under this paragraph.”;
+Illegal Migration Bill 17 
+(b) after paragraph 17 insert—
+“17A (1) A person liable to be detained under paragraph 16 may be
+detained for such period as, in the opinion of the Secretary
+5
+of State, is reasonably necessary to enable the examination
+or removal to be carried out, the decision to be made, or the
+directions to be given.
+(2) Sub-paragraphs (1) to (2), (2C), (3) and (4) of paragraph 16
+apply regardless of whether there is anything that for the
+10
+time being prevents the examination or removal from being
+carried out, the decision from being made, or the directions
+from being given.
+(3) Sub-paragraphs (1) and (2) are subject to—
+(a) paragraph 16(1B) (power to detain for examination
+for period not exceeding 12 hours);
+(b) paragraph 16(2A) and paragraph 18B (limitation on 15
+detention of unaccompanied children);
+(c) paragraph 16(2B) and section 60 of the Immigration
+Act 2016 (limitation on detention of pregnant women).
+(4)
+20
+Sub-paragraph (5) applies if, while a person is detained
+under paragraph 16, the Secretary of State no longer
+considers that the examination or removal will be carried
+out, the decision will be made, or the directions will be given
+within a reasonable period of time.
+(5)
+25
+The person may be detained under paragraph 16 for such
+further period as, in the opinion of the Secretary of State, is
+reasonably necessary to enable such arrangements to be
+made for the person’s release as the Secretary of State
+considers to be appropriate.
+(6)
+30
+In the application of this paragraph in relation to detention
+under paragraph 16(3), references to “the removal” are to—
+(a) the removal of the person from the ship or aircraft
+on which the person is detained so that the person
+may be detained under paragraph 16, or
+(b)
+35
+the removal of the person from the United Kingdom
+in that ship or aircraft.
+(7) In the application of this paragraph in relation to detention
+under paragraph 16(4), references to “the removal” are to
+the removal of the person from the United Kingdom in the
+ship or aircraft on which the person is detained.”
+(2) In paragraph 2 of Schedule 3 to the Immigration Act 1971 (detention or control 40
+pending deportation)—
+(a) after sub-paragraph (3) insert—
+“(3A) A person liable to be detained under sub-paragraph (1), (2) or
+(3) may be detained for such period as, in the opinion of the
+18 Illegal Migration Bill 
+Secretary of State, is reasonably necessary to enable the
+deportation order to be made, or the removal to be carried out.
+(3B) Sub-paragraphs (1) to (3) apply regardless of whether there is
+5
+anything that for the time being prevents the deportation order
+from being made or the removal from being carried out.
+(3C) Sub-paragraphs (3A) and (3B) are subject to sub-paragraph
+(4ZA) and section 60 of the Immigration Act 2016 (limitation
+on detention of pregnant women).
+(3D)
+10
+Sub-paragraph (3E) applies if, while a person is detained under
+sub-paragraph (1), (2) or (3), the Secretary of State no longer
+considers that the deportation order will be made or the
+removal will be carried out within a reasonable period of time.
+(3E) The person may be detained under that sub-paragraph for such
+15
+further period as, in the opinion of the Secretary of State, is
+reasonably necessary to enable such arrangements to be made
+for the person’s release as the Secretary of State considers to
+be appropriate.”;
+(b) in sub-paragraph (4), for “17 to 18A” substitute “17, 18, 18A”.
+(3)
+20
+In section 10(9) of the Immigration and Asylum Act 1999 (application of
+Schedule 2 to the Immigration Act 1971 in relation to persons unlawfully in
+the United Kingdom)—
+(a) in paragraph (b), for “16(2) to (4)” substitute “16(2) to (2B), (3) and
+(4)”;
+(b) after paragraph (c) insert—
+“(ca) paragraph 17A (period for which persons may be 25
+detained);”.
+(4) In section 62 of the Nationality, Immigration and Asylum Act 2002 (detention
+by Secretary of State)—
+(a) after subsection (2I) (inserted by section 10(6)), insert—
+“(2J) A person liable to be detained under this section may be 30
+detained for such period as, in the opinion of the Secretary of
+State, is reasonably necessary to enable the decision to be made,
+the removal or examination to be carried out, or the directions
+to be given.
+(2K) Subsections (1) to (2A) apply regardless of whether there is 35
+anything that for the time being prevents the decision from
+being made, the removal or examination from being carried
+out, or the directions from being given.
+(2L) Subsections (2J) and (2K) are subject to—
+(a) paragraph 18B of Schedule 2 to the Immigration Act 40
+1971 (limitation on detention of unaccompanied
+children), as applied by subsection (3);
+Illegal Migration Bill 19 
+(b) subsection (7A) and section 60 of the Immigration Act
+2016 (limitation on detention of pregnant women).
+(2M) Subsection (2N) applies if, while a person is detained under
+5
+this section, the Secretary of State no longer considers that the
+decision will be made, the removal or examination will be
+carried out, or the directions will be given within a reasonable
+period of time.
+(2N) The person may be detained under this section for such further
+10
+period as, in the opinion of the Secretary of State, is reasonably
+necessary to enable such arrangements to be made for the
+person’s release as the Secretary of State considers to be
+appropriate.”;
+(b) in subsection (3), in the opening words, after “under that Schedule”
+insert “, other than paragraph 17A,”.
+(5) In section 36 of the UK Borders Act 2007 (detention relating to deportation), 15
+after subsection (1) insert—
+“(1A) A person liable to be detained under subsection (1) may be detained
+for such period as, in the opinion of the Secretary of State, is reasonably
+20
+necessary to enable the decision as to whether section 32(5) applies,
+or the deportation order, to be made.
+(1B) Subsection (1) applies regardless of whether there is anything that for
+the time being prevents the decision or the deportation order from
+being made.
+(1C)
+25
+Subsections (1A) and (1B) are subject to subsection (2A) and section
+60 of the Immigration Act 2016 (limitation on detention of pregnant
+women).
+(1D) Subsection (1E) applies if, while a person is detained under subsection
+(1), the Secretary of State no longer considers that the decision or the
+deportation order will be made within a reasonable period of time.
+(1E) The person may be detained under subsection (1) for such further 30
+period as, in the opinion of the Secretary of State, is reasonably
+necessary to enable such arrangements to be made for the person’s
+release as the Secretary of State considers to be appropriate.”
+(6)
+35
+In regulation 32 of the Immigration (European Economic Area) Regulations
+2016 (S.I. 2016/1052) as it continues to have effect following its revocation
+(person subject to removal), for paragraph (1) substitute—
+“(1) If there are reasonable grounds for suspecting that a person is someone
+who may be removed from the United Kingdom under regulation
+40
+23(6)(b), that person may be detained under the authority of the
+Secretary of State pending a decision whether or not to remove the
+person under that regulation.
+20 Illegal Migration Bill 
+(2) A person liable to be detained under paragraph (1) may be detained
+for such period as, in the opinion of the Secretary of State, is reasonably
+necessary to enable the decision to be made.
+(3)
+5
+Paragraph (1) applies regardless of whether there is anything that for
+the time being prevents the decision from being made.
+(4) Paragraph (5) applies if, while a person is detained under paragraph
+(1), the Secretary of State no longer considers that the decision will be
+made within a reasonable period of time.
+(5)
+10
+The person may be detained under paragraph (1) for such further
+period as, in the opinion of the Secretary of State, is reasonably
+necessary to enable such arrangements to be made for the person’s
+release as the Secretary of State considers to be appropriate.
+(6) Paragraphs 17, 18 and 18A of Schedule 2 to the 1971 Act apply in
+15
+relation to detention under paragraph (1) as they apply in relation to
+detention under paragraph 16 of that Schedule.”
+12 Powers to grant immigration bail
+(1) Schedule 10 to the Immigration Act 2016 (immigration bail) is amended in
+accordance with subsections (2) to (4).
+(2) In paragraph 1 (power to grant immigration bail)—
+(a) in sub-paragraph (1)(a), for “or (2)” substitute “, (2) or (2C)”, 20
+(b) in sub-paragraph (3)(a), for “or (2)” substitute “, (2) or (2C)”, and
+(c) in sub-paragraph (9), after “bail)” insert “and paragraph 3A (legal
+proceedings)”.
+(3) In paragraph 3 (exercise of power to grant immigration bail)—
+(a) in sub-paragraph (2), after paragraph (e) insert— 25
+“(eza) whether the Secretary of State has a duty to make
+arrangements for the removal of the person from the
+United Kingdom under section 2(1) of the Illegal
+Migration Act 2023,”;
+(b) after sub-paragraph (3) insert— 30
+“(3A) A person who is being detained under—
+(a) paragraph 16(2C) of that Schedule, or
+(b) section 62(2A) of the Nationality, Immigration and
+Asylum Act 2002,
+must not be granted immigration bail by the First-tier 35
+Tribunal until after the end of the period of 28 days
+beginning with the date on which the person’s detention
+under that provision began.”
+Illegal Migration Bill 21 
+(4) After paragraph 3 insert—
+“Legal proceedings
+3A (1) This paragraph applies in relation to—
+(a)
+5
+a decision to detain a person under the authority of an
+immigration officer under paragraph 16(2C) of Schedule 2
+to the Immigration Act 1971,
+(b) a decision to detain a person under the authority of the
+Secretary of State under section 62(2A) of the Nationality,
+Immigration and Asylum Act 2002, and
+(c) where a person is being detained under a provision 10
+mentioned in paragraph (a) or (b), a decision of the Secretary
+of State to refuse to grant immigration bail to the person.
+(2) In relation to detention during the relevant period, the decision is
+15
+final and is not liable to be questioned or set aside in any court or
+tribunal.
+(3) In particular—
+(a) the powers of the immigration officer or the Secretary of
+State (as the case may be) are not to be regarded as having
+20
+been exceeded by reason of any error made in reaching the
+decision;
+(b) the supervisory jurisdiction does not extend to, and no
+application or petition for judicial review may be made or
+brought in relation to, the decision.
+(4)
+25
+Sub-paragraphs (2) and (3) do not apply so far as the decision
+involves or gives rise to any question as to whether the immigration
+officer or the Secretary of State is acting or has acted—
+(a) in bad faith, or
+(b) in such a procedurally defective way as amounts to a
+fundamental breach of the principles of natural justice.
+(5) Sub-paragraphs (2) and (3) do not affect any right of a person to— 30
+(a) apply for a writ of habeas corpus, or
+(b) in Scotland, apply to the Court of Session for suspension
+and liberation.
+(6) In this paragraph—
+“decision” includes any purported decision; 35
+“relevant period” means the period of 28 days beginning with
+the date on which the person’s detention under the provision
+mentioned in sub-paragraph (1) began;
+40
+“the supervisory jurisdiction” means the supervisory jurisdiction
+of—
+(a) the High Court, in England and Wales or Northern
+Ireland, or
+(b) the Court of Session, in Scotland.”
+22 Illegal Migration Bill 
+(5) In Schedule 3 to the Special Immigration Appeals Commission Act 1997 (bail:
+modifications of Schedule 10 to the Immigration Act 2016), in paragraph 3(a),
+after “(3),” insert “(3A),”.
+13 Disapplication of duty to consult Independent Family Returns Panel
+In section 54A of the Borders, Citizenship and Immigration Act 2009 5
+(Independent Family Returns Panel), after subsection (3) insert—
+“(3A) The duty under subsection (2)(a) does not apply where the proposed
+removal is for the purposes of section 2 or 3(2) of the Illegal Migration
+Act 2023 (duty or power to make arrangements for removal).
+(3B) The duty under subsection (2)(b) does not apply where the proposed 10
+detention is under—
+(a) paragraph 16(2C) of Schedule 2 to the Immigration Act 1971
+(detention under authority of immigration officer relating to
+removal under the Illegal Migration Act 2023), or
+(b) section 62(2A) of the Nationality, Immigration and Asylum Act 15
+2002 (detention under authority of Secretary of State relating
+to removal under the Illegal Migration Act 2023).”
+14 Electronic devices etc
+Schedule 2 confers—
+(a) powers to search persons liable to be detained under paragraph 16(2C) 20
+of Schedule 2 to the Immigration Act 1971 (illegal migrants), and to
+search vehicles, premises and property, for things on which certain
+information is or may be stored in electronic form;
+(b)
+25
+powers to seize and retain such things, and to access, copy and use
+information stored on those things.
+Unaccompanied children
+15 Accommodation and other support for unaccompanied migrant children
+(1) The Secretary of State may provide, or arrange for the provision of,
+accommodation in England for unaccompanied children in England.
+(2) In this section, “accommodation for unaccompanied migrant children” means 30
+accommodation provided under this section.
+(3) While a child is residing in accommodation for unaccompanied migrant
+children, the Secretary of State may provide, or arrange for the provision of,
+other types of support to the child.
+(4) Subsections (1) to (3) are to be treated as having had effect at all times on or 35
+after 7 March 2023.
+Illegal Migration Bill 23 
+16 Transfer of children from Secretary of State to local authority and vice versa
+(1) The Secretary of State may decide that a child is to cease residing in
+accommodation for unaccompanied migrant children on a certain date (the
+transfer date).
+(2) On making that decision, the Secretary of State must direct a local authority 5
+in England to provide accommodation to the child, under section 20 of the
+Children Act 1989, from the transfer date.
+(3) The transfer date must be a date falling after the end of the period of five
+10
+working days beginning with the day on which the local authority was given
+the direction.
+(4) The Secretary of State may decide that an unaccompanied child who is being
+provided with accommodation by a local authority in England is to cease
+being provided with that accommodation on a certain date (the transfer date).
+(5)
+15
+On making that decision, the Secretary of State must direct the local authority
+to cease providing the child with accommodation from the transfer date.
+(6) The transfer date must be a date falling after the end of the period of five
+working days beginning with the day on which the local authority was given
+the direction.
+(7)
+20
+When a local authority ceases providing a child with accommodation in
+compliance with a direction under subsection (5), the Secretary of State must
+arrange for the child to reside in accommodation for unaccompanied migrant
+children from the transfer date.
+(8) In this section and sections 17 and 18—
+25
+“accommodation for unaccompanied migrant children” has the same
+meaning as in section 15;
+“local authority” has the same meaning as in the Children Act 1989 (see
+section 105(1) of that Act);
+“working day” means any day which is not Saturday, Sunday, Christmas
+30
+Day, Good Friday or a day which is a bank holiday in England and
+Wales under the Banking and Financial Dealings Act 1971.
+17 Duty of local authority to provide information to the Secretary of State
+(1) The Secretary of State may direct a local authority to provide information to
+the Secretary of State for the purposes of helping the Secretary of State to
+35
+make a decision under section 16(1) or (4) (decision to transfer unaccompanied
+migrant child from Secretary of State to local authority or vice versa).
+(2) The information that the Secretary of State may direct a local authority to
+provide is—
+(a) information about the accommodation and support provided to
+children by the local authority;
+(b) such other information as may be specified in regulations made by 40
+the Secretary of State.
+24 Illegal Migration Bill 
+(3) A local authority which is directed to provide information under this section
+must provide it—
+(a) in such form and manner as the Secretary of State may direct, and
+(b)
+5
+before such time or before the end of such period as the Secretary of
+State may direct.
+18 Enforcement of local authorities’ duties under sections 16 and 17
+(1) If the Secretary of State is satisfied that a local authority has failed, without
+reasonable excuse, to comply with a direction under section 16 or a duty
+10
+under section 17, the Secretary of State may make an order declaring that
+authority to be in default with respect to that direction or duty.
+(2) An order under subsection (1) must give the Secretary of State’s reasons for
+making it.
+(3) An order under subsection (1) may contain such directions for the purpose
+15
+of ensuring that the direction or duty is complied with, within such period
+as may be specified in the order, as appears to the Secretary of State to be
+necessary.
+(4) Any such direction may be enforced on an application made on behalf of the
+Secretary of State, by a mandatory order.
+19 Extension to Wales, Scotland and Northern Ireland
+(1) The Secretary of State may make regulations enabling sections 15 to 18 to 20
+apply in relation to Wales, Scotland or Northern Ireland.
+(2) The regulations may amend, repeal or revoke any enactment (including an
+enactment contained in this Act).
+(3) The regulations may not confer functions on—
+(a) the Welsh Ministers, 25
+(b) the Scottish Ministers,
+(c) the First Minister and deputy First Minister in Northern Ireland,
+(d) a Northern Ireland Minister, or
+(e) a Northern Ireland department.
+(4) In this section, “enactment” includes— 30
+(a) an enactment contained in subordinate legislation within the meaning
+of the Interpretation Act 1978;
+(b) an enactment contained in, or in an instrument made under, an Act
+or Measure of Senedd Cymru;
+(c) an enactment contained in, or in an instrument made under, an Act 35
+of the Scottish Parliament;
+(d) an enactment contained in, or in an instrument made under, Northern
+Ireland legislation.
+Illegal Migration Bill 25 
+20 Transfer of children between local authorities
+(1) Section 69 of the Immigration Act 2016 (transfer of responsibility for relevant
+children) is amended as follows.
+(2) In subsection (9) (definition of “relevant child”)—
+(a) omit the “or” at the end of paragraph (b), and 5
+(b) after paragraph (c) insert “, or
+(d) an unaccompanied child, within the meaning of the
+Illegal Migration Act 2023 (see section 3(5) of that Act).”
+(3) In subsection (10), at the end insert “(a) to (c)”.
+Modern slavery 10
+21 Provisions relating to removal and leave
+(1) Subsection (2) (disapplication of modern slavery provisions) applies in relation
+to a person if—
+(a)
+15
+the Secretary of State is required by section 2(1) to make arrangements
+for the removal of the person from the United Kingdom, and
+(b) a decision has been made by a competent authority that there are
+reasonable grounds to believe that the person is a victim of slavery
+or human trafficking (a “positive reasonable grounds decision”).
+This is subject to subsections (3) to (7).
+(2) Where this subsection applies in relation to a person— 20
+(a) any prohibition arising under section 61 or 62 of the Nationality and
+Borders Act 2022 (recovery period) on removing the person from, or
+requiring them to leave, the United Kingdom does not apply in relation
+to the person, and
+(b) any requirement under section 65 of that Act (leave to remain) to grant 25
+the person limited leave to remain in the United Kingdom does not
+apply in relation to the person.
+(3) Subsection (2) does not apply in relation to a person if—
+(a)
+30
+the Secretary of State is satisfied that the person is cooperating with
+a public authority in connection with an investigation or criminal
+proceedings in respect of the relevant exploitation,
+(b) the Secretary of State considers that it is necessary for the person to
+be present in the United Kingdom to provide that cooperation, and
+(c)
+35
+the Secretary of State does not consider that the public interest in the
+person providing that cooperation is outweighed by any significant
+risk of serious harm to members of the public which is posed by the
+person.
+(4) In subsection (3)—
+(a)
+40
+the reference to a person cooperating with a public authority in
+connection with an investigation or criminal proceedings is to the
+26 Illegal Migration Bill 
+person doing so to the extent that is reasonable having regard to the
+person’s circumstances, and
+(b) “the relevant exploitation” means—
+(i)
+5
+the conduct or alleged conduct resulting in the positive
+reasonable grounds decision, and
+(ii) where a positive conclusive grounds decision has also been
+made in relation to the person, any other conduct resulting in
+that decision.
+(5)
+10
+The Secretary of State must assume for the purposes of subsection (3)(b) that
+it is not necessary for the person to be present in the United Kingdom to
+provide the cooperation in question unless the Secretary of State considers
+that there are compelling circumstances which require the person to be present
+in the United Kingdom for that purpose.
+(6)
+15
+In determining whether there are compelling circumstances as mentioned in
+subsection (5), the Secretary of State must have regard to guidance issued by
+the Secretary of State.
+(7) Subsection (2) does not apply in relation to a person (“A”) if subsection (3)
+applies in relation to a person (“P”) and—
+(a)
+20
+A is P’s child, or a child living in the same household as P in
+circumstances where P has care of A, or
+(b) in a case where P is a child—
+(i) A is P’s parent, or
+(ii) A lives in the same household as P and has sole responsibility
+for P.
+(8) Subsection (9) applies to a person if— 25
+(a) the Secretary of State is not required by section 2(1) to make
+arrangements for the removal of the person from the United Kingdom,
+(b) the only reason why the Secretary of State is not required to do so is
+30
+that the person has limited leave to remain in the United Kingdom
+granted under section 65(2) of the Nationality and Borders Act 2022,
+(c) that leave was granted on or after 7 March 2023, and
+(d) subsection (3) or (7) does not apply in relation to the person.
+(9) The Secretary of State may revoke the leave granted to the person under
+section 65(2) of the Nationality and Borders Act 2022.
+(10) Subsection (9) is to be treated for the purposes of section 3 of the Immigration 35
+Act 1971 as if it were provision made by that Act.
+(11) In this section—
+“child” means a person who is under the age of 18;
+40
+“competent authority” means a person who is a competent authority of
+the United Kingdom for the purposes of the Trafficking Convention;
+“positive conclusive grounds decision” means a decision made by a
+competent authority that a person is a victim of slavery or human
+trafficking;
+Illegal Migration Bill 27 
+“public authority” means a public authority within the meaning of section
+6 of the Human Rights Act 1998;
+“the Trafficking Convention” means the Council of Europe Convention
+5
+on Action against Trafficking in Human Beings (done at Warsaw on
+16 May 2005);
+“victim of slavery” and “victim of human trafficking” have the meanings
+given in regulations made by the Secretary of State under section 69
+of the Nationality and Borders Act 2022.
+22 Provisions relating to support: England and Wales
+(1) Subsection (2) applies in relation to a person if— 10
+(a) the Secretary of State is required by section 2(1) to make arrangements
+for the removal of the person from the United Kingdom,
+(b) a positive reasonable grounds decision has been made in relation to
+the person, and
+(c) section 21(3) (cooperation with public authority) does not apply in 15
+relation to the person.
+(2) Any duty under section 50A of the Modern Slavery Act 2015 (assistance and
+support) to secure that any necessary assistance and support is available to
+the person does not apply in relation to the person.
+(3) In this section “positive reasonable grounds decision” has the same meaning 20
+as in section 21.
+23 Provisions relating to support: Scotland
+(1) Subsection (2) applies in relation to a person if—
+(a)
+25
+the Secretary of State is required by section 2(1) to make arrangements
+for the removal of the person from the United Kingdom, and
+(b) a competent authority has determined that there are reasonable
+grounds to believe that the person is a victim of slavery or human
+trafficking or is determining whether or not that is the case.
+This is subject to subsections (3) to (5).
+(2) Where this subsection applies in relation to a person, the following do not 30
+apply in relation to the person—
+(a) any duty of the Scottish Ministers under section 9(1) of the Human
+Trafficking and Exploitation (Scotland) Act 2015 (asp 12) (human
+35
+trafficking: support and assistance) to secure the provision of support
+and assistance for the person;
+(b) any power of the Scottish Ministers under section 9(3) of that Act to
+secure the provision of support and assistance for the person;
+(c) any duty or power of the Scottish Ministers under regulations under
+40
+section 10(1) of that Act (slavery etc: support and assistance) relating
+to the provision of support or assistance to the person.
+(3) Subsection (2) does not apply in relation to a person if—
+28 Illegal Migration Bill 
+(a) the Secretary of State is satisfied that the person is cooperating with
+a public authority in connection with an investigation or criminal
+proceedings in respect of the relevant exploitation,
+(b)
+5
+the Secretary of State considers that it is necessary for the person to
+be present in the United Kingdom to provide that cooperation, and
+(c) the Secretary of State does not consider that the public interest in the
+person providing that cooperation is outweighed by any significant
+risk of serious harm to members of the public which is posed by the
+person.
+(4) In subsection (3)— 10
+(a) the reference to a person cooperating with a public authority in
+connection with an investigation or criminal proceedings is to the
+person doing so to the extent that is reasonable having regard to the
+person’s circumstances, and
+(b) “the relevant exploitation” means— 15
+(i) the conduct or alleged conduct on the basis of which a
+competent authority has made or is making the determination
+mentioned in subsection (1)(b), and
+(ii)
+20
+where a conclusive determination has been made that the
+person is a victim of slavery or human trafficking, any other
+conduct resulting in that decision.
+(5) The Secretary of State must assume for the purposes of subsection (3)(b) that
+it is not necessary for the person to be present in the United Kingdom to
+25
+provide the cooperation in question unless the Secretary of State considers
+that there are compelling circumstances which require the person to be present
+in the United Kingdom for that purpose.
+(6) In determining whether there are compelling circumstances as mentioned in
+subsection (5), the Secretary of State must have regard to guidance issued by
+the Secretary of State.
+(7) For the purposes of this section— 30
+(a) a person is a victim of slavery if they are a victim of an offence under
+section 4 of the Human Trafficking and Exploitation (Scotland) Act
+2015;
+(b)
+35
+there is a conclusive determination that a person is a victim of slavery
+when a competent authority concludes that the person is such a victim;
+(c) a person is a victim of human trafficking if they are a victim of an
+offence under section 1 of the Human Trafficking and Exploitation
+(Scotland) Act 2015;
+(d)
+40
+there is a conclusive determination that a person is a victim of human
+trafficking when, on completion of the identification process required
+by Article 10 of the Trafficking Convention, a competent authority
+concludes that the person is such a victim.
+(8) In this section the following expressions have the same meaning as in section
+21—
+“competent authority”; 45
+Illegal Migration Bill 29 
+“public authority”;
+“the Trafficking Convention”.
+(9) The Secretary of State may by regulations amend this section in consequence
+of regulations made by the Scottish Ministers under—
+(a) section 9(8) of the Human Trafficking and Exploitation (Scotland) Act 5
+2015 (power to modify section 9), or
+(b) section 10(1) of that Act (slavery etc: support and assistance).
+24 Provisions relating to support: Northern Ireland
+(1) Subsection (2) applies in relation to a person if—
+(a) the Secretary of State is required by section 2(1) to make arrangements 10
+for the removal of the person from the United Kingdom, and
+(b) a reference relating to the person has been, or is about to be, made to
+a competent authority for a determination whether there are reasonable
+15
+grounds to believe that the person is a victim of slavery or trafficking
+in human beings.
+This is subject to subsections (3) to (5).
+(2) Where this subsection applies in relation to a person, the following do not
+apply in relation to the person—
+(a)
+20
+any duty of the Department of Justice in Northern Ireland under
+section 18 of the Human Trafficking and Exploitation (Criminal Justice
+and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.))
+(human trafficking and slavery etc: assistance and support) to ensure
+the provision of assistance and support to the person;
+(b)
+25
+any power under section 18(8) of that Act to continue the provision
+of assistance and support to the person;
+(c) any power of the Department of Justice in Northern Ireland under
+section 18(9) of that Act to ensure the provision of assistance and
+support to the person.
+(3) Subsection (2) does not apply in relation to a person if—
+(a) the Secretary of State is satisfied that the person is cooperating with 30
+a public authority in connection with an investigation or criminal
+proceedings in respect of the relevant exploitation,
+(b) the Secretary of State considers that it is necessary for the person to
+be present in the United Kingdom to provide that cooperation, and
+(c) the Secretary of State does not consider that the public interest in the 35
+person providing that cooperation is outweighed by any significant
+risk of serious harm to members of the public which is posed by the
+person.
+(4) In subsection (3)—
+(a) the reference to a person cooperating with a public authority in 40
+connection with an investigation or criminal proceedings is to the
+person doing so to the extent that is reasonable having regard to the
+person’s circumstances, and
+(b) “the relevant exploitation” means—
+30 Illegal Migration Bill 
+(i) the conduct or alleged conduct on the basis of which the
+reference mentioned in subsection (1)(b) has been, or is about
+to be, made, and
+(ii)
+5
+where a conclusive determination has been made that the
+person is a victim of slavery or trafficking in human beings,
+any other conduct resulting in that decision.
+(5) The Secretary of State must assume for the purposes of subsection (3)(b) that
+it is not necessary for the person to be present in the United Kingdom to
+10
+provide the cooperation in question unless the Secretary of State considers
+that there are compelling circumstances which require the person to be present
+in the United Kingdom for that purpose.
+(6) In determining whether there are compelling circumstances as mentioned in
+subsection (5), the Secretary of State must have regard to guidance issued by
+the Secretary of State.
+(7) For the purposes of this section— 15
+(a) a person is a victim of slavery if they are a victim of—
+(i) slavery or servitude, or
+(ii) forced or compulsory labour,
+20
+within the meaning of Part 3 of the Human Trafficking and
+Exploitation (Criminal Justice and Support for Victims) Act (Northern
+Ireland) 2015 (see section 17(1A) of that Act);
+(b) there is a conclusive determination that a person is a victim of slavery
+when, on completion of an identification process corresponding to one
+25
+required by Article 10 of the Trafficking Convention, a competent
+authority concludes that the person is such a victim;
+(c) “trafficking in human beings” has the same meaning as in Part 3 of
+the Human Trafficking and Exploitation (Criminal Justice and Support
+for Victims) Act (Northern Ireland) 2015 (see section 17(2) of that Act);
+(d)
+30
+there is a conclusive determination that a person is a victim of
+trafficking in human beings when, on completion of the identification
+process required by Article 10 of the Trafficking Convention, a
+competent authority concludes that the person is such a victim.
+(8) In this section the following expressions have the same meaning as in section
+21—
+“competent authority”; 35
+“public authority”;
+“the Trafficking Convention”.
+25 Suspension and revival of sections 21 to 24
+(1)
+40
+The operation of a provision of sections 21 to 24 (a “relevant provision”) is
+suspended at the end of the period of 2 years beginning with the coming into
+force of that provision.
+(2) Subsection (1) does not apply to section 23(9) (power to amend section 23 in
+consequence of regulations made by the Scottish Ministers).
+Illegal Migration Bill 31 
+(3) The Secretary of State may by regulations—
+(a) provide for the operation of a relevant provision to be suspended
+before the time at which its operation would otherwise be suspended;
+(b)
+5
+provide that a relevant provision the operation of which would
+otherwise be suspended is to continue to operate for a period specified
+in the regulations;
+(c) where the operation of a relevant provision has been suspended,
+provide that the operation of the provision is to revive for a period
+specified in the regulations.
+(4) A period specified in regulations under subsection (3)(b) must not exceed 12 10
+months from the time at which the operation of the provision would otherwise
+be suspended.
+(5) A period specified in regulations under subsection (3)(c) must not exceed 12
+months.
+(6) A power to make regulations under subsection (3) may be exercised more 15
+than once in relation to the same relevant provision.
+(7) Section 16(1) of the Interpretation Act 1978 applies in relation to the suspension
+of the operation of a relevant provision by or by virtue of this section as if
+the provision had been repealed by an Act.
+(8) The Secretary of State may by regulations make other transitional or saving 20
+provision in connection with the suspension of the operation of a relevant
+provision.
+(9) A reference in this section to a relevant provision the operation of which
+25
+would be, or has been, suspended is to a relevant provision the operation of
+which would be, or has been, suspended—
+(a) by subsection (1),
+(b) by regulations under subsection (3)(a), or
+(c) on the expiry of the period specified in regulations under subsection
+(3)(b) or (c).
+26 Procedure for certain regulations under section 25 30
+(1) A statutory instrument containing (whether alone or with other provision)
+regulations under section 25(3)(c) may not be made unless a draft of the
+instrument has been laid before and approved by a resolution of each House
+of Parliament.
+(2) Subsection (1) does not apply to regulations that contain a statement that the 35
+Secretary of State considers that there is an urgent need to make the
+regulations without the approval required by that subsection.
+(3) A statutory instrument containing regulations that contain such a statement
+must be laid before Parliament after being made.
+(4) Regulations contained in a statutory instrument laid before Parliament under 40
+subsection (3) cease to have effect at the end of the period of 28 days beginning
+32 Illegal Migration Bill 
+with the day on which the instrument is made unless, during that period,
+the instrument is approved by a resolution of each House of Parliament.
+(5) In calculating the period of 28 days, no account is to be taken of any whole
+days that fall within a period during which—
+(a) Parliament is dissolved or prorogued, or 5
+(b) either House of Parliament is adjourned for more than four days.
+(6) If regulations cease to have effect as a result of subsection (4) that does not—
+(a) affect the validity of anything previously done under the regulations,
+or
+(b) prevent the making of new regulations. 10
+27 Amendments relating to sections 21 to 24
+(1) In section 50A of the Modern Slavery Act 2015 (identified potential victims
+of slavery or human trafficking: assistance and support) (as inserted by section
+64 of the Nationality and Borders Act 2022), after subsection (5) insert—
+“(5A) This section is subject to section 22 of the Illegal Migration Act 2023 15
+(provisions relating to support: England and Wales).”
+(2) The Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12) is
+amended in accordance with subsections (3) and (4).
+(3)
+20
+In section 9 (human trafficking: support and assistance), after subsection (9)
+insert—
+“(10) This section is subject to section 23 of the Illegal Migration Act 2023
+(provisions relating to support: Scotland).”
+(4) In section 10 (slavery etc: support and assistance), after subsection (2) insert—
+“(3)
+25
+This section is subject to section 23 of the Illegal Migration Act 2023
+(provisions relating to support: Scotland).”
+(5) In section 18 of the Human Trafficking and Exploitation (Criminal Justice and
+Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.)) (human trafficking
+and slavery etc: assistance and support), after subsection (10) insert—
+“(10A)
+30
+This section is subject to section 24 of the Illegal Migration Act 2023
+(provisions relating to support: Northern Ireland).”
+(6) The Nationality and Borders Act 2022 is amended in accordance with
+subsections (7) to (12).
+(7) In section 61(2) (identified potential victims of slavery or human trafficking:
+35
+recovery period), after “section 63(2)” insert “and section 21 of the Illegal
+Migration Act 2023 (provisions relating to removal and leave)”.
+(8) In section 62(2) (identified potential victims of slavery or human trafficking:
+additional recovery period), after “section 63(2)” insert “and section 21 of the
+Illegal Migration Act 2023 (provisions relating to removal and leave)”.
+Illegal Migration Bill 33 
+(9) In section 63 (identified potential victims of slavery or human trafficking:
+disqualification from protection), after subsection (7) insert—
+“(8) See also section 21 of the Illegal Migration Act 2023 (provisions relating
+to removal and leave).”
+(10) Section 65 (leave to remain for victims of slavery or human trafficking) is 5
+amended in accordance with subsections (11) and (12).
+(11) In subsection (3), after “section 63(2)” insert “and section 21 of the Illegal
+Migration Act 2023 (provisions relating to removal and leave)”.
+(12) After subsection (8) insert—
+“(8A) Section 21 of the Illegal Migration Act 2023 also makes provision about 10
+the revocation of leave granted under subsection (2).”
+28 Disapplication of modern slavery provisions
+(1) Section 63 of the Nationality and Borders Act 2022 (identified potential victims
+15
+of slavery or human trafficking: disqualification from protection) is amended
+as follows.
+(2) In subsection (1)—
+(a) for “may” substitute “must”, and
+(b) after paragraph (b) insert—
+“This is subject to subsection (2A).”
+(3) After subsection (2) insert— 20
+“(2A) A competent authority may not determine that subsection (2) is to
+apply to a person if the competent authority considers that there are
+compelling circumstances which mean that subsection (2) should not
+apply to the person.”
+(4) In subsection (3)— 25
+(a) for paragraph (f) substitute—
+“(f) the person—
+(i) is not a British citizen,
+(ii)
+30
+has been convicted in the United Kingdom of
+an offence, and
+(iii) has been sentenced to a period of imprisonment
+for the offence;”, and
+(b) after paragraph (f) insert—
+“(fa)
+35
+the person is liable to deportation from the United
+Kingdom under section 3(5) or (6) of the Immigration
+Act 1971 (deportation for the public good etc or as a
+result of recommendation following conviction);
+(fb) the person is liable to deportation from the United
+40
+Kingdom under any provision of, or made under, any
+other enactment that provides for such deportation;”.
+34 Illegal Migration Bill 
+(5) After subsection (5) insert—
+“(5A) In subsection (3)(f)—
+(a) “British citizen” has the same meaning as in section 3(5) of the
+5
+Immigration Act 1971 (and section 3(8) (burden of proof)
+applies), and
+(b) the reference to a person who has been sentenced to a period
+of imprisonment—
+(i) does not include a reference to a person who receives
+10
+a suspended sentence (unless a court subsequently
+orders that the sentence or any part of it is to take
+effect), and
+(ii) includes a reference to a person who is sentenced to
+detention, or ordered or directed to be detained, in an
+15
+institution other than a prison (including, in particular,
+a hospital or an institution for young offenders).
+(5B) For the purposes of subsection (3)(f) a person subject to an order under
+section 5 of the Criminal Procedure (Insanity) Act 1964 (insanity etc)
+has not been convicted of an offence.”
+(6)
+20
+An amendment made by a provision of this section applies in relation to a
+person whether a positive reasonable grounds decision or a positive conclusive
+grounds decision within the meaning of Part 5 of the Nationality and Borders
+Act 2022 was made in relation to the person before or after the coming into
+force of the provision making the amendment.
+Entry, settlement and citizenship
+29 Entry into and settlement in the United Kingdom 25
+(1) The Immigration Act 1971 is amended as follows.
+(2) In section 8(1) (exceptions for seamen, aircrews and other special cases), at
+the end of paragraph (c) insert “or
+(d)
+30
+the person has ever met the four conditions in section 2 of the
+Illegal Migration Act 2023 (conditions relating to removal from
+the United Kingdom);”.
+(3) After section 8A, insert—
+“8AA Persons ineligible for leave to enter and remain, entry clearance and
+ETA
+(1) This section applies in relation to a person who has ever met the four 35
+conditions in section 2 of the Illegal Migration Act 2023 (conditions
+relating to removal from the United Kingdom).
+(2) Subject to subsections (3) to (5), the person—
+(a)
+40
+must not be given leave to enter or leave to remain in the
+United Kingdom, unless it is—
+Illegal Migration Bill 35 
+(i) limited leave given under the immigration rules to a
+person within section 3(1) of that Act (unaccompanied
+children), or
+(ii)
+5
+limited leave to remain given under section 65 of the
+Nationality and Borders Act 2022 (leave to remain for
+victims of slavery or human trafficking) as it has effect
+by virtue of section 21 of the Illegal Migration Act 2023
+(provisions relating to removal and leave),
+(b) must not be granted an entry clearance, and
+(c) must not be granted an ETA. 10
+(3) The Secretary of State may give the person limited leave to enter the
+United Kingdom, or grant to the person an entry clearance or an ETA,
+if—
+(a)
+15
+the person has left or been removed from the United Kingdom
+after having become a person within subsection (1), and
+(b) the Secretary of State considers that—
+(i) failure to give the leave or grant the entry clearance or
+ETA would contravene the United Kingdom’s
+obligations under the Human Rights Convention, or
+(ii) there are other exceptional circumstances which apply 20
+in relation to the person which mean that it is
+appropriate to give the leave or grant the entry
+clearance or ETA.
+(4)
+25
+The Secretary of State may give the person limited leave to remain in
+the United Kingdom if—
+(a) the Secretary of State considers that failure to do so would
+contravene the United Kingdom’s obligations under the Human
+Rights Convention or any other international agreement to
+which the United Kingdom is a party, or
+(b) the Secretary of State has exercised the power in subsection (3) 30
+in respect of the person, and the Secretary of State considers
+that there are other exceptional circumstances which apply in
+relation to the person which mean that it is appropriate to give
+the person limited leave to remain.
+(5) The Secretary of State may give the person indefinite leave to remain 35
+in the United Kingdom if the Secretary of State considers that failure
+to do so would contravene the United Kingdom’s obligations under
+the Human Rights Convention.
+(6)
+40
+In this section, “the Human Rights Convention” means the Convention
+for the Protection of Human Rights and Fundamental Freedoms, agreed
+by the Council of Europe at Rome on 4 November 1950 as it has effect
+for the time being in relation to the United Kingdom.”
+36 Illegal Migration Bill 
+30 Persons prevented from obtaining British citizenship etc
+(1) Sections 31 to 34 (ineligibility for routes to British citizenship, British overseas
+territories citizenship, British overseas citizenship and status as a British
+5
+subject) apply in relation to a person who falls within subsection (3), read
+with the modifications in subsections (4) to (6).
+(2) Such a person is referred to in sections 31 to 34 as an “ineligible person”.
+(3) A person falls within this subsection if the person has ever met the four
+conditions in section 2 (conditions relating to removal from the United
+Kingdom).
+(4) For the purposes of this section, references to the United Kingdom in section 10
+2 and this section are to be read as if they included references to the Islands
+and the British overseas territories.
+(5) For the purposes of this section as it has effect by virtue of subsection (4) in
+relation to any of the Islands—
+(a) references in section 2 to provisions of the Immigration Act 1971 are 15
+to be read as if they included references to the provisions of that Act
+as extended to that Island under section 36 of that Act, and
+(b) terms used in the four conditions in section 2 are to be interpreted in
+20
+accordance with that Act as extended to that Island under section 36
+of that Act.
+(6) For the purposes of this section as it has effect by virtue of subsection (4) in
+relation to any of the British overseas territories—
+(a) the references in section 2 to “leave to enter”, “leave to remain”, and
+25
+“limited leave to enter or remain” are to be construed as references to
+any status formally granted under the immigration laws in force in
+that territory which is broadly equivalent to the status in question
+under the Immigration Act 1971,
+(b) the references in section 2 to “deportation order”, “entry clearance”
+30
+and “electronic travel authorisation” are to be construed as references
+to any order, clearance or authorisation made or given under the
+immigration laws in force in that territory which is broadly equivalent
+to the order, clearance or authorisation in question under that Act,
+and
+(c)
+35
+the references in section 2 to “entering”, “arriving” or to a document
+being “valid” are to be construed as references to any concept under
+the immigration laws in force in that territory which is broadly
+equivalent to the concept in question under that Act.
+(7) In this section, “the Islands” means the Channel Islands and the Isle of Man.
+(8) This section is subject to section 35 (disapplication of sections 31 to 34).
+31 British citizenship 40
+(1) An ineligible person is not entitled to be registered as a British citizen under
+any of the following provisions—
+Illegal Migration Bill 37 
+(a) section 3(2) or (5) of the British Nationality Act 1981 (acquisition of
+British citizenship by registration: minors);
+(b) section 4(2) of that Act (acquisition of British citizenship by registration:
+British overseas territories citizens etc);
+(c) section 5 of that Act (acquisition of British citizenship by registration: 5
+British overseas territories citizens having connection with Gibraltar);
+(d) section 10(1) of that Act (registration as British citizen following
+renunciation of citizenship of UK etc);
+(e) section 13(1) of that Act (resumption of British citizenship).
+(2) In relation to an application for British citizenship made by or in relation to 10
+an ineligible person, the Secretary of State may not—
+(a) cause the person to be registered as a British citizen under any of the
+following provisions—
+(i)
+15
+section 3(1) of the British Nationality Act 1981 (acquisition of
+British citizenship by registration: minors);
+(ii) section 4A of that Act (acquisition of British citizenship by
+registration: further provision for British overseas territories
+citizens);
+(iii)
+20
+section 10(2) of that Act (registration as British citizen following
+renunciation of citizenship of UK etc);
+(iv) section 13(3) of that Act (resumption of British citizenship);
+(b) grant to the person a certificate of naturalisation as a British citizen
+under section 6 of that Act (acquisition of British citizenship by
+naturalisation).
+32 British overseas territories citizenship 25
+(1) An ineligible person is not entitled to be registered as a British overseas
+territories citizen under any of the following provisions—
+(a) section 17(2) or (5) of the British Nationality Act 1981 (acquisition of
+British overseas territories citizenship by registration: minors);
+(b) section 22(1) of that Act (right to registration as British overseas 30
+territories citizen replacing right to resume citizenship of UK etc);
+(c) section 13(1) of that Act as applied by section 24 of that Act
+(resumption of British overseas territories citizenship).
+(2)
+35
+In relation to an application made by or in relation to an ineligible person,
+the Secretary of State may not—
+(a) cause the person to be registered as a British overseas territories citizen
+under any of the following provisions—
+(i) section 17(1) of the British Nationality Act 1981 (acquisition of
+British overseas territories citizenship by registration: minors);
+(ii) section 22(2) of that Act (right to registration as British overseas 40
+territories citizen replacing right to resume citizenship of UK
+etc);
+(iii) section 13(3) of that Act as applied by section 24 of that Act
+(resumption of British overseas territories citizenship);
+38 Illegal Migration Bill 
+(b) grant to the person a certificate of naturalisation as a British overseas
+territories citizen under section 18 of that Act (acquisition of British
+overseas territories citizenship by naturalisation).
+33 British overseas citizenship
+The Secretary of State may not cause an ineligible person to be registered as 5
+a British overseas citizen under section 27(1) of the British Nationality Act
+1981 (registration of minors as British overseas citizens).
+34 British subjects
+10
+The Secretary of State may not cause an ineligible person to be registered as
+a British subject under section 32 of the British Nationality Act 1981
+(registration of minors as British subjects).
+35 Disapplication of sections 31 to 34
+(1) This section applies in relation to a person who would otherwise be an
+ineligible person for the purposes of sections 31 to 34 (see section 30).
+(2) The Secretary of State may determine that the person is not to be an “ineligible 15
+person” for the purposes of sections 31 to 34 if the Secretary of State considers
+that the application of those sections in relation to the person would
+contravene the United Kingdom’s obligations under the Human Rights
+Convention.
+36 Amendments relating to sections 31 to 35 20
+(1) The British Nationality Act 1981 is amended as follows.
+(2) In section 3 (acquisition of British citizenship by registration: minors), after
+subsection (6) insert—
+“(7)
+25
+This section is subject to sections 30, 31 and 35 of the Illegal Migration
+Act 2023 (restriction of eligibility for citizenship etc).”
+(3) In section 4 (acquisition of British citizenship by registration: British overseas
+territories citizens etc), after subsection (6) insert—
+“(7) This section is subject to sections 30, 31 and 35 of the Illegal Migration
+Act 2023 (restriction of eligibility for citizenship etc).”
+(4) In section 4A (acquisition of British citizenship by registration: further 30
+provision for British overseas territories citizens), after subsection (2) insert—
+“(3) This section is subject to sections 30, 31 and 35 of the Illegal Migration
+Act 2023 (restriction of eligibility for citizenship etc).”
+(5)
+35
+In section 5 (acquisition of British citizenship by registration: British overseas
+territories citizens having connection with Gibraltar), at the beginning insert
+“Subject to sections 30, 31 and 35 of the Illegal Migration Act 2023 (restriction
+of eligibility for citizenship etc),”.
+Illegal Migration Bill 39 
+(6) In section 6 (acquisition of British citizenship by naturalisation), after
+subsection (2) insert—
+“(3) This section is subject to sections 30, 31 and 35 of the Illegal Migration
+Act 2023 (restriction of eligibility for citizenship etc).”
+(7) In section 10 (registration as British citizen following renunciation of citizenship 5
+of UK etc), after subsection (4) insert—
+“(5) This section is subject to sections 30, 31 and 35 of the Illegal Migration
+Act 2023 (restriction of eligibility for citizenship etc).”
+(8) In section 13 (resumption of British citizenship), after subsection (3) insert—
+“(4) This section is subject to sections 30, 31 and 35 of the Illegal Migration 10
+Act 2023 (restriction of eligibility for citizenship etc).”
+(9) In section 17 (acquisition of British overseas territories citizenship by
+registration: minors), after subsection (6) insert—
+“(7)
+15
+This section is subject to sections 30, 32 and 35 of the Illegal Migration
+Act 2023 (restriction of eligibility for citizenship etc).”
+(10) In section 18 (acquisition of British overseas territories citizenship by
+naturalisation), after subsection (3) insert—
+“(4) This section is subject to sections 30, 32 and 35 of the Illegal Migration
+Act 2023 (restriction of eligibility for citizenship etc).”
+(11) In section 22 (right to registration as British overseas territories citizen 20
+replacing right to resume citizenship of UK etc), after subsection (4) insert—
+“(5) This section is subject to sections 30, 32 and 35 of the Illegal Migration
+Act 2023 (restriction of eligibility for citizenship etc).”
+(12)
+25
+In section 24 (renunication and resumption of British overseas territories
+citizenship), at the beginning insert “Subject to sections 30, 32 and 35 of the
+Illegal Migration Act 2023 (restriction of eligibility for citizenship etc),”.
+(13) In section 27(1) (registration of minors as British overseas citizens), at the
+beginning insert “Subject to sections 30, 33 and 35 of the Illegal Migration
+Act 2023 (restriction of eligibility for citizenship etc),”.
+(14) In section 32 (registration of minors as British subjects), at the beginning insert 30
+“Subject to sections 30, 34 and 35 of the Illegal Migration Act 2023 (restriction
+of eligibility for citizenship etc),”.
+Legal proceedings
+37 Suspensive claims: interpretation
+(1) The definitions in subsections (2) to (8) have effect for the purposes of this 35
+section and sections 38 to 52.
+(2) “Suspensive claim” means—
+(a) a serious harm suspensive claim (see section 38), or
+40 Illegal Migration Bill 
+(b) a factual suspensive claim.
+(3) “Factual suspensive claim” means a claim by a person who has been given
+a removal notice that the Secretary of State or an immigration officer made
+a mistake of fact in deciding that the person met the removal conditions.
+(4) “Removal notice” means a notice of removal given to a person under section 5
+7(2)(a) (further provisions about removal).
+(5) “Third country removal notice” means a removal notice under which a person
+is to be removed to a third country.
+(6)
+10
+“Third country”, in relation to a person, means a country or territory other
+than—
+(a) a country of which the person is a national, or
+(b) a country or territory in which the person has obtained a passport or
+other document of identity.
+(7)
+15
+“Removal conditions” means the four conditions in section 2 (duty to make
+arrangements for removal).
+(8) “Working day” means a day other than a Saturday, a Sunday, Christmas Day,
+Good Friday or a bank holiday under the Banking and Financial Dealings
+Act 1971 in any part of the United Kingdom.
+(9)
+20
+The Secretary of State may by regulations amend the definition of “working
+day” in subsection (8).
+(10) Regulations under subsection (9) may make consequential amendments to
+this Act.
+(11) Where a removal notice specifies part of a country or territory, references in
+25
+this section and sections 38 to 52 to the country or territory specified in the
+removal notice are to the part of the country or territory so specified.
+38 Serious harm suspensive claims: interpretation
+(1) The definitions in subsections (2) and (3) have effect for the purposes of
+section 37, this section and sections 39 to 52.
+(2)
+30
+A “serious harm suspensive claim” means a claim by a person (“P”) who has
+been given a third country removal notice that the serious harm condition is
+met in relation to P.
+(3) The “serious harm condition” is that P would, before the end of the relevant
+period, face a real, imminent and foreseeable risk of serious and irreversible
+35
+harm if removed from the United Kingdom under this Act to the country or
+territory specified in the third country removal notice.
+(4) The following are examples of harm that constitute serious and irreversible
+harm for the purposes of this Act—
+(a) death;
+(b)
+40
+persecution falling within subsection (2)(a) or (b) of section 31 of the
+Nationality and Borders Act 2022 (read together with subsections (1)
+Illegal Migration Bill 41 
+and (3) of that section) (Article 1(A)(2) of the Refugee Convention:
+persecution) where P is not able to avail themselves of protection from
+that persecution;
+(c) torture;
+(d) inhuman or degrading treatment or punishment; 5
+(e) onward removal from the country or territory specified in the third
+country removal notice to another country or territory where P would
+face a real, imminent and foreseeable risk of any harm mentioned in
+paragraphs (a) to (d).
+(5) The following are examples of harm that do not constitute serious and 10
+irreversible harm for the purposes of this Act—
+(a) persecution not falling within subsection (2)(a) or (b) of section 31 of
+the Nationality and Borders Act 2022 (read together with subsections
+(1) and (3) of that section);
+(b) persecution falling within subsection (2)(a) or (b) of section 31 of that 15
+Act (read together with subsections (1) and (3) of that section) where
+P is able to avail themselves of protection from that persecution;
+(c) where the standard of healthcare available to P in the relevant country
+20
+or territory is lower than is available to P in the United Kingdom, any
+harm resulting from that different standard of healthcare (including,
+in particular, a less favourable medical prognosis).
+(6) Subsection (7) is an example of harm that is unlikely to constitute serious and
+irreversible harm for the purposes of this Act.
+(7)
+25
+Any pain or distress resulting from a medical treatment that is available to
+P in the United Kingdom not being available to P in the relevant country or
+territory.
+(8) For the purposes of subsections (4) and (5)—
+(a) protection from persecution can be provided by—
+(i) the government of the relevant country or territory, or
+(ii) any party or organisation, including any international 30
+organisation, controlling the relevant country or territory or a
+substantial part of it;
+(b) P is to be taken to be able to avail themselves of protection from
+persecution if—
+(i) the government, party or organisation mentioned in paragraph 35
+(a) takes reasonable steps to prevent the persecution by
+operating an effective legal system for the detection, prosecution
+and punishment of acts constituting persecution, and
+(ii) P is able to access the protection.
+(9) In this section “relevant period” means the total period of time that it would 40
+take—
+(a) for P to make a human rights claim in relation to P’s removal from
+the United Kingdom under this Act (see section 40 (relationship with
+other proceedings)),
+(b) for the claim to be decided by the Secretary of State, and 45
+42 Illegal Migration Bill 
+(c) for any application for judicial review in relation to a decision of the
+Secretary of State to refuse the claim to be exhausted.
+39 Meaning of “serious and irreversible harm”
+(1)
+5
+The Secretary of State may by regulations amend section 38 to make provision
+about the meaning of “serious and irreversible harm” for the purposes of this
+Act.
+(2) Regulations under subsection (1) may in particular—
+(a) define any aspect of serious and irreversible harm;
+(b)
+10
+give examples of what is or is not to be treated as serious and
+irreversible harm.
+(3) Regulations under subsection (1) may make consequential amendments to
+this Act.
+40 Relationship with other proceedings
+(1)
+15
+A “serious harm suspensive claim” made under this Act is not a “human
+rights claim” for the purposes of the Nationality, Immigration and Asylum
+Act 2002 or the Nationality and Borders Act 2022.
+(2) Accordingly no right of appeal under section 82(1)(a) or (b) of the Nationality,
+Immigration and Asylum Act 2002 (appeal against refusal of protection claim
+20
+or human rights claim) arises in relation to any decision of the Secretary of
+State made under section 41 (serious harm suspensive claims), 45 (out of time
+claims) or 47 (new matters) of this Act in respect of a serious harm suspensive
+claim.
+(3) The making of a serious harm suspensive claim by a person (or the possibility
+25
+of a person making such a claim) does not affect any ability of the person to
+make a human rights claim in relation to their removal from the United
+Kingdom to a third country under this Act.
+(4) Where—
+(a) a person subject to removal to a third country under this Act makes
+30
+a human rights claim in relation to their removal to that third country,
+and
+(b) the Secretary of State decides to refuse the claim,
+there is no right of appeal under section 82(1)(a) or (b) of the Nationality,
+Immigration and Asylum Act 2002 in relation to that decision.
+(5)
+35
+Subsection (4) does not affect any ability of the person to make an application
+for judicial review in relation to a decision of the Secretary of State to refuse
+the claim (but section 4(1)(d) (disregard of application for judicial review)
+applies in relation to any such application).
+(6) In section 82(3) of the Nationality, Immigration and Asylum Act 2002, after
+40
+”Part” insert “and in section 40(4) of the Illegal Migration Act 2023 (relationship
+with other proceedings)”.
+Illegal Migration Bill 43 
+41 Serious harm suspensive claims
+(1) This section applies where, within the claim period, a person makes a serious
+harm suspensive claim to the Secretary of State.
+(2)
+5
+The Secretary of State must, before the end of the decision period, consider
+the claim and make one of the following decisions—
+(a) that the serious harm condition is met in relation to the person, or
+(b) that the serious harm condition is not met in relation to the person.
+(3) If the Secretary of State makes a decision under subsection (2)(b), the Secretary
+10
+of State may also certify that the claim is clearly unfounded (see sections
+43(1)(c) and 44 (appeals)).
+(4) In considering a serious harm suspensive claim, the Secretary of State must
+take into account the following factors—
+(a) any assurances given by the government of the country or territory
+specified in the removal notice;
+(b) any support and services (including in particular medical services) 15
+provided by that government;
+(c) in circumstances where it is reasonable to expect a person to have
+provided certain evidence and they have not done so, the fact that the
+person has not provided such evidence.
+(5) A claim under subsection (1) must— 20
+(a) contain compelling evidence that the serious harm condition is met
+in relation to the person,
+(b) contain the prescribed information, and
+(c) be made in the prescribed form and manner.
+In this subsection “prescribed” means prescribed in regulations made by the 25
+Secretary of State.
+(6) Before the end of the claim period or the decision period in relation to a
+serious harm suspensive claim, the Secretary of State may, by notice to the
+30
+person concerned, extend the period where the Secretary of State considers
+it appropriate to do so.
+(7) In this section—
+“claim period” means the period of 8 days beginning with the day on
+which the person is given the third country removal notice;
+“decision period” means the period of 4 days beginning with—
+(a) the day on which the person makes the serious harm 35
+suspensive claim, or
+(b) where section 45(3) or (6) (out of time claims) applies, the day
+on which the Secretary of State makes the decision mentioned
+40
+in section 45(3) or is given notice of the determination of the
+Upper Tribunal mentioned in section 45(6) (as the case may
+be).
+44 Illegal Migration Bill 
+42 Factual suspensive claims
+(1) This section applies where, within the claim period, a person makes a factual
+suspensive claim to the Secretary of State.
+(2)
+5
+The Secretary of State must, before the end of the decision period, consider
+the claim and make one of the following decisions—
+(a) that a mistake of fact was made in deciding that the person met the
+removal conditions, or
+(b) that a mistake of fact was not made in deciding that the person met
+such conditions.
+(3) If the Secretary of State makes a decision under subsection (2)(b), the Secretary 10
+of State may also certify that the claim is clearly unfounded (see sections
+43(1)(c) and 44 (appeals)).
+(4) In considering a factual suspensive claim in circumstances where it is
+15
+reasonable to expect a person to have provided certain evidence and they
+have not done so, the Secretary of State must take into account the fact that
+the person has not provided such evidence.
+(5) A claim under subsection (1) must—
+(a) contain compelling evidence that the Secretary of State or an
+20
+immigration officer made a mistake of fact in deciding that the person
+met the removal conditions,
+(b) contain the prescribed information, and
+(c) be made in the prescribed form and manner.
+In this subsection “prescribed” means prescribed in regulations made by the
+Secretary of State.
+(6) Before the end of the claim period or the decision period in relation to a 25
+factual suspensive claim, the Secretary of State may, by notice to the person
+concerned, extend the period where the Secretary of State considers it
+appropriate to do so.
+(7) In this section—
+“claim period” means the period of 8 days beginning with the day on 30
+which the person is given the removal notice;
+“decision period” means the period of 4 days beginning with—
+(a) the day on which the person makes the factual suspensive
+claim, or
+(b) where section 45(3) or (6) (out of time claims) applies, the day 35
+on which the Secretary of State makes the decision mentioned
+in section 45(3) or is given notice of the determination of the
+Upper Tribunal mentioned in section 45(6) (as the case may
+be).
+43 Appeals in relation to suspensive claims 40
+(1) This section applies if—
+(a) a person makes a suspensive claim,
+Illegal Migration Bill 45 
+(b) the Secretary of State makes a decision under section 41(2)(b) or 42(2)(b)
+(refusal of suspensive claim) in relation to the claim, and
+(c) the Secretary of State has not certified the claim as clearly unfounded
+under section 41(3) or (as the case may be) 42(3).
+(2) The person may appeal to the Upper Tribunal against the decision mentioned 5
+in subsection (1)(b).
+(3) An appeal under subsection (2) must be brought on the ground that—
+(a) in the case of a serious harm suspensive claim, the serious harm
+condition is met in relation to the person;
+(b) in the case of a factual suspensive claim, the Secretary of State or an 10
+immigration officer made a mistake of fact in deciding that the person
+met the removal conditions,
+and the notice of appeal must contain compelling evidence of such ground.
+(4)
+15
+In considering an appeal in relation to a serious harm suspensive claim, the
+Upper Tribunal must take into account the factors mentioned in section 41(4).
+(5) In considering an appeal in relation to a factual suspensive claim in
+circumstances where it is reasonable to expect a person to have provided
+certain evidence and they have not done so, the Upper Tribunal must take
+into account the fact that the person has not provided such evidence.
+(6) Where an appeal is brought under subsection (2), the Upper Tribunal must 20
+decide—
+(a) in relation to a serious harm suspensive claim, whether the serious
+harm condition is met in relation to the person;
+(b)
+25
+in relation to a factual suspensive claim, whether the Secretary of State
+or an immigration officer made a mistake of fact in deciding that the
+person met the removal conditions.
+(7) See section 13 of the Tribunals, Courts and Enforcement Act 2007 (right of
+appeal to Court of Appeal etc) for provision about the only right of appeal
+against a decision of the Upper Tribunal under this section.
+44 Permission to appeal in relation to suspensive claims certified as clearly 30
+unfounded
+(1) This section applies if—
+(a) a person makes a suspensive claim,
+(b)
+35
+the Secretary of State makes a decision under section 41(2)(b) or 42(2)(b)
+(refusal of suspensive claim) in relation to the claim, and
+(c) the Secretary of State has certified the claim as clearly unfounded
+under section 41(3) or (as the case may be) 42(3).
+(2) The person may not appeal to the Upper Tribunal against the decision
+40
+mentioned in subsection (1)(b), but they may apply to the Upper Tribunal
+for permission to appeal to the Upper Tribunal against the decision.
+46 Illegal Migration Bill 
+(3) In relation to a serious harm suspensive claim, the Upper Tribunal may grant
+permission to appeal in response to a person’s application under subsection
+(2) only if it considers that there is compelling evidence that—
+(a) the serious harm condition is met in relation to the person, and
+(b) the risk mentioned in section 38(3) is obvious. 5
+(4) In relation to a factual suspensive claim, the Upper Tribunal may grant
+permission to appeal in response to a person’s application under subsection
+(2) only if it considers that there is compelling evidence that the Secretary of
+10
+State or an immigration officer made a mistake of fact in deciding that the
+person met the removal conditions.
+(5) Unless the Upper Tribunal considers that an oral hearing is necessary to
+secure that justice is done in a particular case, an application under subsection
+(2) is to be determined by the Upper Tribunal only on the basis of written
+submissions and evidence.
+(6) If the Upper Tribunal grants permission to appeal, the person may appeal to 15
+the Upper Tribunal under section 43(2) against the decision mentioned in
+subsection (1)(b).
+(7) There is no right of appeal under section 13 of the Tribunals, Courts and
+20
+Enforcement Act 2007 (right of appeal to Court of Appeal etc) in relation to
+a decision of the Upper Tribunal on an application under this section.
+(8) See also section 50 (finality of certain decisions by the Upper Tribunal).
+45 Suspensive claims out of time
+(1) This section applies if—
+(a)
+25
+a person makes a suspensive claim after the end of the claim period
+(see sections 41(7) and 42(7)) but before the person is removed from
+the United Kingdom under this Act, and
+(b) the person has not—
+(i) in the case of a serious harm suspensive claim, made a previous
+30
+serious harm suspensive claim in relation to the same removal
+notice, or
+(ii) in the case of a factual suspensive claim, made a previous
+factual suspensive claim in relation to the same removal notice.
+(2) The Secretary of State must, before the end of the decision period, consider
+35
+whether there were compelling reasons for the person not to make the claim
+within the claim period.
+(3) If the Secretary of State decides that there were compelling reasons for the
+person not to make the claim within the claim period, the Secretary of State
+must consider the claim under section 41(2) (serious harm suspensive claims)
+or (as the case may be) 42(2) (factual suspensive claims).
+(4) If the Secretary of State decides that there were not compelling reasons for 40
+the person not to make the claim within the claim period, the person may
+Illegal Migration Bill 47 
+apply for a declaration from the Upper Tribunal that there were compelling
+reasons for the person not to make the claim within the claim period.
+(5) An application under subsection (4) must—
+(a)
+5
+contain compelling evidence that there were compelling reasons for
+the person not to make the claim within the claim period, and
+(b) be determined by the Upper Tribunal only on the basis of written
+submissions and evidence.
+(6) If the Upper Tribunal grants a declaration on an application under subsection
+10
+(4), the Secretary of State must consider the claim under section 41(2) or (as
+the case may be) 42(2).
+(7) There is no right of appeal under section 13 of the Tribunals, Courts and
+Enforcement Act 2007 (right of appeal to Court of Appeal etc) in relation to
+a decision of the Upper Tribunal on an application under subsection (4).
+(8) See also section 50 (finality of certain decisions by the Upper Tribunal).
+(9) Before the end of the decision period in relation to a suspensive claim 15
+mentioned in subsection (1)(a), the Secretary of State may, by notice to the
+person concerned, extend the period where the Secretary of State considers
+it appropriate to do so.
+(10)
+20
+In this section “decision period” means the period of 4 days beginning with
+the day on which the person makes the suspensive claim.
+46 Suspensive claims: duty to remove
+(1) A person who has been given a removal notice may not be removed from
+the United Kingdom under this Act to the country or territory specified in
+the removal notice during any of the following periods—
+(a) where the person makes a suspensive claim before the end of the claim 25
+period, before the Secretary of State makes a decision under section
+41(2) (serious harm suspensive claim) or (as the case may be) 42(2)
+(factual suspensive claim) in relation to the claim;
+(b)
+30
+where section 45 (out of time claims) applies in relation to a suspensive
+claim made by the person, before the Secretary of State makes a
+decision under section 45(3) or (4) in relation to the claim;
+(c) where the Secretary of State makes a decision under section 45(4) in
+relation to a suspensive claim made by the person, before the process
+35
+for making an application to the Upper Tribunal under section 45(4)
+has been exhausted;
+(d) where the Secretary of State is required by section 45(3) or (6) (out of
+time claims) to consider a suspensive claim made by the person, before
+the Secretary of State makes a decision under section 41(2) or (as the
+case may be) 42(2) in relation to the claim;
+(e) where the Secretary of State makes a decision under section 41(2)(b) 40
+or 42(2)(b) (refusal of suspensive claim) in relation to a suspensive
+claim made by the person, before the appeals process in relation to
+the decision has been exhausted.
+48 Illegal Migration Bill 
+(2) Where—
+(a) the Secretary of State makes a decision under section 41(2)(a) or 42(2)(a)
+(acceptance of suspensive claim) in relation to a suspensive claim made
+by a person, or
+(b) a person successfully appeals under section 43 (appeals) or section 5
+2AA of the Special Immigration Appeals Commission Act 1997 (appeals
+in relation to the Illegal Migration Act 2023) against a decision of the
+Secretary of State under section 41(2)(b) or 42(2)(b) (refusal of
+suspensive claim),
+the person may not be removed from the United Kingdom under this Act to 10
+the country or territory specified in the removal notice.
+(3) But if at any time it appears to the Secretary of State that there has been a
+change of circumstances in relation to the person—
+(a)
+15
+in a case within subsection (2)(a), the Secretary of State may revise
+the decision and instead make a decision under section 41(2)(b) or (as
+the case may be) 42(2)(b) in relation to the claim;
+(b) in a case within subsection (2)(b), the Secretary of State or an
+immigration officer may give a new removal notice to the person (and
+20
+accordingly a new claim period begins in relation to the making of a
+further suspensive claim).
+(4) In subsection (3) the reference to a change of circumstances in relation to a
+person includes in particular where any—
+(a) human rights claim, or
+(b) application for judicial review,
+made by the person in relation to their removal from the United Kingdom is 25
+not successful.
+(5) Where the Secretary of State makes a decision under section 41(2)(b) or 42(2)(b)
+in relation to a suspensive claim, the person may, subject to any appeal (see
+30
+sections 43, 44 and 52), be removed from the United Kingdom under this Act
+to the country or territory specified in the removal notice.
+47 Upper Tribunal consideration of new matters
+(1) This section applies where the Upper Tribunal is considering—
+(a) an appeal by a person under section 43(2) (appeals in relation to
+suspensive claims), or
+(b) an application by a person under section 44(2) (permission to appeal: 35
+claims certified as clearly unfounded),
+in relation to a decision of the Secretary of State under section 41(2)(b) or
+42(2)(b) (refusal of suspensive claim).
+(2)
+40
+The Upper Tribunal may consider any matter which it considers relevant to
+the substance of the decision.
+(3) But the Upper Tribunal must not consider a new matter unless the condition
+in subsection (5) is met.
+(4) A matter is a “new matter” if—
+Illegal Migration Bill 49 
+(a) it is raised by the person in the course of the appeal or application,
+and
+(b) the person did not provide details of the matter to the Secretary of
+5
+State before the end of the claim period for the suspensive claim (see
+sections 41(7) and 42(7)).
+(5) The condition in this subsection is that—
+(a) within the relevant period the Secretary of State has given the Upper
+Tribunal consent to consider the new matter, or
+(b)
+10
+where the Secretary of State has not given such consent within the
+relevant period, the Upper Tribunal determines that there were
+compelling reasons for the person not to have provided details of the
+matter to the Secretary of State before the end of the claim period.
+(6) The Secretary of State may provide consent under subsection (5)(a) only if
+15
+the Secretary of State considers that there were compelling reasons for the
+person not to have provided details of the matter before the end of the claim
+period.
+(7) In subsection (5) “relevant period” means the period of 3 working days
+beginning with the day after the day on which the new matter is raised by
+the person in the course of the appeal or application.
+(8) There is no right of appeal under section 13 of the Tribunals, Courts and 20
+Enforcement Act 2007 (right of appeal to Court of Appeal etc) in relation to
+a decision of the Upper Tribunal to make or not to make a determination
+under subsection (5)(b).
+(9) See also section 50 (finality of certain decisions by the Upper Tribunal).
+48 Appeals in relation to suspensive claims: timing 25
+(1) Tribunal Procedure Rules must secure that in relation to an appeal under
+section 43(2) (appeal against decision to refuse suspensive claim)—
+(a) the notice of appeal must be given to the Upper Tribunal within the
+period of 7 working days beginning with—
+(i) the day on which the appellant was given notice of the decision 30
+against which the appeal is brought, or
+(ii) where permission to appeal has been granted under section
+44(2), the day on which the appellant was given notice of the
+Upper Tribunal’s decision to grant such permission;
+(b) the Upper Tribunal must make a decision on the appeal, and give 35
+notice of that decision to the parties, within the period of 23 working
+days beginning with the day on which the appellant gave notice of
+appeal to the Upper Tribunal.
+(2)
+40
+Tribunal Procedure Rules must secure that in relation to an application for
+permission to appeal under section 44(2) (permission to appeal: claims certified
+as clearly unfounded)—
+(a) the application must be made to the Upper Tribunal within the period
+of 7 working days beginning with the day on which the applicant was
+50 Illegal Migration Bill 
+given notice that the Secretary of State had certified the person’s
+suspensive claim as clearly unfounded;
+(b) the Upper Tribunal must determine the application, and give notice
+5
+of that determination to the parties, within the period of 7 working
+days beginning with the day on which the application was made to
+the Upper Tribunal.
+(3) Tribunal Procedure Rules must secure that in relation to an application for a
+declaration under section 45(4) (out of time claims)—
+(a)
+10
+the application must be made to the Upper Tribunal within the period
+of 7 working days beginning with the day on which the applicant was
+given notice of the decision in relation to which the application is
+brought;
+(b) the Upper Tribunal must determine the application, and give notice
+15
+of that determination to the parties, within the period of 7 working
+days beginning with the day on which the application was made to
+the Upper Tribunal.
+(4) But Tribunal Procedure Rules must—
+(a) secure that the Upper Tribunal may, if it is satisfied that it is the only
+20
+way to secure that justice is done in a particular case, order that any
+period of time mentioned in subsection (1), (2) or (3) is to be extended
+to such period as the Upper Tribunal may order, and
+(b) without prejudice to paragraph (a), secure that the Upper Tribunal
+may order that any period of time mentioned in subsection (1)(b) or
+25
+(2)(b) is to be extended by a period of up to 3 working days where a
+new matter (within the meaning of section 47(4)) is raised in the course
+of the appeal or application.
+49 Procedure for Tribunal Procedure Rules
+(1) The first time after the passing of this Act that Tribunal Procedure Rules are
+30
+made for the purposes of any of sections 43 to 48 (appeals in relation to
+suspensive claims), the Rules may be made by the Lord Chancellor rather
+than by the Tribunal Procedure Committee.
+(2) Before making Tribunal Procedure Rules by virtue of subsection (1), the Lord
+Chancellor must consult—
+(a) the Senior President of Tribunals,
+(b) the Lord Chief Justice of England and Wales, 35
+(c) the Lord President of the Court of Session, and
+(d) the Lord Chief Justice of Northern Ireland.
+(3) The Lord Chancellor is not required to undertake any other consultation
+before making Tribunal Procedure Rules by virtue of subsection (1).
+(4) A requirement to consult under subsection (2) may be satisfied by consultation 40
+that took place wholly or partly before the passing of this Act.
+(5) Tribunal Procedure Rules made by virtue of subsection (1) are to be made
+by statutory instrument.
+Illegal Migration Bill 51 
+(6) A statutory instrument containing Tribunal Procedure Rules made by virtue
+of subsection (1) must be laid before Parliament after being made.
+(7) Tribunal Procedure Rules contained in a statutory instrument laid before
+5
+Parliament under subsection (6) cease to have effect at the end of the period
+of 40 days beginning with the day on which the instrument is made unless,
+during that period, the instrument is approved by a resolution of each House
+of Parliament.
+(8) In calculating the period of 40 days, no account is to be taken of any whole
+days that fall within a period during which—
+(a) Parliament is dissolved or prorogued, or 10
+(b) either House of Parliament is adjourned for more than four days.
+(9) If Tribunal Procedure Rules cease to have effect as a result of subsection (7)—
+(a) that does not affect the validity of anything previously done under
+the Rules, and
+(b) subsection (1) applies again as if the Rules had not been made. 15
+(10) In this section “Tribunal Procedure Committee” means the committee of that
+name constituted under Part 2 of Schedule 5 to the Tribunals, Courts and
+Enforcement Act 2007.
+50 Finality of certain decisions by the Upper Tribunal
+(1) Subsections (2) and (3) apply in relation to a decision by the Upper Tribunal— 20
+(a) to grant or refuse permission to appeal in response to an application
+under section 44(2) (permission to appeal: claims certified as clearly
+unfounded),
+(b)
+25
+to grant or refuse an application for a declaration under section 45(4)
+(out of time claims), or
+(c) to make or not to make a determination under section 47(5)(b) (new
+matters).
+(2) The decision is final, and not liable to be questioned or set aside in any other
+court.
+(3) In particular— 30
+(a) the Upper Tribunal is not to be regarded as having exceeded its powers
+by reason of any error made in reaching the decision;
+(b) the supervisory jurisdiction does not extend to, and no application or
+35
+petition for judicial review may be made or brought in relation to, the
+decision.
+(4) Subsections (2) and (3) do not apply so far as the decision involves or gives
+rise to any question as to whether—
+(a) the Upper Tribunal has or had a valid application before it under
+section 44(2) or 45(4),
+(b) the Upper Tribunal is or was properly constituted for the purpose of 40
+dealing with the application or, in the case of a decision mentioned
+in subsection (1)(c), for the purpose of making the decision, or
+52 Illegal Migration Bill 
+(c) the Upper Tribunal is acting or has acted—
+(i) in bad faith, or
+(ii) in such a procedurally defective way as amounts to a
+fundamental breach of the principles of natural justice.
+(5) In this section— 5
+“decision” includes any purported decision;
+“the supervisory jurisdiction” means the supervisory jurisdiction of—
+(a) the High Court, in England and Wales or Northern Ireland, or
+(b) the Court of Session, in Scotland.
+51 Judges of First-tier Tribunal and Upper Tribunal 10
+In section 5(1) of the Tribunals, Courts and Enforcement Act 2007 (judges
+and other members of the Upper Tribunal), after paragraph (c) insert—
+“(ca) is a judge of the First-tier Tribunal,”.
+52 Special Immigration Appeals Commission
+(1) This section applies where the Secretary of State makes a decision under 15
+section 41(2)(b) or 42(2)(b) (refusal of suspensive claim) in relation to a
+suspensive claim.
+(2) An appeal under section 43, or an application for permission to appeal under
+20
+section 44, in relation to the decision may not be brought or continued if the
+Secretary of State acting in person certifies that the decision was made wholly
+or partly in reliance on information which, in the opinion of the Secretary of
+State, should not be made public—
+(a) in the interests of national security,
+(b)
+25
+in the interests of the relationship between the United Kingdom and
+another country, or
+(c) otherwise in the public interest.
+(3) Where a certificate is issued under subsection (2), any pending appeal, or
+application for permission to appeal, in relation to the decision lapses.
+(4) The Special Immigration Appeals Commission Act 1997 is amended as follows.
+(5) After section 2 insert— 30
+“2AA Jurisdiction: appeals in relation to the Illegal Migration Act 2023
+(1) A person may appeal to the Special Immigration Appeals Commission
+against a refusal decision if—
+(a)
+35
+the person would, but for a certificate of the Secretary of State
+under section 52 of the Illegal Migration Act 2023 (Special
+Immigration Appeals Commission), be able to—
+(i) appeal against the decision under section 43 of that Act,
+or
+(ii)
+40
+apply for permission to appeal against the decision
+under section 44 of that Act, or
+Illegal Migration Bill 53 
+(b) an appeal against the decision under section 43 of that Act, or
+an application for permission to appeal against the decision
+under section 44 of that Act, lapsed under section 52 of that
+5
+Act by virtue of a certificate of the Secretary of State under
+that section.
+(2) Sections 43(3) to (6) and 47(2) to (7) of the Illegal Migration Act 2023
+apply, with the modification in subsection (3), in relation to an appeal
+under this section as they apply in relation to an appeal under section
+43 of that Act.
+(3) The modification is that references to the Upper Tribunal are to be 10
+read as references to the Special Immigration Appeals Commission.
+(4) In this section “refusal decision” means a decision of the Secretary
+State under section 41(2)(b) or 42(2)(b) of the Illegal Migration Act
+2023 (refusal of suspensive claim).
+2AB Finality of certain decisions by the Special Immigration Appeals 15
+Commission
+(1) Subsections (2) and (3) apply in relation to a decision by the Special
+Immigration Appeals Commission to make or not to make a
+20
+determination under section 47(5)(b) of the Illegal Migration Act 2023
+(consideration of new matters), as applied by section 2AA(2) of this
+Act.
+(2) The decision is final, and not liable to be questioned or set aside in
+any other court.
+(3) In particular—
+(a) the Special Immigration Appeals Commission is not to be 25
+regarded as having exceeded its powers by reason of any error
+made in reaching the decision;
+(b) the supervisory jurisdiction does not extend to, and no
+30
+application or petition for judicial review may be made or
+brought in relation to, the decision.
+(4) Subsections (2) and (3) do not apply so far as the decision involves or
+gives rise to any question as to whether—
+(a) the Special Immigration Appeals Commission is or was
+35
+properly constituted for the purpose of making the decision,
+or
+(b) the Special Immigration Appeals Commission is acting or has
+acted—
+(i) in bad faith, or
+(ii)
+40
+in such a procedurally defective way as amounts to a
+fundamental breach of the principles of natural justice.
+(5) In this section—
+“decision” includes any purported decision;
+54 Illegal Migration Bill 
+“the supervisory jurisdiction” means the supervisory jurisdiction
+of—
+(a) the High Court, in England and Wales or Northern
+Ireland, or
+(b) the Court of Session, in Scotland.” 5
+(6) In the following provisions, for “2 or 2B” substitute “2, 2AA or 2B”—
+(a) section 5(1)(a) and (b);
+(b) section 5(2);
+(c) section 6A(1);
+(d) section 6A(2)(a). 10
+(7) In section 5 (procedure in relation to jurisdiction under sections 2 and 3)—
+(a) in the heading, after “2” insert “, 2AA”;
+(b) in subsection (9), at the beginning, insert “Subject to subsection (10),”;
+(c) after subsection (9), insert—
+“(10) A statutory instrument containing the first rules made for the 15
+purposes of section 2AA (appeals in relation to the Illegal
+Migration Act 2023) must be laid before Parliament after being
+made.
+(11)
+20
+Rules contained in a statutory instrument laid before Parliament
+under subsection (10) cease to have effect at the end of the
+period of 40 days beginning with the day on which the
+instrument is made unless, during that period, the instrument
+is approved by a resolution of each House of Parliament.
+(12)
+25
+In calculating the period of 40 days, no account is to be taken
+of any whole days that fall within a period during which—
+(a) Parliament is dissolved or prorogued, or
+(b) either House of Parliament is adjourned for more than
+four days.
+(13) If rules cease to have effect as a result of subsection (11)—
+(a) that does not affect the validity of anything previously 30
+done under the rules, and
+(b) subsection (10) applies again as if the rules had not
+been made.”
+53 Interim remedies
+(1) This section applies to any court proceedings relating to a decision to remove 35
+a person from the United Kingdom under this Act (whether the proceedings
+involve consideration of Convention rights or otherwise).
+(2) Any power of the court or tribunal to grant an interim remedy (whether on
+an application of the person or otherwise) is restricted as follows.
+Illegal Migration Bill 55 
+(3) The court or tribunal may not grant an interim remedy that prevents or delays,
+or that has the effect of preventing or delaying, the removal of the person
+from the United Kingdom in pursuance of the decision.
+(4) In this section—
+“Convention rights” has the same meaning as in the Human Rights Act 5
+1998 (see section 1(1) of that Act);
+“court proceedings” means proceedings in any court or tribunal
+(including, in particular, proceedings on an application for judicial
+review);
+“decision” includes any purported decision; 10
+“interim remedy” means any interim remedy or relief however described
+(including, in particular, an interim injunction or interdict).
+54 Interim measures of the European Court of Human Rights
+(1)
+15
+This section applies where the European Court of Human Rights indicates
+an interim measure in proceedings relating to the intended removal of a
+person from the United Kingdom under, or purportedly under, this Act.
+(2) A Minister of the Crown may (but need not) determine that the duty in section
+2(1) (duty to make arrangements for removal) is not to apply in relation to
+the person.
+(3) A decision as to whether or not to make a determination under subsection 20
+(2) is to be taken personally by the Minister of the Crown.
+(4) In considering whether to make a determination under subsection (2), the
+Minister may have regard to any matter that the Minister considers relevant,
+including in particular the matter in subsection (5).
+(5) The matter mentioned in subsection (4) is the procedure by reference to which 25
+the interim measure was indicated, including in particular—
+(a) whether the government of the United Kingdom was given an
+opportunity to present observations and information before the interim
+measure was indicated;
+(b) the form of the decision to indicate the interim measure; 30
+(c) whether the European Court of Human Rights will take account of
+any representations made to it by the government of the United
+Kingdom seeking reconsideration, without undue delay, of the decision
+to indicate the interim measure;
+(d) the likely duration of the interim measure and the timing of any 35
+substantive determination by the European Court of Human Rights.
+(6) Where a Minister of the Crown does not make a determination under
+subsection (2), a person or body to which subsection (7) applies may not have
+40
+regard, in the circumstances mentioned in subsection (7), to the interim
+measure.
+(7) This subsection applies to—
+56 Illegal Migration Bill 
+(a) the Secretary of State or an immigration officer when exercising a
+function under section 2(1) or 7(2), (8) or (9) (further provisions about
+removal),
+(b)
+5
+the Upper Tribunal when considering any application or appeal under
+this Act, and
+(c) a court or tribunal when considering any application or appeal which
+relates to a decision to remove a person from the United Kingdom
+under this Act.
+(8)
+10
+No inference is to be drawn from this section as to whether or not a person
+or body mentioned in subsection (7) would otherwise have been required to
+have regard to the interim measure.
+(9) Nothing in this Act requires the Secretary of State or an immigration officer
+to effect the removal of a person from the United Kingdom pending a decision
+15
+by a Minister of the Crown as to whether or not to make a determination
+under subsection (2).
+(10) In this section—
+“decision” includes any purported decision;
+“determination” includes any purported determination.
+55 Legal aid
+(1) Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act 20
+2012 (civil legal services) is amended as mentioned in subsections (2) to (4).
+(2) In Part 1 (services), in paragraph 19 (judicial review)—
+(a) after sub-paragraph (6) insert—
+“(6A)
+25
+Sub-paragraph (5) does not exclude services provided to an
+individual who is subject to removal to a third country under
+the Illegal Migration Act 2023, in relation to judicial review
+of a refusal of a human rights claim that—
+(a) arises from Article 2 or 3 of the Human Rights
+Convention, and
+(b) is made by the individual.”; 30
+(b) in sub-paragraph (10) insert at the appropriate places—
+““human rights claim” has the meaning given by section 113 of
+the Nationality, Immigration and Asylum Act 2002;”;
+35
+““the Human Rights Convention” has the meaning given by
+paragraph 30 of this Part of this Schedule;”;
+““third country” has the meaning given by section 37 of the Illegal
+Migration Act 2023.”
+(3) In that Part, after paragraph 31B insert—
+“Removal notices under the Illegal Migration Act 2023
+31C (1) Civil legal services provided to an individual who has received a 40
+removal notice, in relation to the removal notice (including in
+Illegal Migration Bill 57 
+relation to a suspensive claim relating to the removal notice, and
+an application under section 45(4) of the Illegal Migration Act 2023
+as regards such a claim).
+(2)
+5
+Sub-paragraph (1) is subject to the exclusions in Parts 2 and 3 of
+this Schedule.
+(3) In this paragraph “removal notice” and “suspensive claim” have
+the meaning given by section 37 of the Illegal Migration Act 2023.”
+(4) In Part 3 (advocacy: exclusions and exceptions) after paragraph 16 insert—
+“16A
+10
+Advocacy in proceedings in the Upper Tribunal under any of
+sections 43 to 48 of the Illegal Migration Act 2023, or under Tribunal
+Procedure Rules made for the purposes of any of those sections.”
+(5) In regulation 11(9) of the Civil Legal Aid (Merits Criteria) Regulations 2013
+(S.I. 2013/104) (qualifying for civil legal services: cases in which merits criteria
+do not apply)—
+(a) omit the “or” at the end of sub-paragraph (d); 15
+(b) after sub-paragraph (e) insert “, or
+(f) in relation to any matter described in paragraph 31C of Part
+1 of Schedule 1 to the Act (removal notices under the Illegal
+Migration Act 2023).”
+Age assessments etc 20
+56 Decisions relating to a person’s age
+(1) This section applies if a relevant authority decides the age of a person (“P”)
+who meets the four conditions in section 2 (duty to make arrangements for
+removal), whether that decision is for the purposes of this Act or otherwise.
+(2) If the decision is made on an age assessment under section 50 or 51 of the 25
+Nationality and Borders Act 2022, P may not bring an appeal against the
+decision under section 54(2) of that Act.
+(3) Subsections (4) and (5) apply if P makes an application for judicial review
+of—
+(a) the decision mentioned in subsection (1), or 30
+(b) any decision to make arrangements for the person’s removal from the
+United Kingdom under this Act which is taken on the basis of that
+decision.
+(4)
+35
+The application does not prevent the exercise of any duty or power under
+this Act to make arrangements for the person’s removal from the United
+Kingdom.
+(5) The court or tribunal—
+(a) may quash the decision only on the basis that it was wrong in law,
+and
+58 Illegal Migration Bill 
+(b) may not quash the decision on the basis that the court or tribunal
+considers the decision mentioned in subsection (1) was wrong as a
+matter of fact.
+(6) In this section “relevant authority” means—
+(a) the Secretary of State, 5
+(b) an immigration officer,
+(c) a designated person within the meaning of Part 4 (age assessments)
+of the Nationality and Borders Act 2022,
+(d)
+10
+a local authority within the meaning of that Part, subject to subsection
+(7), or
+(e) a public authority within the meaning of that Part which is specified
+in regulations under section 50(1)(b) of that Act (referral of
+age-disputed person for age assessment).
+(7)
+15
+This section applies in relation to a decision of a local authority which is a
+decision within subsection (1) only if it is for the purposes, or also for the
+purposes, of the local authority deciding whether or how to exercise any of
+its functions under relevant children’s legislation within the meaning of Part
+4 of the Nationality and Borders Act 2022.
+(8)
+20
+For the purposes of this section, the cases in which a relevant authority decides
+the age of a person on an age assessment under section 50 or 51 of the
+Nationality and Borders Act 2022 include where a relevant authority is treated
+by virtue of regulations under section 57 of this Act as having decided that
+a person is over the age of 18.
+(9)
+25
+This section applies only in relation to a decision which is made after this
+section comes into force.
+(10) The Nationality and Borders Act 2022 is amended as follows.
+(11) In section 54(6) (appeals relating to age assessments)—
+(a) omit the “and” at the end of paragraph (a), and
+(b) at the end of paragraph (b) insert “, and
+(c) section 56 of the Illegal Migration Act 2023 (decisions 30
+relating to a person’s age).”
+(12) In section 56(1) (new information following age assessment or appeal), for
+paragraph (b) (and the “and” at the end of that paragraph) substitute—
+“(b) an appeal under section 54(2)—
+(i) could no longer be brought (ignoring any possibility of 35
+an appeal out of time),
+(ii) has been finally determined, or
+(iii) may not be brought as a result of section 56(2) of the
+40
+Illegal Migration Act 2023 (age assessments relating to
+removal under that Act), and”.
+Illegal Migration Bill 59 
+57 Age assessments: power to make provision about refusal to consent to
+scientific methods
+(1) The Secretary of State may make regulations about the effect of a decision
+5
+by a relevant person (“P”) not to consent to the use of a specified scientific
+method for the purposes of an age assessment of P where there are no
+reasonable grounds for P’s decision.
+(2) The regulations may provide that, in the circumstances set out in the
+regulations—
+(a)
+10
+section 52(7) of the Nationality and Borders Act 2022 (refusal to consent
+to scientific methods to be taken to damage credibility) does not apply,
+and
+(b) P is to be treated as if the decision-maker had decided that P was over
+the age of 18.
+(3) In this section—
+“age assessment” means an assessment under section 50 or 51 of the 15
+Nationality and Borders Act 2022;
+“decision-maker” and “specified scientific method” have the same
+meanings as in Part 4 of the Nationality and Borders Act 2022 (see
+section 49 of that Act);
+“relevant person” means a person who meets the four conditions in 20
+section 2 (duty to make arrangements for removal).
+(4) In Part 4 of the Nationality and Borders Act 2022 (age assessments)—
+(a) in section 52 (use of scientific methods in age assessments), in
+25
+subsection (7), at the end insert “(See also section 57 of the Illegal
+Migration Act 2023 (power to make provision about refusal to consent
+to scientific methods).)”;
+(b) in section 53 (regulations about age assessments), in subsection
+(1)(a)(iv), after “method,” insert “the circumstances in which a person
+30
+may be considered to have reasonable grounds for a decision not to
+consent and”.
+Inadmissibility of certain asylum and human rights claims
+58 Inadmissibility of certain asylum and human rights claims
+(1) Part 4A of the Nationality, Immigration and Asylum Act 2002 (inadmissible
+asylum claims) is amended as follows.
+(2) In section 80A (asylum claims by EU nationals)— 35
+(a) in subsection (1)—
+(i) after “claim” insert “or a human rights claim”;
+(ii) for “member State” substitute “State listed in section 80AA(1)”;
+(b) in subsection (2), for “An asylum” substitute “A”;
+(c) in subsection (3)— 40
+(i) for “an asylum” substitute “a”;
+(ii) after “82(1)(a)” insert “or (b)”;
+60 Illegal Migration Bill 
+(iii) after “protection claim” insert “or human rights claim”;
+(d) in subsection (5)—
+(i) in the words before paragraph (a), omit from “where” to
+“national”;
+(ii) in paragraph (a), at the beginning insert “in a case where the 5
+claimant is a national of a State that is a signatory to the
+Human Rights Convention, where that State”;
+(iii) in paragraph (b), at the beginning insert “in a case where the
+claimant is a national of a member State, where that State”;
+(e) in subsection (6)— 10
+(i) after “this section” insert “and section 80AA”;
+(ii) after “claim”,” insert ““human rights claim”,”;
+(iii) at the appropriate place insert—
+““national” includes citizen;”;
+(f) for the heading, substitute “Claims by nationals of listed safe States”. 15
+(3) After section 80A insert—
+“80AA Safe States for the purposes of section 80A
+(1) The States are—
+(a) Albania,
+(b) Austria, 20
+(c) Belgium,
+(d) Bulgaria,
+(e) Republic of Croatia,
+(f) Republic of Cyprus,
+(g) Czech Republic, 25
+(h) Denmark,
+(i) Estonia,
+(j) Finland,
+(k) France,
+(l) Germany, 30
+(m) Greece,
+(n) Hungary,
+(o) Iceland,
+(p) Republic of Ireland,
+(q) Italy, 35
+(r) Latvia,
+(s) Principality of Liechtenstein,
+(t) Lithuania,
+(u) Luxembourg,
+(v) Malta, 40
+(w) Netherlands,
+(x) Norway,
+(y) Poland,
+Illegal Migration Bill 61 
+(z) Portugal,
+(z1) Romania,
+(z2) Slovak Republic,
+(z3) Slovenia,
+(z4) Spain, 5
+(z5) Sweden,
+(z6) Switzerland.
+(2) The Secretary of State may by regulations amend the list in subsection
+(1) so as to add or remove a State.
+(3) The Secretary of State may add a State to the list only if satisfied that— 10
+(a) there is in general in that State no serious risk of persecution
+of nationals of that State, and
+(b) removal to that State of nationals of that State will not in
+15
+general contravene the United Kingdom’s obligations under
+the Human Rights Convention.
+(4) In deciding whether the statements in subsection (3)(a) and (b) are
+true of a State, the Secretary of State—
+(a) must have regard to all the circumstances of the State (including
+its laws and how they are applied), and
+(b) must have regard to information from any appropriate source 20
+(including member States and international organisations).
+(5) Regulations under this section—
+(a) must be made by statutory instrument;
+(b) may include transitional or saving provision.
+(6) A statutory instrument containing— 25
+(a) regulations which add a State to the list in subsection (1), or
+(b) regulations which both add a State to, and remove a State from,
+that list,
+30
+may not be made unless a draft of the instrument has been laid before
+and approved by a resolution of each House of Parliament.
+(7) A statutory instrument containing regulations under this section, other
+than one to which subsection (6) applies, is subject to annulment in
+pursuance of a resolution of either House of Parliament.”
+(4) In the heading to Part 4A, after “Asylum” insert “and Human Rights”.
+Safe and legal routes 35
+59 Cap on number of entrants using safe and legal routes
+(1) The Secretary of State must make regulations specifying the maximum number
+of persons who may enter the United Kingdom annually using safe and legal
+routes (see subsection (7)).
+(2) Before making the regulations the Secretary of State must consult— 40
+62 Illegal Migration Bill 
+(a) such representatives of local authorities, and
+(b) such other persons or bodies,
+as the Secretary of State considers appropriate.
+(3)
+5
+But the duty to consult does not apply where the Secretary of State considers
+that the number needs to be changed as a matter of urgency.
+(4) The Secretary of State must begin the consultation under subsection (2) in
+relation to the first regulations to be made under this section before the end
+of the period of 3 months beginning with the day on which this Act is passed.
+(5)
+10
+If in any year the number of persons who enter the United Kingdom using
+safe and legal routes exceeds the number specified in the regulations, the
+Secretary of State must lay a statement before Parliament—
+(a) setting out the number of persons who have, in that year, entered the
+United Kingdom using safe and legal routes, and
+(b) explaining why the number exceeds that specified in the regulations.
+(6) The statement must be laid before Parliament before the end of the period 15
+of six months beginning with the day after the last day of the year to which
+the statement relates.
+(7) In this section—
+“local authority” means—
+(a) in England and Wales, a county council, a county borough 20
+council, a district council, a London borough council, the
+Common Council of the City of London or the Council of the
+Isles of Scilly,
+(b)
+25
+in Scotland, a council constituted under section 2 of the Local
+Government etc (Scotland) Act 1994, and
+(c) in Northern Ireland, a district council;
+“safe and legal route” means a route specified in regulations made by
+the Secretary of State.
+60 Report on safe and legal routes
+(1) The Secretary of State must, before the end of the relevant period— 30
+(a) prepare and publish a report on safe and legal routes by which persons
+may enter the United Kingdom, and
+(b) lay the report before Parliament.
+(2) The report must—
+(a) contain details of the safe and legal routes by which persons may 35
+enter the United Kingdom when the report is published,
+(b) contain details of any proposed additional safe and legal routes which
+have not come into operation at that time,
+(c)
+40
+specify the routes within paragraph (a) or (b) which are or will be
+available to adults,
+(d) specify the routes within paragraph (a) or (b) which are or will be
+available to children, and
+Illegal Migration Bill 63 
+(e) contain details of how routes within paragraph (a) or (b) may be
+accessed by persons who are eligible to use them.
+(3) In this section—
+“adult” means a person who is aged 18 or over;
+“child” means a person who is under the age of 18; 5
+“the relevant period” means the period of 6 months beginning with the
+day on which this Act is passed.
+Credibility of claimant
+61 Credibility of claimant: concealment of information etc
+(1) Section 8 of the Asylum and Immigration (Treatment of Claimants, etc) Act 10
+2004 (claimant’s credibility) is amended as follows.
+(2) In subsection (3)—
+(a) in paragraphs (a) and (c) for “a passport” substitute “an identity
+document”;
+(b) in paragraph (b) for “passport” substitute “identity document”; 15
+(c) after paragraph (d) (but before the “and”) insert—
+“(da) failure to provide to an immigration officer or the
+Secretary of State, on request, any information or
+20
+anything else required in order to access any
+information stored in electronic form on a thing in the
+possession of an immigration officer or the Secretary of
+State that—
+(i) was found on the claimant, or
+(ii)
+25
+appears to an immigration officer or the
+Secretary of State to have been in the possession
+of the claimant,”.
+(3) In subsection (7)—
+(a) insert at the appropriate place—
+““document” includes information recorded in any form;”;
+““identity document” means any document that may be used 30
+(whether by itself or otherwise and with or without
+modifications) to establish, or provide evidence of, a person’s
+identity or address;”;
+(b) omit the definition of “passport”.
+(4) In subsection (8) for “A passport” substitute “An identity document”. 35
+General
+62 Financial provision
+There is to be paid out of money provided by Parliament—
+64 Illegal Migration Bill 
+(a) any expenditure incurred under or by virtue of this Act by a Minister
+of the Crown, and
+(b) any increase attributable to this Act in the sums payable under any
+other Act out of money so provided.
+63 Consequential and minor provision 5
+(1) The Secretary of State may by regulations make provision that is consequential
+on this Act.
+(2) Regulations under subsection (1) may, in particular, amend, repeal or revoke
+any enactment passed or made before, or in the same Session as, this Act.
+(3) In subsection (2) “enactment” includes— 10
+(a) an enactment contained in subordinate legislation within the meaning
+of the Interpretation Act 1978;
+(b) an enactment contained in, or in an instrument made under, an Act
+of the Scottish Parliament;
+(c) an enactment contained in, or in an instrument made under, a Measure 15
+or Act of Senedd Cymru;
+(d) an enactment contained in, or in an instrument made under, Northern
+Ireland legislation.
+(4)
+20
+In section 61(2) of the UK Borders Act 2007 (meaning of “the Immigration
+Acts”)—
+(a) omit the “and” at the end of paragraph (l), and
+(b) after paragraph (m) insert “, and
+(n) the Illegal Migration Act 2023.”
+(5)
+25
+In Schedule 5 to the Nationality and Borders Act 2022, in paragraph 8, omit
+sub-paragraph (2).
+64 Regulations
+(1) A power to make regulations under this Act is exercisable by statutory
+instrument.
+(2) Regulations under this Act may make—
+(a) consequential, supplementary, incidental, transitional or saving 30
+provision;
+(b) different provision for different purposes.
+(3) Subsection (2) does not apply to regulations under section 67(1)
+(commencement).
+(4) A statutory instrument containing (whether alone or with other provision)— 35
+(a) regulations under section 3(3)(d) (circumstances in which power to
+make arrangements for removal of unaccompanied child applies),
+(b) regulations under section 6(1) (powers to amend Schedule 1),
+(c)
+40
+regulations under section 19(1) (extension to Wales, Scotland and
+Northern Ireland),
+Illegal Migration Bill 65 
+(d) regulations under section 23(9) (amendments in consequence of
+regulations made by the Scottish Ministers),
+(e) regulations under section 25(3)(b) (continuation of operation of modern
+slavery provisions),
+(f) regulations under section 39 (meaning of “serious and irreversible 5
+harm”),
+(g) regulations under section 59 (cap on number of entrants using safe
+and legal routes),
+(h)
+10
+regulations under section 63(1) (consequential provision) which amend,
+repeal or revoke primary legislation, or
+(i) regulations under paragraph 10 of Schedule 2 (powers relating to
+relevant articles containing items subject to legal privilege),
+may not be made unless a draft of the instrument has been laid before and
+approved by a resolution of each House of Parliament.
+(5) Any other statutory instrument containing regulations under this Act for 15
+which no Parliamentary procedure is otherwise specified by this Act is subject
+to annulment in pursuance of a resolution of either House of Parliament.
+(6) Subsection (5) does not apply to a statutory instrument containing only
+regulations under—
+(a) section 25(8) (transitional etc provision in connection with suspension 20
+of operation of modern slavery provisions);
+(b) section 67 (commencement).
+(7) In this section “primary legislation” means—
+(a) an Act of Parliament,
+(b) an Act of the Scottish Parliament, 25
+(c) a Measure or Act of Senedd Cymru, or
+(d) Northern Ireland legislation.
+65 Defined expressions
+30
+In this Act an expression listed in the first column of the following table has
+the meaning given by, or is to be interpreted in accordance with, the
+corresponding provision listed in the second column of that table.
+Expression Provision
+application for judicial review section 4(6)
+human rights claim section 3(11)
+the Human Rights Convention section 5(13) 35
+immigration officer section 7(17)
+immigration rules section 2(9)
+national section 3(11)
+66 Illegal Migration Bill 
+Expression Provision
+protection claim section 3(11)
+unaccompanied child section 3(5)
+66 Extent
+(1) This Act extends to England and Wales, Scotland and Northern Ireland, subject 5
+as follows.
+(2) Section 22 extends to England and Wales only.
+(3) Section 23 extends to Scotland only.
+(4) Section 24 extends to Northern Ireland only.
+(5) Subsections (7) to (10) of section 3 (and section 64 so far as applying to those 10
+subsections) also extend to the Channel Islands and the Isle of Man and the
+British overseas territories, but only so as to enable regulations under
+subsection (7) of section 3 to make provision for any of sections 30 to 35 to
+15
+have effect with modifications in relation to a person to whom regulations
+under that subsection apply.
+(6) Sections 30 to 36 also extend to the Channel Islands and the Isle of Man and
+the British overseas territories.
+(7) His Majesty may by Order in Council provide for any of the provisions of
+20
+this Act to extend, with or without modifications, to any of the Channel
+Islands or the Isle of Man.
+(8) Subsection (7) does not apply to—
+(a) sections 3(7) to (10) and 64, so far as they extend to the Channel Islands
+and the Isle of Man by virtue of subsection (5), or
+(b) sections 30 to 36.
+(9) Any amendment, repeal or revocation made by this Act has the same extent 25
+within the United Kingdom as the provision to which it relates.
+(10) A power under any provision listed in subsection (11) may be exercised so
+as to extend (with or without modifications) to any of the Channel Islands
+30
+or the Isle of Man any amendment or repeal made by or under this Act of
+any part of an Act to which the provision listed in subsection (11) relates.
+(11) Those provisions are—
+(a) section 36 of the Immigration Act 1971,
+(b) section 9(3) of the Special Immigration Appeals Commission Act 1997,
+(c) section 170(7) of the Immigration and Asylum Act 1999,
+(d) section 163(4) of the Nationality, Immigration and Asylum Act 2002, 35
+(e) section 49(3) of the Asylum and Immigration (Treatment of Claimants,
+etc) Act 2004,
+(f) section 60(4) of the UK Borders Act 2007,
+Illegal Migration Bill 67 
+(g) section 57(5) of the Borders, Citizenship and Immigration Act 2009,
+(h) section 60(6) of the Modern Slavery Act 2015,
+(i) section 95(5) of the Immigration Act 2016, and
+(j) section 86(4) of the Nationality and Borders Act 2022.
+67 Commencement 5
+(1) Subject to subsections (3) and (4), this Act comes into force on such day as
+the Secretary of State may by regulations appoint.
+(2) Regulations under subsection (1) may appoint different days for different
+purposes.
+(3) The following provisions come into force on the day on which this Act is 10
+passed—
+(a) sections 29 to 36;
+(b) section 51;
+(c) sections 62 to 66;
+(d) this section; 15
+(e) section 68.
+(4) The following provisions come into force on the day on which this Act is
+passed for the purposes of making regulations—
+(a)
+20
+section 3 (unaccompanied children and power to provide for
+exceptions);
+(b) section 6 (powers to amend Schedule 1);
+(c) section 10(2) (detention under authority of immigration officer);
+(d) section 10(6) (detention under authority of Secretary of State);
+(e)
+25
+section 17 (duty of local authority to provide information to Secretary
+of State);
+(f) section 19 (extension of provisions relating to unaccompanied children
+to Wales, Scotland and Northern Ireland);
+(g) section 23 (modern slavery: support in Scotland);
+(h) section 37 (suspensive claims: interpretation);
+(i) section 39 (meaning of “serious and irreversible harm”); 30
+(j) section 41 (serious harm suspensive claims);
+(k) section 42 (factual suspensive claims);
+(l) section 59(7) (definition of safe and legal routes).
+(5)
+35
+The Secretary of State may by regulations make transitional or saving provision
+in connection with the coming into force of any provision of this Act.
+68 Short title
+This Act may be cited as the Illegal Migration Act 2023.
+68 Illegal Migration Bill 
+SCHEDULES
+SCHEDULE 1 Section 5
+COUNTRIES OR TERRITORIES TO WHICH A PERSON MAY BE REMOVED
+1 Republic of Albania.
+2 Austria. 5
+3 Belgium.
+4 Bolivia.
+5 Bosnia and Herzegovina.
+6 Brazil.
+7 Bulgaria. 10
+8 Republic of Croatia.
+9 Republic of Cyprus.
+10 Czech Republic.
+11 Denmark.
+12 Ecuador. 15
+13 Estonia.
+14 Finland.
+15 France.
+16 Gambia (in respect of men).
+17 Germany. 20
+18 Ghana (in respect of men).
+19 Greece.
+20 Hungary.
+21 Iceland.
+22 India. 25
+23 Republic of Ireland.
+24 Italy.
+25 Jamaica.
+26 Kenya (in respect of men).
+27 Kosovo. 30
+28 Latvia.
+29 Liberia (in respect of men).
+Illegal Migration Bill 69
+Schedule 1—Countries or territories to which a person may be removed 
+30 Principality of Liechtenstein.
+31 Lithuania.
+32 Luxembourg.
+33 Malawi (in respect of men).
+34 Mali (in respect of men). 5
+35 Malta.
+36 Mauritius.
+37 The Republic of Moldova.
+38 Mongolia.
+39 Montenegro. 10
+40 Netherlands.
+41 Nigeria (in respect of men).
+42 North Macedonia.
+43 Norway.
+44 Peru. 15
+45 Poland.
+46 Portugal.
+47 Romania.
+48 Republic of Rwanda.
+49 Serbia. 20
+50 Sierra Leone (in respect of men).
+51 Slovak Republic.
+52 Slovenia.
+53 South Africa.
+54 South Korea. 25
+55 Spain.
+56 Sweden.
+57 Switzerland.
+SCHEDULE 2 Section 14
+ELECTRONIC DEVICES ETC 30
+Introduction
+1 In this Schedule “relevant person” means a person who—
+70 Illegal Migration Bill
+Schedule 2—Electronic devices etc 
+(a) is liable to be detained under paragraph 16(2C) of Schedule 2 to
+the Immigration Act 1971 (illegal migrants), and
+(b) entered or arrived in the United Kingdom as mentioned in section
+2(2) of this Act on or after the day this Schedule came into force.
+2 (1) In this Schedule— 5
+“appropriate adult”, in relation to a person, means—
+(a) a person appearing to an immigration officer to be the
+person’s parent or guardian,
+(b)
+10
+if the person is in the care of a local authority or voluntary
+organisation, a person representing that authority or
+organisation,
+(c) a social worker of a local authority, or
+(d) if no person within a preceding paragraph is available, any
+15
+responsible person aged 18 or over who is not an
+immigration officer or a person employed for, or engaged
+on, purposes relating to a relevant function;
+“container” has the meaning given by section 1 of the Customs and
+Excise Management Act 1979;
+20
+“intimate search” has the meaning given by section 28H of the
+Immigration Act 1971;
+“item subject to legal privilege” has the meaning given by section 65(1)
+of the Criminal Justice and Police Act 2001;
+“relevant article” means anything which appears to an immigration
+25
+officer to be a thing on which relevant information is or may be
+stored in electronic form;
+“relevant function” means—
+(a) any function of an immigration officer, or
+(b) any function of the Secretary of State in relation to
+immigration, asylum or nationality;
+“relevant information” means any information which appears to an 30
+immigration officer or the Secretary of State to be relevant to a
+relevant function;
+“ship” has the meaning given by section 28Q of the Immigration Act
+1971;
+“vehicle” includes— 35
+(a) any ship, train (including any locomotive and railway rolling
+stock of any description), aircraft or bicycle, and
+(b) anything designed or adapted for towing by a vehicle.
+(2)
+40
+In paragraph (d) of the definition of “appropriate adult”, the reference to
+purposes relating to a relevant function does not include the purpose of
+performing the functions of an “appropriate adult” for the purposes of this
+Schedule.
+Illegal Migration Bill 71
+Schedule 2—Electronic devices etc 
+Power to search relevant persons
+3 An immigration officer may search a relevant person for any relevant article,
+if the officer has reasonable grounds to suspect that the relevant person is
+in possession of a relevant article.
+(1)
+(2) The power of an immigration officer under this paragraph to search a 5
+person—
+(a) authorises the search of their mouth;
+(b) authorises the officer to require the person to remove an outer coat,
+jacket or glove (but no other clothing) in public;
+(c) if the conditions in sub-paragraph (3) are met, authorises the officer 10
+to require the person to remove any clothing;
+(d) does not authorise the carrying out of an intimate search.
+(3) The conditions referred to in sub-paragraph (2)(c) are—
+(a) that the search is not carried out in public;
+(b) that the person carrying out the search is of the same sex as the 15
+person searched;
+(c) that the only persons present when the search is carried out are
+immigration officers, any person present at the request of the person
+searched, and any person present as a result of paragraph (e);
+(d) that, subject to any exceptions made at the request of the person 20
+searched, the persons present when the search is carried out are of
+the same sex as the person searched;
+(e) that if it appears to the person carrying out the search that the
+25
+person searched is under the age of 18, an appropriate adult is
+present when the search is carried out.
+Power to search vehicles and containers
+4 An immigration officer may search a vehicle or container listed in
+sub-paragraph (2) for any relevant article, if the officer has reasonable
+(1)
+30
+grounds to suspect that a relevant article that is or has been in the
+possession of a relevant person is in the vehicle.
+(2) The vehicles and containers referred to in sub-paragraph (1) are—
+(a) a vehicle or container in which the relevant person was when
+encountered by an immigration officer or constable;
+(b)
+35
+a vehicle or container which an immigration officer has reasonable
+grounds to suspect the relevant person was in at the time of their
+arrival in the United Kingdom;
+(c) a ship or container which an immigration officer has reasonable
+grounds to suspect the relevant person was in at any time during
+a journey which ended with their arrival in the United Kingdom.
+72 Illegal Migration Bill
+Schedule 2—Electronic devices etc 
+Power to search premises
+5 This paragraph applies to premises in which a relevant person was when,
+or immediately before being, encountered by an immigration officer or a
+constable.
+(1)
+(2) An immigration officer may search the premises for any relevant article 5
+if—
+(a) the officer is lawfully on the premises, and
+(b) the officer has reasonable grounds to suspect that a relevant article
+10
+that is or has been in the possession of the relevant person is on
+the premises.
+Power to search property
+6 This paragraph applies to property which an immigration officer has
+reasonable grounds to suspect has been in the possession of a relevant
+person.
+(1)
+(2) An immigration officer may search the property for any relevant article if 15
+the officer has reasonable grounds to suspect that the property includes a
+relevant article.
+Power of seizure
+7 An immigration officer may seize any relevant article that—
+(a) is found on a search under this Schedule, or 20
+(b) appears to the officer to be, or have been, in the possession of a
+relevant person.
+Power of retention
+8 (1) A relevant article seized under paragraph 7—
+(a) may be retained by an immigration officer or the Secretary of State, 25
+for so long as the officer or Secretary of State considers its retention
+necessary for a purpose relating to a relevant function;
+(b) must, subject to any provision made under sub-paragraph (2), be
+returned when it ceases to be retained under this paragraph.
+(2) The Secretary of State may by regulations make, in relation to a relevant 30
+article retained under sub-paragraph (1)—
+(a) provision applying (with or without modifications) section 49 of
+the Immigration Act 2016 (duty to pass on certain seized items), or
+(b)
+35
+provision corresponding, or similar, to the provision made by that
+section.
+Power to access, copy and use information stored on relevant article
+9 The Secretary of State or an immigration officer may—
+(a) access and examine any information stored on a relevant article that
+is retained under paragraph 8;
+Illegal Migration Bill 73
+Schedule 2—Electronic devices etc 
+(b) copy and retain any relevant information that is stored on the
+relevant article;
+(c) use any information retained under paragraph (b) for any purpose
+relating to a relevant function.
+Relevant articles containing items subject to legal privilege 5
+10 The Secretary of State may by regulations make provision about relevant
+articles that contain (or may contain) items subject to legal privilege.
+(1)
+(2) The provision that may be made includes in particular—
+(a)
+10
+provision modifying this Schedule as it applies in relation to such
+relevant articles;
+(b) provision applying (with or without modifications) any provision
+made by or under Part 2 of the Criminal Justice and Police Act 2001
+(powers of seizure);
+(c)
+15
+provision corresponding, or similar, to any provision made by or
+under that Part.
+Extension of powers to other persons
+11 (1) The Secretary of State may by regulations provide—
+(a) that references in this Schedule to an immigration officer include a
+person of a description specified in the regulations;
+(b) that a person of a description so specified may, if necessary, use 20
+reasonable force in the exercise of any function conferred by virtue
+of the regulations.
+(2) The descriptions of person that may be specified in the regulations include
+25
+persons designated by the Secretary of State, in accordance with the
+regulations.
+If they do so, the regulations must contain such safeguards relating to the
+designation of persons as the Secretary of State considers appropriate.
+74 Illegal Migration Bill
+Schedule 2—Electronic devices etc 
+
+Illegal Migration Bill
+[AS AMENDED IN COMMITTEE]
+A
+BILL
+TO
+Make provision for and in connection with the removal from the United Kingdom of
+persons who have entered or arrived in breach of immigration control; to make provision
+about detention for immigration purposes; to make provision about unaccompanied
+children; to make provision about victims of slavery or human trafficking; to make
+provision about leave to enter or remain in the United Kingdom; to make provision
+about citizenship; to make provision about the inadmissibility of certain protection and
+certain human rights claims relating to immigration; to make provision about the
+maximum number of persons entering the United Kingdom annually using safe and
+legalroutes; to make further provision about the credibility of claimants making asylum
+and human rights claims; and for connected purposes.
+Brought from the Commons on 27th April 2023
+Ordered to be Printed, 14th June 2023.
+© Parliamentary copyright House of Commons and House of Lords 2023
+This publication may be reproduced under the terms of the Open Parliament Licence, which is published at
+www.parliament.uk/site-information/copyright
+PUBLISHED BY THE AUTHORITY OF THE HOUSE OF LORDS
+HL Bill 148 58/3 

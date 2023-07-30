@@ -1,0 +1,140 @@
+.microChange {
+  section {
+    display: flex;
+    flex-direction: row;
+
+    > * {
+      flex: 0 1 auto;
+    }
+
+    h3 {
+      width: 200px;
+      flex: 0 0 auto;
+    }
+  }
+}
+
+.change {
+
+  // padding: 2em 0;
+  section {
+    padding: 2rem 0;
+    border-left: 10px solid rgba(0,0,0,0.15);
+    // background: rgba(255,255,255,0.7);
+  }
+
+  &.expanded {
+
+  }
+
+  border-bottom: 1px dotted rgba(0,0,0,0.5);
+
+  h3 {
+    margin: 0;
+    font-size: 1.15rem;
+  }
+
+  ul.metrics {
+    font-size: .8em;
+    text-transform: uppercase;
+    // background-color: rgba(255,255,255,0.1);
+    list-style: none;
+    margin: 0;
+    padding: 0 .5em;
+    display: flex;
+    flex-direction: row;
+    > li {
+      padding: .7em;
+      width: 25%;
+      flex: 0 1 auto;
+      margin: 0;
+      // margin: 0 auto;
+      // border-left: 7px solid black;
+      // padding-left: .7em;
+      font-size: 1em;
+      overflow: hidden;
+
+      span {
+        display: block;
+        background: rgba(255,255,255,0.8);
+        color: black;
+        padding: .35em .6em;
+        border: 1px solid #111;
+        // border-radius: 3px;
+        margin: 0 auto;
+        // outline: 10px solid transparent;
+        font-weight: 700;
+      }
+    }
+
+    @media only screen and (max-width: 900px) {
+      // > li 
+      font-size: .65em;
+    }
+
+    @media only screen and (max-width: 700px) {
+      // > li 
+      flex-direction: column;
+      > li { width: auto; }
+    }
+  }
+
+  div.content {
+    // background: white;
+    padding: 1em;
+
+    .pillars {
+      h4 {
+        display: inline-block;
+      }
+      ul {
+        margin: 0;
+        padding: 0;
+      }
+      li {
+        display: inline-block;
+        padding: .3em .5em;
+        background: rgba(255,255,255,0.4);
+        color: black;
+        // margin: .3em;
+        &.hasAnalysis {
+          border-left: 7px solid white;
+          padding: .5em 1em;
+          display: flex;
+          flex-direction: row;
+          margin: 0;
+          strong {
+            flex: 0 0 auto;
+            width: 30%;
+            max-width: 200px;
+            margin: auto;
+          }
+          p {
+            border-left: 1px dotted black;
+            padding-left: 1em;
+            font-size: 1em;
+            flex: 0 1 auto;
+          }
+        }
+      }
+    }
+
+    .relevantBillText {
+      margin: 0;
+      line-height: 1.32em;
+      font-size: .8em;
+      color: #333;
+      // background: #f2f2f2;
+      background: rgba(0,0,0,0.1);
+      padding: .8em;
+
+      .quote {
+        color: black;
+        transform-origin: center;
+        font-weight: normal;
+        // text-decoration: underline;
+        background: #ffffb5;
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Potential personal privacy and data control erosion; risks of excess surveillance and data mining without oversight; possible rights infringement and reduced public trust; potential bypass of consent and opaque data use; threats to data security and unauthorized access; limited legal recourse; impact on democracy, social cohesion, and public interest.

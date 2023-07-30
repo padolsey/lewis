@@ -1,0 +1,1 @@
+New reporting rules could increase bureaucracy for businesses. Expanded powers for regulators could risk overreach. Reforms to public registers may infringe on privacy rights. New civil/criminal penalties could punish well-meaning errors.

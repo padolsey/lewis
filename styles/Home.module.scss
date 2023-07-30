@@ -1,0 +1,30 @@
+.main {
+  >section {
+    padding: 1em;
+    border-top: 2px solid black;
+  }
+
+  p, ul li {
+    line-height: 1.5em;
+  }
+
+  p {
+    font-size: 1.1rem;
+  }
+
+  ul {
+    padding: .4em .4em .4em 2em;
+  }
+
+  li a {
+    display: block;
+    padding: .4em .6em;
+    color: black;
+    font-size: 1.2rem;
+    
+  }
+
+  a {
+    text-decoration: underline;
+  }
+}

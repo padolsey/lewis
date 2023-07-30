@@ -1,0 +1,1 @@
+The Economic Crime & Corporate Transparency Bill aims to reform UK companies & partnerships to prevent economic crime. Key provisions include tougher rules on company formation, new ID/reporting requirements, more powers for regulators, reforms to public registers, and new civil & criminal penalties.

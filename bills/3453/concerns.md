@@ -1,0 +1,1 @@
+The bill expands regulator powers over tech companies, allows government access to data, and increases penalties for non-compliance. It introduces new rules for subscription contracts but also exempts many sectors. There are worries about impacts on innovation and competition.

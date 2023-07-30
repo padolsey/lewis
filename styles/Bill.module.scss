@@ -1,0 +1,156 @@
+.main {
+
+  >div {
+
+    // border-top: 2px solid #111;
+  }
+
+  p, ul li {
+    line-height: 1.5em;
+  }
+
+  p {
+    font-size: 1.1rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+    margin: 0;
+    padding: 1em 0 0;
+    &:before {
+      content: "";
+    }
+    a {
+      text-decoration: none;
+      display: block;
+      position: relative;
+      &:hover:after {
+        content: "(external link - opens in new tab)";
+        display: block;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        color: white;
+        background: #111;
+        font-size: .6rem;
+        padding: .3em .5em;
+        transform: translate(0, 99%);
+      }
+    }
+  }
+
+  h2 {
+    margin: 0;
+    font-size: 1.7rem;
+    padding: 0 0 .2em;
+  }
+
+  .billMeta {
+    margin: 2em 0 1.7rem;
+    font-size: 1rem;
+    background: #dddeee;
+    letter-spacing: .03em;
+    // color: white;
+    border-left: 8px solid black;
+    padding: 1.4rem;
+
+    .billLongTitle {
+      padding: 0;
+      margin: 0;
+      font-size: 1rem;
+      &:before {
+        content: "“";
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 3em;
+        transform: translate(0, 1.1rem);
+        opacity: .4;
+        transform-origin: top;
+        display: inline-block;
+      }
+      
+      &:after {
+        // content: "”";
+        // font-size: 1.4em;
+      }
+    }
+
+    .billData {
+      margin: 1em 0 0;
+      padding: 0 0 1em 2em;
+    }
+
+    .sponsors {
+      .sponsor {
+        display: inline-block;
+        .sponsorMember {
+          border-bottom: 2px solid black;
+        }
+      }
+    }
+  }
+
+  .claude section {
+    // border-left-color: #8ac3f9;
+    // background: #dddeee;
+    border: 3px solid #111;
+  }
+
+  .tldr section, .concerns section {
+    background: #0d466d !important;
+    color: white;
+    letter-spacing: .05em;
+    * {
+      display: inline;
+      font-size: 1.3rem;
+    }
+  }
+
+  .concerns section {
+    background: #911313 !important;
+    // *{font-size: 1rem;}
+  }
+
+  .changesOutro {
+    padding: 2em 0 5em;
+    border-top: 6px dashed #111;
+  }
+
+  .date {
+    padding: .2rem 0 1rem;
+    p {
+      padding: 0;
+    }
+  }
+
+  .changesIntro {
+    background: #111;
+    color: white;
+    padding: 4em 1em;
+    border-top: 6px dashed #fffee6;
+    border-bottom: 6px dashed #fffee6;
+
+    h2 {
+      font-size: 1.04rem;
+    }
+
+    em {
+      background: #ffef66;
+      color: #111;
+      font-style: normal;
+    }
+
+    p {
+      // font-size: 1rem;
+      margin: 0;
+      padding: .7em 0 0;
+    }
+  }
+
+  ul.changes {
+    // border-top: 10px solid black;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+}
