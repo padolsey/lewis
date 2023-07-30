@@ -223,6 +223,10 @@ Remember, since this bill is about data/online-safety, you should keep an eye ou
     console.log(result);
     console.log('\n\n\n\n\n<<<<<');
 
+    if (!/<change>[\s\S]+<\/change>/.test(result.content)) {
+      return null;
+    }
+
     // Process result here, e.g., parse JSON, extract specific data, etc.
 
     if (result.content.match(/<\w+>/g).length !== result.content.match(/<\/\w+>/g).length) {
@@ -240,7 +244,7 @@ Remember, since this bill is about data/online-safety, you should keep an eye ou
 
   aggregatedProcess(results) {
     // Aggregate results here, e.g., concatenate results, calculate statistics, etc.
-    return results.map(res => {
+    return results.filter(Boolean).map(res => {
       return res.content;
     }).join('\n')
   }
