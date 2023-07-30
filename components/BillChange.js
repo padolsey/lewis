@@ -204,23 +204,15 @@ export default function BillChange({rawBill, ...change}) {
 
           <ul>
             {change?.pillars?.length && change.pillars.map((pillar) => {
-
-
-              const hasAnalysis = pillar.analysis?.trim();
-
-              {/*console.log('>>>pillar', pillar);*/}
               
               return <li
                 key={pillar.name}
-                title={pillar.analysis?.trim() || ''}
-                className={hasAnalysis ? styles.hasAnalysis : ''}>
+                title={pillar.analysis?.trim() || ''}>
                 {
-                  hasAnalysis
-                  ? <>
-                      <strong>✏️ {pillar.name}</strong>
-                      <p>{pillar.analysis.trim()}</p>
-                    </>
-                  : <strong>✏️ {pillar.name}</strong>
+                  <>
+                    <strong>‼️ {pillar.name}</strong>
+                    <p>{pillar.analysis?.trim() || <em style={{opacity: 0.5}}>(Possibly affected)</em>}</p>
+                  </>
                 }
               </li>
             })}

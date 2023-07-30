@@ -17,8 +17,6 @@ export async function getBillList() {
   let bills = await Promise.all(docNames.map(n => getBillSimpleData(n)));
   bills = bills.filter(Boolean);
 
-  // console.log('>>>>foobar', bills);
-
   return bills;
 }
 
@@ -224,25 +222,9 @@ async function calculateChanges(xmlFileContents, billTxtFileContents) {
               analysis: pillar._ || null
             };
           })
-          .filter(Boolean),
-        // pillars: Object.entries(c.pillars?.[0] || {})
-        //   .map(([name, [fields]]) => {
-
-        //     console.log('p', name, fields)
-
-        //     if (!fields?.$?.type) {
-        //       return null;
-        //     }
-
-        //     return {
-        //       name: fields.$.type,
-        //       analysis: fields._ || 'null?'
-        //     };
-        //   })
-        //   .filter(Boolean)
+          .filter(Boolean)
       }
     }).filter(change => {
-      console.log('change uuuu', change.impact, change.flag);
 
       if (!changes.length < 20) {
         // If there aren't a lot of changes, just show all.

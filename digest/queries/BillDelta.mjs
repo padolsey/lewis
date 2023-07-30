@@ -3,7 +3,7 @@ import ChunkedConcurrentGPTRequest from '../ChunkedConcurrentGPTRequest.mjs';
 export default class BillDeltaQuery extends ChunkedConcurrentGPTRequest {
   id = 'bill_delta';
   // chunkerTokenLimit = 5500;
-  chunkerTokenLimit = 2500;
+  chunkerTokenLimit = 2800;
 
   constructor(documentSpec) {
     super();
@@ -46,7 +46,6 @@ Changes of HIGH relevance that you MUST record with priority:
 - Freedom limiting measures
 - Technical or technological measures and regulations
 - Digital privacy changes
-- Changes related to encrypted communication
 
 For each identifiable change, you output:
 
@@ -183,7 +182,6 @@ Here's a more detailed structure:
 
       For simplicity: Green = Good, Red = Bad. Purple = Subtle + possibly Insidious.
 
-      PURPLE= Subtle change with potentially far-reaching implications (e.g. rules around encryption)
       RED= Obviously negative effect (e.g. racial profiling)
       YELLOW= Questionably negative effect (e.g. reduction in public scrutiny of government)
       WHITE= Very little effect (e.g. semantic or unimportant change)
@@ -191,24 +189,15 @@ Here's a more detailed structure:
       GREEN= Obviously positive effect (e.g. more protections for minorities)
      -->
 
-     You might also want to add a new flag value for changes that might have subtle, deep implications, something like a "PURPLE" flag, indicating "Potential hidden, far-reaching implications". This can flag changes that seem innocuous or technical on the surface but could have significant impacts on user privacy, security, or other concerns.
-
    </flag>
 </change>
 
-Remember, since this bill is about data/online-safety, you should keep an eye out for the following types of changes:
-
-- Data Protection: Regulations on data collection, storage, processing, and sharing.
-- Cybersecurity: Rules about security measures, cybercrime definitions, and penalties.
-- Artificial Intelligence: Regulations on AI development, use, ethics, and liability.
-- Internet Governance: Changes in rules on domain registration, content moderation, and net neutrality.
-- Digital Economy: Impacts on digital businesses, e-commerce, digital taxation, and blockchain.
-- Intellectual Property: Changes in copyright and patent law for digital content.
-- Digital Accessibility: Provisions for equitable access to digital resources.
-- Digital Identity: Rules related to online identity and authentication measures.
-- Interoperability: Stipulations on technical standards and interoperability requirements.
-- Tech Company Regulation: Changes affecting tech company operations and responsibilities.
-- Encryption/Cryptography: Regulations on the use, development, or limitations of encryption and cryptographic methods, including potential backdoors or penalties related to encrypted communication.
+${
+  this.documentSpec.watchout
+  ? 'With this bill especially you must keep an keen eye out for these types of changes:\n'
+      + this.documentSpec.watchout
+  : ''
+}
 
         `.trim() },
         { role: 'user', content: chunk },

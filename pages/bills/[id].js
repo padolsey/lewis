@@ -34,13 +34,15 @@ function Sponsor(sponsor, i) {
   return <div className={styles.sponsor} key={i}>
     {
       !!sponsor.member?.name &&
-      <span
+      <a href={
+        `https://www.google.co.uk/search?q=${encodeURIComponent(sponsor.member.name + ' (UK)')}`
+      }><span
         className={styles.sponsorMember}
         key={sponsor.member.name}
         style={{
-          borderBottomColor: '#' + sponsor.member.partyColour}}>
+          borderBottomColor: '#' + sponsor.member.partyColour + '75'}}>
           {sponsor.member.name}
-      </span>
+      </span></a>
     }
     {' '}
     <span>({
