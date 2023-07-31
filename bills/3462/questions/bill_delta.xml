@@ -1,0 +1,1489 @@
+<all><change>
+   <type>amendment</type>
+   <subject>Assured Tenancies</subject>
+
+   <quote>1 Assured tenancies to be periodic with rent period not exceeding a month</quote>
+   <quote>2 Abolition of assured shorthold tenancies</quote>
+
+   <summary>The bill proposes to abolish fixed term assured tenancies and assured shorthold tenancies, making all assured tenancies periodic with a rent period not exceeding a month.</summary>
+   <impact>4</impact>
+   <clarity>3</clarity>
+
+   <pillars>
+     <pillar type="Social Welfare">
+      This change could provide more flexibility and security for tenants, as they would not be tied to a fixed term contract and could potentially leave the tenancy with a shorter notice period.
+     </pillar>
+     <pillar type="Economic Impact">
+      This could potentially impact landlords who rely on the security of fixed term contracts for income stability. It could also affect the rental market dynamics, possibly leading to more frequent rent reviews and changes in rental prices.
+     </pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Grounds for Possession</subject>
+
+   <quote>3 Changes to grounds for possession</quote>
+
+   <summary>The bill proposes changes to the grounds for possession, potentially altering the circumstances under which a landlord can evict a tenant.</summary>
+   <impact>3</impact>
+   <clarity>2</clarity>
+
+   <pillars>
+     <pillar type="Social Welfare">
+      Depending on the specifics of the changes, this could either increase protections for tenants against eviction, or it could make it easier for landlords to evict tenants. The impact on social welfare would depend on the balance struck between these two considerations.
+     </pillar>
+     <pillar type="Justice System">
+      Changes to the grounds for possession could potentially lead to an increase in legal disputes between landlords and tenants, impacting the justice system.
+     </pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Section 8 of the 1988 Act (notice of proceedings for possession)</subject>
+   <quote>(3) In section 8 of the 1988 Act (notice of proceedings for possession)— 5
+(a) in subsection (1)(a) for “(4B)” substitute “(4AA)”;
+(b) in subsection (3)(b) for “(3A) to (4B)” substitute “(4) to (4AA)”;
+(c) omit subsection (3A);
+(d) in subsection (4)—
+(i) for “Ground 14” substitute “either or both of Grounds 7A and 10
+14”;
+(ii) after “whether” insert “with or”;
+(iii) omit “or with any ground other than Ground 7A”;
+(e) for subsections (4A) and (4B) substitute—
+“(4AA) If a notice under this section does not specify Ground 7A or 15
+14 in Schedule 2, the date specified in the notice as mentioned
+in subsection (3)(b) must not be before the end of the longest
+period shown in the following table for any ground specified
+in the notice.
+Ground specified in notice Period 20
+two months beginning with the
+date of service of the notice
+1, 1A, 1B, 2, 2ZA, 2ZB, 5,
+5A, 5B, 5C, 5D, 6, 6A, 7, 9
+four weeks beginning with the
+date of the service of the notice
+5E, 5F, 5G, 8, 8A, 10, 11, 18
+two weeks beginning with the 25
+date of the service of the notice”;
+4, 7B, 12, 13, 14ZA, 14A, 15,
+17
+(f) After subsection (5) insert—
+“(5A) A notice given by an intermediate landlord under Ground 2ZA
+30
+is to be treated, when the superior tenancy ends, as a notice
+given by the person who became the landlord by virtue of
+section 18 under Ground 2ZB.”;
+(g) omit subsection (6).</quote>
+   <summary>The bill proposes several amendments to Section 8 of the 1988 Act, which deals with the notice of proceedings for possession. These amendments include changes to the grounds for possession, the introduction of a new subsection (5A) that addresses notices given by an intermediate landlord, and the omission of subsections (3A) and (6).</summary>
+   <impact>3</impact>
+   <clarity>2</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+     <pillar type="Social Welfare"></pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 8 of the 1988 Act (form of notice of proceedings for possession)</subject>
+   <quote>4 Form of notice of proceedings for possession
+In section 8 of the 1988 Act, after subsection (6) insert—
+“(7) Regulations made under section 45(1) by virtue of subsection (3) may— 35
+(a) provide for the form to be published by the Secretary of State;
+(b) provide that the form to be used is the version that has effect
+at the time the requirement applies.”</quote>
+   <summary>The bill proposes the insertion of a new subsection (7) in Section 8 of the 1988 Act. This new subsection allows for regulations to be made that provide for the form of notice of proceedings for possession to be published by the Secretary of State and for the form to be used to be the version that has effect at the time the requirement applies.</summary>
+   <impact>2</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+     <pillar type="Social Welfare"></pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Section 13 of the 1988 Act (increases of rent)</subject>
+   <quote>5 Statutory procedure for increases of rent
+(1) Section 13 of the 1988 Act (increases of rent) is amended in accordance with
+subsections (2) to (8).
+(2) In the heading for “periodic tenancies” substitute “tenancies other than relevant 5
+low-cost tenancies”.
+(3) For subsection (1) substitute—
+“(1) This section applies to any assured tenancy other than a relevant
+low-cost tenancy.”
+(4) In subsection (2)— 10
+(a) in paragraph (a), for “the minimum period” substitute “two months”;
+(b) in paragraph (b)—
+(i) for the words before sub-paragraph (i) substitute “either”;
+(ii) after sub-paragraph (i) insert “or”;
+(c) in paragraph (c)— 15
+(i) in the words before sub-paragraph (i), after “below” insert “,
+either”;
+(ii) after sub-paragraph (i) insert “or”.
+(5) Omit subsection (3).
+(6) In subsection (4)— 20
+(a) in paragraph (a), for “by an application in the prescribed form refers
+the notice to the appropriate tribunal” substitute “applies to the
+appropriate tribunal under section 14(A3);
+(b)
+25
+in paragraph (b) for “variation of the rent which is different from”
+substitute “new rent which is lower than”.
+(7) After subsection (4) insert—
+“(4A) The rent for a period of an assured tenancy to which this section
+applies may not be greater than the rent for the previous period except
+by virtue of—
+(a) a notice under this section or an agreement under subsection 30
+(4)(b) following such a notice,
+(b) a determination under section 14, or
+(c) an agreement in writing between the landlord and the tenant
+35
+varying the rent, following a determination by the appropriate
+tribunal under section 14, where the agreed rent is lower than
+the rent that would be payable under section 14ZA or 14ZB as
+a result of the determination;
+and any provision relating to an assured tenancy to which this section
+40
+applies is of no effect so far as it provides that the rent for a particular
+period of the tenancy must or may be greater than the rent for the
+4 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+previous period otherwise than by virtue of a notice, determination
+or agreement mentioned in this subsection.
+(4B) Except as provided by subsection (4A), nothing in this section (or in
+5
+sections 14 to 14ZB) affects the right of the landlord and the tenant
+under an assured tenancy to which this section applies to vary by
+agreement any term of the tenancy.
+(4C) In this section “relevant low-cost tenancy” means—
+(a) an assured tenancy of social housing, within the meaning of
+10
+Part 2 of the Housing and Regeneration Act 2008, where the
+landlord is a private registered provider of social housing, and
+(b) any other assured tenancy of a description specified in
+regulations made by the Secretary of State.
+(4D) Regulations under subsection (4C)(b) are to be made by statutory
+instrument.
+(4E) A statutory instrument containing regulations under subsection (4C)(b) 15
+is subject to annulment in pursuance of a resolution of either House
+of Parliament.”
+(8) Omit subsection (5).</quote>
+   <summary>The bill proposes several amendments to Section 13 of the 1988 Act, which deals with increases of rent. These amendments include changes to the types of tenancies the section applies to, the procedure for increasing rent, and the introduction of new subsections (4A) to (4E) that address the conditions under which rent may be increased and the definition of a "relevant low-cost tenancy".</summary>
+   <impact>3</impact>
+   <clarity>2</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+     <pillar type="Social Welfare"></pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 13A of the 1988 Act (increases of rent under relevant low-cost tenancies)</subject>
+   <quote>(9) After section 13 of the 1988 Act insert—
+“13A Increases of rent under relevant low-cost tenancies 20
+(1) This section applies to a relevant low cost tenancy within the meaning
+given by section 13(4C).
+(2) For the purpose of securing an increase in the rent under a tenancy
+25
+to which this section applies, the landlord may serve on the tenant a
+notice in the prescribed form proposing a new rent to take effect at
+the beginning of a new period of the tenancy specified in the notice,
+being a period beginning not earlier than—
+(a) one month after the date of the service of the notice, and
+(b)
+30
+in the case of an assured agricultural occupancy, the first
+anniversary of the date on which the first period of the tenancy
+began, and
+(c) if the rent under the tenancy has previously been increased by
+virtue of a notice under this subsection or a determination
+under section 14, either—
+(i) in the case of an assured agricultural occupancy, the 35
+first anniversary of the date on which the increased rent
+took effect, or
+(ii) in any other case, the appropriate date.
+(3) The appropriate date is—
+(a) in a case to which subsection (4) applies, the date that falls 53 40
+weeks after the date on which the increased rent took effect;
+Renters (Reform) Bill 5
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(b) in any other case, the date that falls 52 weeks after the date on
+which the increased rent took effect.
+(4) This subsection applies where—
+(a)
+5
+the rent under the tenancy has been increased by virtue of a
+notice under this section or a determination under section 14
+on at least one occasion after the coming into force of the
+Regulatory Reform (Assured Periodic Tenancies)(Rent Increases)
+Order 2003, and
+(b)
+10
+the fifty-third week after the date on which the last such
+increase took effect begins more than six days before the
+anniversary of the date on which the first such increase took
+effect.
+(5) Where a notice is served under subsection (2), a new rent specified in
+15
+the notice takes effect as mentioned in the notice unless, before the
+beginning of the new period specified in the notice—
+(a) the tenant applies to the tribunal under section 14(A3), or
+(b) the landlord and the tenant agree on a variation of the rent
+which is different from that proposed in the notice or agree
+that the rent should not be varied.
+(6) Nothing in this section (or in section 14) affects the right of the landlord 20
+and the tenant under a relevant low-cost tenancy within the meaning
+given by section 13(4C) to vary by agreement any term of the tenancy
+(including a term relating to rent).”</quote>
+   <summary>The bill proposes the insertion of a new Section 13A in the 1988 Act, which deals with increases of rent under relevant low-cost tenancies. This new section outlines the procedure for increasing rent under such tenancies, including the conditions under which a new rent specified in a notice takes effect.</summary>
+   <impact>3</impact>
+   <clarity>2</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+     <pillar type="Social Welfare"></pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Subsection (3)</subject>
+   <quote>(4) In subsection (3)—
+(a) in the words before paragraph (a)— 15
+(i) omit the words from “in relation to” to “above,”;
+(ii) for “notice”, in the second place it occurs, substitute
+“application”;
+(b)
+20
+in paragraphs (a) and (b) for “service of the notice” substitute “the
+application”.</quote>
+   <summary>The bill proposes to amend subsection (3) by omitting certain words and substituting "notice" with "application".</summary>
+   <impact>2</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+   </pillars>
+   <flag>WHITE</flag>
+</change>
+<change>
+   <type>deletion</type>
+   <subject>Subsections (6), (7), and (9)</subject>
+   <quote>(6) Omit subsections (6) and (7).
+(8) Omit subsection (9).</quote>
+   <summary>The bill proposes to delete subsections (6), (7), and (9).</summary>
+   <impact>2</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+   </pillars>
+   <flag>WHITE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 14 of the 1988 Act</subject>
+   <quote>(9) After section 14 of the 1988 Act insert—
+“14ZA Effect of determination: rent payable 30
+(1) This section applies where the appropriate tribunal makes a
+determination on an application under section 14(A1) in relation to a
+tenancy.</quote>
+   <summary>The bill proposes to insert a new section after section 14 of the 1988 Act, which pertains to the effect of a tribunal's determination on rent payable.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Economic Impact"></pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Housing Act 1988</subject>
+   <quote>(1) In the Housing Act 1988, after section 16 insert—
+“16A Requesting consent to keep a pet
+(1)
+30
+It is an implied term of every assured tenancy to which this section
+applies that—
+(a) a tenant may keep a pet at the dwelling-house if the tenant
+asks to do so in accordance with this section and the landlord
+consents;</quote>
+   <summary>The bill proposes to insert a new section after section 16 of the Housing Act 1988, which allows tenants to keep a pet at the dwelling-house with the landlord's consent.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Human Rights"></pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Housing Act 1988</subject>
+   <quote>(2) In section 45(1) of the Housing Act 1988, in the appropriate place insert—
+““pet” means an animal kept by a person mainly for—
+10 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(a) personal interest,
+(b) companionship,
+(c) ornamental purposes, or
+(d) any combination of paragraphs (a) to (c);</quote>
+   <summary>The bill proposes to insert a definition of "pet" in section 45(1) of the Housing Act 1988.</summary>
+   <impact>2</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Human Rights"></pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Tenant Fees Act 2019</subject>
+   <quote>(1) In the Tenant Fees Act 2019, in section 1(4)—
+(a) omit the “or” at the end of paragraph (a);
+(b) after “tenant” in paragraph (b), insert “, or
+(c) if the tenant is keeping a pet in the housing, insurance 15
+that the landlord requires under an implied term of an
+assured tenancy under section 16C(1) of the Housing
+Act 1988 (insurance where landlord consents to keeping
+of a pet).”</quote>
+   <summary>The bill proposes to amend section 1(4) of the Tenant Fees Act 2019 to include a provision for insurance if the tenant is keeping a pet in the housing.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Economic Impact"></pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>1988 Act</subject>
+   <quote>9 Duty to give statement of terms and other information
+In the 1988 Act, after section 16C (inserted by section 7 of this Act) insert—
+“Duties of landlords etc
+16D Duty to give statement of terms and other information
+(1) This section applies to an assured tenancy other than a tenancy of 25
+social housing (within the meaning of Part 2 of the Housing and
+Regeneration Act 2008) under which the landlord is a private registered
+provider of social housing.</quote>
+   <summary>The bill proposes to insert a new section after section 16C of the 1988 Act, which imposes a duty on landlords to give a statement of terms and other information.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Human Rights"></pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 16D of the 1988 Act</subject>
+   <quote>The landlord under a tenancy to which this section applies must give the tenant a written statement of—
+(a) such terms of the tenancy as are specified in regulations made by the Secretary of State, whether in the form of an agreement in writing between the landlord and tenant or a record of terms otherwise agreed,
+(b) where the landlord may wish to recover possession on any of Grounds 1B, 2ZA, 2ZB, 4, 5 to 5G or 18 in Schedule 2, the landlord’s wish to be able to recover possession on that ground,
+(c) any other information in writing about any of the following which is required to be given by regulations made by the Secretary of State—
+(i) the tenancy;
+(ii) the dwelling-house let on the tenancy;
+(iii) the tenant;
+(iv) the landlord;
+(v) the rights of the landlord or the tenant in relation to the tenancy or the dwelling-house let on it.</quote>
+   <summary>The bill proposes that landlords must provide tenants with a written statement detailing the terms of the tenancy, the landlord's wish to recover possession on certain grounds, and other information as required by regulations made by the Secretary of State. This statement must be given before the beginning of the tenancy.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Human Rights">This change could potentially increase transparency and protect tenants' rights by ensuring they are fully informed about the terms of their tenancy and their rights and responsibilities.</pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 16E of the 1988 Act</subject>
+   <quote>This section applies to an assured tenancy other than a tenancy of social housing (within the meaning of Part 2 of the Housing and Regeneration Act 2008) under which the landlord is a private registered provider of social housing.</quote>
+   <summary>The bill proposes new restrictions on landlords of assured tenancies, excluding those who are private registered providers of social housing. These restrictions include prohibitions on letting the dwelling-house for a fixed term, ending the tenancy by service of a notice to quit, and serving a notice under section 8(3) that is not in the prescribed form or specifies a ground the landlord is not entitled to rely on.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Human Rights">This change could potentially protect tenants' rights by placing restrictions on landlords' ability to end tenancies or impose certain terms.</pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 16F of the 1988 Act</subject>
+   <quote>A local housing authority may impose a financial penalty on a person who is or was a landlord of a dwelling-house let on an assured tenancy if satisfied beyond reasonable doubt—
+(a) that the person contravened section 16D or any paragraph of section 16E(2) other than paragraph (d), or
+(b) that—
+(i) the person contravened paragraph (d) of section 16E(2),
+and
+(ii) the tenant surrendered the tenancy as a result, without an order for possession of the dwelling-house being made.</quote>
+   <summary>The bill proposes that local housing authorities may impose a financial penalty on landlords who contravene the new requirements set out in sections 16D and 16E of the 1988 Act. The amount of the penalty is to be determined by the authority but must not exceed £5,000.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Human Rights">This change could potentially protect tenants' rights by penalizing landlords who fail to comply with the new requirements.</pillar>
+     <pillar type="Economic Impact">This change could potentially impose financial costs on landlords who fail to comply with the new requirements.</pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 16G Offences</subject>
+   <quote>A person who is a landlord of a dwelling-house let on an assured tenancy is guilty of an offence if—
+(a) the person serves on the tenant a notice under section 8(3), or 40
+a purported notice under section 8(3) (within the meaning
+given by section 16E(2)(d))—
+(i) specifying a ground in Schedule 2 knowing that they
+are not entitled to rely on that ground, or being reckless
+as to whether they are entitled to rely on it, or
+(ii) specifying one or more of Grounds 1, 1A and 6 in
+Schedule 2 and specifying that the proceedings will not
+begin earlier than a date specified in the notice, knowing
+or being reckless as to the fact that the date is earlier
+than 6 months after the beginning of the tenancy, and
+(b) the tenant surrenders the tenancy as a result, without an order
+for possession of the dwelling-house being made.</quote>
+   <summary>The bill introduces new offences for landlords of assured tenancies. Landlords can be found guilty if they serve a notice on the tenant under certain conditions, such as specifying a ground in Schedule 2 knowing that they are not entitled to rely on that ground, or being reckless as to whether they are entitled to rely on it. Another offence is if the landlord specifies that proceedings will not begin earlier than a date specified in the notice, knowing or being reckless as to the fact that the date is earlier than 6 months after the beginning of the tenancy, and the tenant surrenders the tenancy as a result, without an order for possession of the dwelling-house being made.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+     <pillar type="Human Rights"></pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 16H Financial penalties as an alternative to prosecution under section 16G</subject>
+   <quote>A local housing authority may impose a financial penalty on a person if satisfied beyond reasonable doubt that the person is guilty of an offence under section 16G.</quote>
+   <summary>The bill allows local housing authorities to impose financial penalties on a person if they are satisfied beyond reasonable doubt that the person is guilty of an offence under section 16G. This provides an alternative to prosecution.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+     <pillar type="Human Rights"></pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 16I Financial penalties: supplementary and interpretation</subject>
+   <quote>The Secretary of State may give financial assistance (by way of grant, loan guarantee or in any other form) or make other payments to a local housing authority in respect of the local housing authority’s functions under or by virtue of sections 16F to 16H.</quote>
+   <summary>The bill allows the Secretary of State to provide financial assistance or make other payments to local housing authorities in respect of their functions under sections 16F to 16H. This could include grants, loans, guarantees, or other forms of financial assistance.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Economic Impact"></pillar>
+     <pillar type="Justice System"></pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Proceedings for the recovery of a financial penalty</subject>
+   <quote>In proceedings before the county court for the recovery of a financial penalty or part of a financial penalty, a certificate which is—
+(a) signed by the chief finance officer of the local housing authority which imposed the penalty, and
+(b) states that the amount due has not been received by a date specified in the certificate,
+is conclusive evidence of that fact.</quote>
+   <summary>The bill proposes that in proceedings for the recovery of a financial penalty, a certificate signed by the chief finance officer of the local housing authority which imposed the penalty, stating that the amount due has not been received by a specified date, is conclusive evidence of that fact.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+   </pillars>
+   <flag>WHITE</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Proceeds of financial penalties</subject>
+   <quote>Where a local housing authority imposes a financial penalty under this Act, it may apply the proceeds towards meeting the costs and expenses (whether administrative or legal) incurred in, or associated with, carrying out any of its enforcement functions under this Act or otherwise in relation to the private rented sector.</quote>
+   <summary>The bill proposes that when a local housing authority imposes a financial penalty under this Act, it may use the proceeds to cover the costs and expenses incurred in carrying out any of its enforcement functions under this Act or in relation to the private rented sector.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Economic Impact"></pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Notices to quit by tenants under assured tenancies: timing</subject>
+   <quote>A notice to quit satisfies this subsection—
+(a) where it is given by a tenant in relation to premises let under an assured tenancy, if it is given—
+(i) not less than any length of time before the date on which the notice is to take effect, not exceeding two months, that the landlord has agreed to in writing, or
+(ii) in the absence of agreement under sub-paragraph (i), not less than two months before the date on which the notice is to take effect;</quote>
+   <summary>The bill proposes that a notice to quit by a tenant under an assured tenancy satisfies this subsection if it is given not less than any length of time before the date on which the notice is to take effect, not exceeding two months, that the landlord has agreed to in writing, or in the absence of agreement, not less than two months before the date on which the notice is to take effect.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Human Rights"></pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Notices to quit by tenants under assured tenancies: other</subject>
+   <quote>Any provision that would bind a tenant as to the means of giving a notice in writing to quit premises let under an assured tenancy is of no effect.</quote>
+   <summary>The bill proposes that any provision that would bind a tenant as to the means of giving a notice in writing to quit premises let under an assured tenancy is of no effect.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Human Rights"></pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Limitation on obligation to pay removal expenses</subject>
+   <quote>In section 11(1) of the 1988 Act (payment of removal expenses)—
+(a) after “tenancy” insert “in relation to which the landlord is a private registered provider of social housing,”;</quote>
+   <summary>The bill proposes to limit the obligation to pay removal expenses to tenancies in relation to which the landlord is a private registered provider of social housing.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Economic Impact"></pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Accommodation for homeless people: duties of local authority</subject>
+   <quote>In section 193 (duty to persons with priority need who are not homeless intentionally)—
+(a) in subsection (1A), omit paragraph (b) (exception for notice of refusal to co-operate) and the “or” before it;</quote>
+   <summary>The bill proposes to omit the exception for notice of refusal to co-operate in the duty of local authorities to persons with priority need who are not homeless intentionally.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Social Welfare"></pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Tenancy deposit requirements</subject>
+   <quote>Chapter 4 of Part 6 of the Housing Act 2004 (tenancy deposit schemes) is amended as follows.
+(2) In section 212—
+(a) in subsection (1), for “shorthold” substitute “assured”;</quote>
+   <summary>The bill proposes to amend the tenancy deposit schemes to substitute "shorthold" with "assured".</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Economic Impact"></pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Assured tenancies</subject>
+
+   <quote>(3) Where a tenancy deposit has been paid in connection with an assured tenancy, the court may make an order for possession of the dwelling-house let on the assured tenancy only if the requirements of section 213(5) and (6)(a) have been complied with.</quote>
+   <quote>(4) Subsections (1) to (3) do not apply in relation to an order for possession made on Ground 7A or 14 in Schedule 2 to the Housing Act 1988 (whether or not any other grounds for possession are met).</quote>
+   <quote>(5) Subsections (1) to (3) do not apply where— (a) the tenancy deposit has been returned to the tenant in full or with such deductions as are agreed between the landlord and tenant, or (b) an application to the county court has been made under section 214(1) and has been determined by that court, withdrawn or settled by agreement between the parties.</quote>
+
+   <summary>The bill proposes amendments to the conditions under which a court may order possession of a dwelling-house let on an assured tenancy. The court can only make an order if the tenancy deposit has been paid and certain requirements have been met. However, these conditions do not apply if the order for possession is made on certain grounds or if the tenancy deposit has been returned or a court application has been made and resolved.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+
+   <pillars>
+     <pillar type="Justice System">
+      The proposed changes could potentially affect the legal processes surrounding tenancy disputes and evictions, potentially providing more protections for tenants.
+     </pillar>
+     <pillar type="Social Welfare">
+      The changes could potentially impact the welfare of tenants, particularly those in precarious financial situations, by providing additional protections against eviction.
+     </pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Penalties for unlawful eviction or harassment of occupier</subject>
+
+   <quote>(1) The Protection from Eviction Act 1977 is amended as follows. (2) In section 1, after subsection (6) insert— “(7) A person may not be convicted of an offence under this section in respect of any conduct if a financial penalty has been imposed under section 1A in respect of that conduct.”</quote>
+   <quote>(3) After section 1 insert— “1A Financial penalty for offence under section 1 (1) A local housing authority may impose a financial penalty on a person if satisfied beyond reasonable doubt that the person has committed an offence under section 1 in relation to premises in England.</quote>
+
+   <summary>The bill proposes amendments to the Protection from Eviction Act 1977, introducing a financial penalty for offences under section 1 of the Act. A person cannot be convicted of an offence if a financial penalty has already been imposed for the same conduct.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+
+   <pillars>
+     <pillar type="Justice System">
+      The proposed changes could potentially affect the legal processes surrounding eviction and harassment offences, introducing a financial penalty as an alternative to conviction.
+     </pillar>
+     <pillar type="Social Welfare">
+      The changes could potentially impact the welfare of tenants, particularly those facing unlawful eviction or harassment, by providing an additional deterrent for such behaviour.
+     </pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Tenancies of more than seven years not to be assured tenancies</subject>
+
+   <quote>(1) In Part 1 of Schedule 1 to the 1988 Act (tenancies which cannot be assured tenancies), after paragraph 3C insert— “Fixed term tenancies of more than seven years 3D A fixed term tenancy of a term certain of more than seven years from the date of the grant of the tenancy.”</quote>
+
+   <summary>The bill proposes the insertion of a new provision into the 1988 Act, specifying that fixed term tenancies of more than seven years cannot be assured tenancies.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+
+   <pillars>
+     <pillar type="Justice System">
+      The proposed changes could potentially affect the legal status of certain tenancies, specifically those with a fixed term of more than seven years.
+     </pillar>
+     <pillar type="Social Welfare">
+      The changes could potentially impact the welfare of tenants, particularly those with longer-term tenancies, by altering the protections and rights associated with assured tenancies.
+     </pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Penalties for unlawful eviction or harassment of occupier</subject>
+   <quote>The final notice must require the penalty to be paid within the period of 28 days beginning with the day after that on which the notice was given.</quote>
+   <quote>The final notice must set out— (a) the date on which the final notice is served, (b) the amount of the financial penalty, (c) the reasons for imposing the penalty, (d) information about how to pay the penalty, (e) the period for payment of the penalty, (f) information about rights of appeal, and (g) the consequences of failure to comply with the notice.</quote>
+   <quote>A local housing authority may at any time— (a) withdraw a notice of intent or final notice, or (b) reduce the amount specified in a notice of intent or final notice.</quote>
+   <quote>A person to whom a final notice is given may appeal to the First-tier Tribunal against— (a) the decision to impose the penalty, or (b) the amount of the penalty.</quote>
+   <quote>This paragraph applies if a person fails to pay the whole or any part of a financial penalty which, in accordance with this Schedule, the person is liable to pay.</quote>
+   <quote>Where a local housing authority imposes a financial penalty under this Act, it may apply the proceeds towards meeting the costs and expenses (whether administrative or legal) incurred in, or associated with, carrying out any of its enforcement functions under this Act or otherwise in relation to the private rented sector.</quote>
+   <summary>The bill introduces a new penalty system for unlawful eviction or harassment of occupiers. The penalty must be paid within 28 days of the notice being given. The notice must include details such as the date, amount, reasons for the penalty, payment information, appeal rights, and consequences of non-compliance. The local housing authority has the power to withdraw or reduce the penalty. The person penalized can appeal the decision or the amount to the First-tier Tribunal. If the penalty is not paid, the local housing authority can recover it. The proceeds from the penalty can be used by the local housing authority to cover costs and expenses related to its enforcement functions.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+     <pillar type="Human Rights"></pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Meaning of “residential landlord”</subject>
+   <quote>In this Part— “residential landlord” means the landlord under a relevant tenancy of a dwelling in England that is not social housing; “residential tenancy” and “residential tenant” are to be read accordingly.</quote>
+   <quote>The Secretary of State may by regulations amend this Chapter so as to— (a) change the meaning of “residential landlord” in relation to an assured tenancy that is a sub-tenancy— (i) so that in addition to the landlord under the relevant tenancy, it includes any or all superior landlords in relation to that tenancy, or (ii) so that it does not include superior landlords added by virtue of this paragraph; (b) change the meaning of “relevant tenancy” so as to add or remove a particular kind of— (i) tenancy of a dwelling that is periodic or granted for a term of less than 21 years, or (ii) licence to occupy a dwelling; (c) change the meaning of “dwelling”— (i) so that in addition to a building or part of a building occupied or intended to be occupied as a separate dwelling, it includes any other structure, vehicle or vessel so occupied or intended to be so occupied, or (ii) so that it does not include anything added by virtue of this paragraph.</quote>
+   <summary>The bill defines "residential landlord" as the landlord under a relevant tenancy of a dwelling in England that is not social housing. The Secretary of State has the power to amend this definition to include or exclude superior landlords in relation to an assured tenancy that is a sub-tenancy, to add or remove a particular kind of tenancy or licence to occupy a dwelling, and to expand or limit the definition of "dwelling".</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+     <pillar type="Human Rights"></pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Landlord redress schemes</subject>
+   <quote>The Secretary of State may make regulations requiring a residential landlord to be a member of a landlord redress scheme.</quote>
+   <quote>A “landlord redress scheme” means a scheme— (a) which provides for a complaint made by or on behalf of a prospective, current or former residential tenant against a member of the scheme to be independently investigated and determined by an independent individual, and (b) which is— (i) approved by the Secretary of State for the purposes of regulations under subsection (1), or (ii) administered by or on behalf of the Secretary of State and designated by the Secretary of State for those purposes.</quote>
+   <quote>Regulations under subsection (1) may— (a) require a person to be a member of a landlord redress scheme before a dwelling is marketed for the purpose of creating a residential tenancy under which that person will be a residential landlord; (b) prohibit a person from marketing a dwelling for the purpose of creating a residential tenancy unless the person who will be a residential landlord if the tenancy is granted is a member of a landlord redress scheme; (c) require a person to remain a member of the scheme after ceasing to be a residential landlord, for a period specified in the regulations.</quote>
+   <summary>The bill allows the Secretary of State to make regulations requiring a residential landlord to be a member of a landlord redress scheme. This scheme provides for complaints made by or on behalf of a prospective, current or former residential tenant against a member of the scheme to be independently investigated and determined. The scheme must be approved by the Secretary of State or administered by or on behalf of the Secretary of State. The regulations may require a person to be a member of the scheme before marketing a dwelling for the purpose of creating a residential tenancy, prohibit a person from marketing a dwelling unless they are a member of the scheme, and require a person to remain a member of the scheme after ceasing to be a residential landlord.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+     <pillar type="Human Rights"></pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>subsection (6)</subject>
+   <quote>“complaints under a voluntary jurisdiction” means complaints in relation 35
+to which there is no duty to be a member of a landlord redress scheme,
+where the members against whom the complaints are made have
+voluntarily accepted the jurisdiction of the scheme over those
+complaints;</quote>
+   <quote>“voluntary mediation services” means mediation, conciliation or similar 40
+processes provided at the request of a member in relation to complaints
+made—
+(a) against the member, or
+(b) by the member against another person;</quote>
+   <quote>“voluntary members” means members who are not subject to a duty to
+be a member of a landlord redress scheme.</quote>
+   <summary>The bill introduces definitions for "complaints under a voluntary jurisdiction", "voluntary mediation services", and "voluntary members" in relation to landlord redress schemes.</summary>
+   <impact>2</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System">The introduction of these definitions could potentially streamline the process of dealing with complaints in landlord redress schemes, particularly those involving voluntary members or complaints under a voluntary jurisdiction.</pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>subsection (2)</subject>
+   <quote>The Secretary of State must by regulations set out conditions which are to be
+satisfied before a scheme is approved or designated under section 24(2)(b),
+which must include conditions requiring the scheme to include provision in
+accordance with the regulations—
+(a) for the administrator to appoint an individual, having obtained the 10
+Secretary of State’s approval of the individual and the terms of the
+appointment, who is to be responsible for overseeing and monitoring
+the investigation and determination of complaints under the scheme,</quote>
+   <summary>The bill mandates the Secretary of State to set out conditions for the approval or designation of a landlord redress scheme. These conditions must include the appointment of an individual, approved by the Secretary of State, to oversee and monitor the investigation and determination of complaints under the scheme.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System">This change could potentially improve the accountability and effectiveness of landlord redress schemes by ensuring that an approved individual is responsible for overseeing and monitoring complaints.</pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>subsection (26)</subject>
+   <quote>A local housing authority may impose a financial penalty on a person if 15
+satisfied beyond reasonable doubt that the person has—
+(a) breached regulations under section 24(1) or (4), or
+(b) committed an offence under section 27.</quote>
+   <quote>The amount of a financial penalty imposed under this section is to be
+determined by the authority imposing it, but must not be more than—
+(a) £5,000, if it is imposed under subsection (1)(a), or
+(b) £30,000, if it is imposed under subsection (1)(b).</quote>
+   <summary>The bill allows local housing authorities to impose financial penalties on individuals who breach certain regulations or commit certain offences. The maximum penalty is set at £5,000 for breaches of regulations and £30,000 for offences.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System">This change could potentially deter breaches of regulations and offences by imposing significant financial penalties.</pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Offences and Penalties</subject>
+   <quote>(3) A person commits an offence if—
+(a) either—
+(i)
+35
+a relevant penalty has been imposed on the person in respect
+of an offence under this section and the final notice imposing
+the penalty has not been withdrawn, or
+(ii) the person has been convicted of such an offence, and
+(b) the person breaches regulations under section 24(1) or (4) within the
+40
+period of five years beginning with the day on which the relevant
+penalty was imposed or the person was convicted.</quote>
+   <summary>The bill introduces a new offence for breaching regulations under section 24(1) or (4) within five years of a relevant penalty being imposed or a conviction for such an offence. The relevant penalty refers to a financial penalty imposed under section 26.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Landlord Redress Schemes</subject>
+   <quote>28 Decision under a landlord redress scheme may be made enforceable as if it
+were a court order
+(1) The Secretary of State may by regulations make provision for, or in connection 30
+with, authorising the administrator of a landlord redress scheme to apply to
+a court or tribunal for an order that a determination made under the scheme
+and accepted by the complainant in question be enforced as if it were an
+order of a court.</quote>
+   <summary>The bill allows for decisions made under a landlord redress scheme to be enforceable as if they were court orders. The Secretary of State can make regulations to authorise the scheme administrator to apply to a court or tribunal for such an order.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Private Rented Sector Database</subject>
+   <quote>32 The database
+(1) The database operator must establish and operate a database containing—
+(a) entries in respect of persons who are, or intend to become, residential 15
+landlords,
+(b) entries in respect of dwellings which are, or are intended to be, let under
+residential tenancies, and
+(c) entries made under section 40 in respect of the following—
+(i) persons against whom relevant banning orders have been made, 20
+(ii) persons who have been convicted of, or on whom financial penalties
+have been imposed in relation to, relevant banning order offences,
+and
+(iii)
+25
+persons who have been convicted of offences, on whom financial
+penalties have been imposed or who have been subject to regulatory
+action, of a description prescribed by regulations under that section.</quote>
+   <summary>The bill mandates the establishment and operation of a database containing entries about residential landlords, dwellings let under residential tenancies, and persons subject to relevant banning orders, convictions, financial penalties, or regulatory action.</summary>
+   <impact>4</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+     <pillar type="Human Rights"></pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Regulations for Landlord and Dwelling Entries in the Database</subject>
+   <quote>(2) The regulations may, in particular—
+(a) provide for an active landlord or dwelling entry to become inactive 20
+after a period specified in or determined in accordance with the
+regulations if requirements specified in the regulations are not met,
+(b) provide for an active landlord or dwelling entry to become inactive
+25
+in circumstances in which an active entry is no longer required in
+respect of the landlord or dwelling, and
+(c) specify requirements that must be met for an inactive landlord or
+dwelling entry to become an active entry.
+(3) The requirements that may be imposed by regulations under this section include
+requirements for the payment of fees.</quote>
+   <summary>The bill proposes regulations that govern the status of landlord and dwelling entries in a database. These regulations may specify conditions under which an active entry becomes inactive, and vice versa. They may also impose requirements for the payment of fees.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Economic Impact">The proposed regulations could impose financial obligations on landlords, potentially affecting the cost of renting properties.</pillar>
+     <pillar type="Justice System">The proposed regulations could affect the legal responsibilities of landlords and the enforcement of housing laws.</pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Verification, Correction, and Removal of Database Entries</subject>
+   <quote>(1) The Secretary of State may by regulations make provision about—
+(a) the verification of landlord and dwelling entries in the database,
+(b) the correction of errors in such entries, and
+(c) the removal of such entries from the database.</quote>
+   <summary>The bill proposes that the Secretary of State may establish regulations for the verification, correction, and removal of landlord and dwelling entries in the database.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System">The proposed regulations could affect the legal responsibilities of landlords and the enforcement of housing laws.</pillar>
+     <pillar type="Economic Impact">The proposed regulations could impose administrative obligations on landlords, potentially affecting the cost of renting properties.</pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Restrictions on Marketing, Advertising, and Letting Dwellings</subject>
+   <quote>(1) A person must not market a dwelling for the purpose of creating a residential
+tenancy unless—
+(a) there is an active landlord entry in the database in respect of the person 5
+who will be the residential landlord if the tenancy is granted, and
+(b) there is an active dwelling entry in the database in respect of the
+dwelling.</quote>
+   <summary>The bill proposes restrictions on marketing, advertising, and letting dwellings. Specifically, a person cannot market a dwelling for the purpose of creating a residential tenancy unless there is an active landlord entry and an active dwelling entry in the database.</summary>
+   <impact>4</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Economic Impact">The proposed restrictions could affect the rental market, potentially impacting landlords, tenants, and property prices.</pillar>
+     <pillar type="Justice System">The proposed restrictions could affect the legal responsibilities of landlords and the enforcement of housing laws.</pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Entries Relating to Banning Orders, Offences, Financial Penalties, etc.</subject>
+   <quote>(1) A local housing authority must make an entry in the database in respect of 35
+a person if—
+(a) a relevant banning order has been made against the person following
+an application by the authority,
+(b) the person has been convicted of a relevant banning order offence
+following the institution of criminal proceedings by the authority, or
+(c) the authority has imposed a financial penalty on the person in relation
+to a relevant banning order offence.</quote>
+   <summary>The bill proposes that local housing authorities must make an entry in the database for a person if a relevant banning order has been made against the person, the person has been convicted of a relevant banning order offence, or the authority has imposed a financial penalty on the person in relation to a relevant banning order offence.</summary>
+   <impact>4</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System">The proposed change could affect the enforcement of housing laws and the legal responsibilities of landlords.</pillar>
+     <pillar type="Economic Impact">The proposed change could affect the rental market, potentially impacting landlords, tenants, and property prices.</pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Part 2—Residential landlords, Chapter 3—The Private Rented Sector Database</subject>
+
+   <quote>The database operator must allocate an identifier (referred to in this Chapter as a “unique identifier”) to each person in respect of whom, and dwelling in respect of which, an entry is made in the database under this Chapter.</quote>
+   <quote>The database operator must— ensure that facilities are available for persons who are unable to use a computer or other electronic device, or do not wish to do so, to make and maintain landlord and dwelling entries in the database</quote>
+   <quote>The database operator must report to the Secretary of State on— the performance of the database, and any matters or trends relating to the database and the information contained in it that the database operator considers are appropriate to be brought to the attention of the Secretary of State.</quote>
+
+   <summary>The bill proposes the creation of a new database for the private rented sector. This database will be operated by a designated operator who will be responsible for allocating unique identifiers to each person and dwelling listed in the database. The operator will also ensure that facilities are available for those unable to use electronic devices to make and maintain entries in the database. The operator will be required to report to the Secretary of State on the performance of the database and any relevant trends or matters.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+
+   <pillars>
+     <pillar type="Social Welfare">
+      This change could potentially improve the management and oversight of the private rented sector, benefiting both landlords and tenants.
+     </pillar>
+     <pillar type="Digital Privacy">
+      The creation of a new database raises potential concerns about data privacy and security, particularly given the requirement for unique identifiers for individuals and dwellings.
+     </pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Part 2—Residential landlords, Chapter 3—The Private Rented Sector Database</subject>
+
+   <quote>The Secretary of State may by regulations— specify the information contained in active landlord and dwelling entries in the database, and in entries made in the database under section 40, which the database operator is to make available to the public</quote>
+   <quote>The database operator must give access to information in the database to the following— lead enforcement authorities, local housing authorities, local weights and measures authorities in England, mayoral combined authorities, as defined by section 107A(8) of the Local Democracy, Economic Development and Construction Act 2009, and the Greater London Authority.</quote>
+
+   <summary>The bill proposes that the Secretary of State will have the power to regulate what information from the database is made available to the public. The database operator will also be required to give access to the database to various authorities, including local housing authorities and mayoral combined authorities.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+
+   <pillars>
+     <pillar type="Social Welfare">
+      This change could potentially improve transparency and oversight in the private rented sector, benefiting both landlords and tenants.
+     </pillar>
+     <pillar type="Digital Privacy">
+      The provision for public access to certain information in the database raises potential concerns about data privacy and security.
+     </pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Part 2—Residential landlords, Chapter 3—The Private Rented Sector Database</subject>
+
+   <quote>A local housing authority may impose a financial penalty on a person if satisfied beyond reasonable doubt that the person has— breached a requirement imposed by section 39(1), (2) or (3), committed an offence under section 48.</quote>
+   <quote>The amount of a financial penalty imposed under this section is to be determined by the authority imposing it, but must not be more than— £5,000, if it is imposed under subsection (1)(a), or £30,000, if it is imposed under subsection (1)(b).</quote>
+
+   <summary>The bill proposes that local housing authorities will have the power to impose financial penalties on individuals who breach certain requirements or commit certain offences. The maximum penalty will be £5,000 for breaches of requirements and £30,000 for offences.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+
+   <pillars>
+     <pillar type="Justice System">
+      This change could potentially improve enforcement in the private rented sector, deterring breaches of requirements and offences.
+     </pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 48</subject>
+   <quote>A person commits an offence if the person knowingly or recklessly provides information to the database operator which is false or misleading in a material respect in purported compliance with a requirement imposed by regulations under this Chapter.</quote>
+   <quote>A person commits an offence if—
+(a) a relevant penalty has been imposed on the person and the final notice
+imposing the penalty has not been withdrawn, and
+(b) the conduct in respect of which the penalty was imposed continues
+after the end of the period of 28 days beginning with—
+(i) the day after that on which the penalty was imposed on the person, or
+(ii) if the person appeals against the decision to impose the penalty
+within that period, the day after that on which the appeal is
+finally determined, withdrawn or abandoned.</quote>
+   <quote>A person commits an offence if—
+(a) a relevant penalty has been imposed on the person in respect of a
+breach of a requirement imposed by section 39(1), (2) or (3) and the
+final notice imposing the penalty has not been withdrawn, and
+(b)
+the person engages in conduct which constitutes a different breach of
+such a requirement within the period of five years beginning with the
+day on which the penalty was imposed.</quote>
+   <quote>A person commits an offence if—
+(a) either—
+(i)
+a relevant penalty has been imposed on the person in respect
+of an offence under this section and the final notice imposing
+the penalty has not been withdrawn, or
+(ii) the person has been convicted of such an offence, and
+(b) the person breaches a requirement imposed by section 39(1), (2) or (3)
+within the period of five years beginning with the day on which the
+relevant penalty was imposed or the person was convicted.</quote>
+   <summary>The bill introduces new offences related to providing false or misleading information to the database operator, continuing conduct for which a penalty was imposed after a certain period, engaging in different breaches of requirements within five years of a penalty being imposed, and breaching requirements within five years of a penalty being imposed or conviction for an offence under this section.</summary>
+   <impact>4</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+     <pillar type="Human Rights"></pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 49</subject>
+   <quote>The Secretary of State may from time to time give directions—
+(a) to the database operator about the manner in which it is to exercise
+its functions, and
+(b) to local housing authorities about the manner in which they are to exercise the functions conferred on them by or under this Chapter.</quote>
+   <summary>The bill gives the Secretary of State the power to give directions to the database operator and local housing authorities about how they should exercise their functions.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Political Power"></pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 53</subject>
+   <quote>The Secretary of State may give financial assistance (by way of grant, loan guarantee or in any other form) or make other payments to a person who exercises functions under or by virtue of this Part.</quote>
+   <summary>The bill allows the Secretary of State to provide financial assistance or make payments to those who exercise functions under this part of the bill.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Economic Impact"></pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 54</subject>
+   <quote>Subject to subsections (2) to (4), this Part and any regulations made under it bind the Crown.</quote>
+   <quote>Sections 27 and 48 do not bind the Crown.</quote>
+   <quote>Subsection (2) does not affect the criminal liability of persons in the service of the Crown.</quote>
+   <summary>The bill states that this part and any regulations made under it bind the Crown, with the exception of Sections 27 and 48. However, this does not affect the criminal liability of persons in the service of the Crown.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Political Power"></pillar>
+     <pillar type="Justice System"></pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 55</subject>
+   <quote>Where regulations under section 23(4)(b) provide for the meaning of “relevant tenancy” given by that section to include a tenancy or licence under which a dwelling is occupied for the purposes of either House of Parliament, this Renters (Reform) Bill 55 Part 2—Residential landlords Chapter 4—Part 2: supplementary provision Part has effect in its application in relation to such a tenancy or licence with the following modifications— (a) sections 27 and 48 do not apply; (b) in paragraph (b) of section 26(1), the reference to a person committing an offence under section 27 is to be read as a reference to the person satisfying the conditions in subsection (1)(a) and (b), (2)(a) and (b), or (3)(a) and (b) of that section; (c) in paragraph (b) of section 47(1), the reference to a person committing an offence under section 48 is to be read as a reference to the person either— (i) knowingly or recklessly providing information to the database operator which is false or misleading in a material respect in purported compliance with a requirement imposed by regulations under Chapter 3, or (ii) satisfying the conditions in subsection (2)(a) and (b), (3)(a) and (b), or (4)(a) and (b) of section 48.</quote>
+   <summary>The bill proposes modifications to the application of the Renters (Reform) Bill in relation to tenancies or licenses under which a dwelling is occupied for the purposes of either House of Parliament. Specifically, sections 27 and 48 do not apply, and references to committing offences under these sections are to be read as satisfying certain conditions or knowingly or recklessly providing false or misleading information.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Political Power"></pillar>
+   </pillars>
+   <flag>WHITE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 56</subject>
+   <quote>A power to make regulations under this Part includes power to make— (a) consequential, supplementary, incidental, transitional or saving provision; (b) different provision for different purposes or areas; (c) the full provision to which the power extends or any less provision (whether by way of exception or otherwise). The power under subsection (1)(a) to make transitional provision includes power to provide for regulations to apply (with or without modifications) in relation to tenancies or licences entered into, or advertising begun, before the date on which the regulations come into force. Regulations under this Part are to be made by statutory instrument. A statutory instrument containing regulations under section 23, 24, 25, 39(4), 40(6), 43 or 44(2) (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament. Any other statutory instrument containing regulations under this Part is subject to annulment in pursuance of a resolution of either House of Parliament.</quote>
+   <summary>The bill proposes the power to make regulations under this Part, including consequential, supplementary, incidental, transitional or saving provision, different provision for different purposes or areas, and the full provision to which the power extends or any less provision. Regulations are to be made by statutory instrument and may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Political Power"></pillar>
+   </pillars>
+   <flag>WHITE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 58</subject>
+   <quote>It is the duty of every local housing authority to enforce the landlord legislation in its area. But the duty in subsection (1) does not prevent a local housing authority from taking enforcement action in respect of a breach of the landlord legislation which occurs outside of its area. The duty is also subject to sections 59(3) (enforcement by another local housing authority) and 62(4) (enforcement by the lead enforcement authority).</quote>
+   <summary>The bill proposes that it is the duty of every local housing authority to enforce the landlord legislation in its area, but this duty does not prevent a local housing authority from taking enforcement action in respect of a breach of the landlord legislation which occurs outside of its area. The duty is also subject to enforcement by another local housing authority and the lead enforcement authority.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 60</subject>
+   <quote>The Secretary of State may make arrangements for a relevant person to be the lead enforcement authority for the purposes of any provisions of the landlord legislation. The arrangements may include arrangements— (a) for payments by the Secretary of State; (b) about bringing the arrangements to an end. The Secretary of State may by regulations made by statutory instrument make transitional or saving provision which applies when there is a change in the lead enforcement authority for any provisions of the landlord legislation.</quote>
+   <summary>The bill proposes that the Secretary of State may make arrangements for a relevant person to be the lead enforcement authority for the purposes of any provisions of the landlord legislation, including arrangements for payments by the Secretary of State and about bringing the arrangements to an end. The Secretary of State may also make transitional or saving provision which applies when there is a change in the lead enforcement authority.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Political Power"></pillar>
+   </pillars>
+   <flag>WHITE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 61</subject>
+   <quote>A lead enforcement authority must oversee the operation of the provisions for which it is responsible. A lead enforcement authority must provide— (a) local housing authorities, and (b) the public in England, with information and advice about the operation of the provisions for which it is responsible, in such form and manner as the lead enforcement authority considers appropriate. A lead enforcement authority may disclose information to a local housing authority for the purposes of enabling that authority to determine whether there has been a breach of, or an offence under, the provisions for which the lead enforcement authority is responsible. A lead enforcement authority may issue guidance to local housing authorities about the exercise of their functions under any of the provisions for which it is responsible. Local housing authorities must have regard to any guidance issued under subsection (4).</quote>
+   <summary>The bill proposes that a lead enforcement authority must oversee the operation of the provisions for which it is responsible, provide local housing authorities and the public in England with information and advice about the operation of these provisions, disclose information to a local housing authority for the purposes of enabling that authority to determine whether there has been a breach of, or an offence under, these provisions, and issue guidance to local housing authorities about the exercise of their functions under these provisions. Local housing authorities must have regard to any guidance issued.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Political Power"></pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 6 of the Renters (Reform) Bill</subject>
+   <quote>(6) A lead enforcement authority must keep under review and from time to time
+advise the Secretary of State about the following—
+(a) the operation of the landlord provisions for which it is responsible;
+(b)
+10
+social and commercial developments relating to tenancies in England,
+other than tenancies of social housing, so far as it considers those
+developments relevant to the provisions for which it is responsible.</quote>
+   <summary>The bill introduces a new obligation for a lead enforcement authority to regularly review and advise the Secretary of State on the operation of landlord provisions and social and commercial developments related to tenancies in England, excluding social housing.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Political Power">This change could potentially increase the power of the lead enforcement authority by giving it a more active role in advising the Secretary of State on matters related to tenancies.</pillar>
+     <pillar type="Social Welfare">This change could potentially improve social welfare by ensuring that the Secretary of State is regularly updated on developments related to tenancies, which could lead to more informed policy decisions.</pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 7 of the Renters (Reform) Bill</subject>
+   <quote>(7) The Secretary of State may give a lead enforcement authority directions as
+to the exercise of any of its functions.</quote>
+   <summary>The bill introduces a new power for the Secretary of State to give directions to a lead enforcement authority regarding the exercise of its functions.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Political Power">This change could potentially increase the power of the Secretary of State by giving them the ability to direct the actions of the lead enforcement authority.</pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 62 of the Renters (Reform) Bill</subject>
+   <quote>62 Enforcement by the lead enforcement authority 20
+(1) A lead enforcement authority may—
+(a) take steps to enforce the provisions for which it is responsible where
+it considers it necessary or expedient to do so;
+(b)
+25
+for that purpose, exercise any powers that a local housing authority
+may exercise for the purpose of the enforcement of those provisions.</quote>
+   <summary>The bill introduces new powers for a lead enforcement authority to enforce provisions for which it is responsible and to exercise any powers that a local housing authority may exercise for the purpose of enforcement.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Political Power">This change could potentially increase the power of the lead enforcement authority by giving it the ability to enforce provisions and exercise powers of local housing authorities.</pillar>
+     <pillar type="Social Welfare">This change could potentially improve social welfare by ensuring that provisions related to tenancies are effectively enforced.</pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Ground 1A</subject>
+   <quote>The following conditions are met—
+(a)
+35
+the landlord who is seeking possession intends to sell the
+dwelling-house;
+(b) the assured tenancy on which the dwelling-house is let did
+not come into being by virtue of any provision of Schedule
+1 to the Rent Act 1977 or section 4 of the Rent (Agriculture)
+Act 1976;
+(c) at the date specified in the notice under section 8, either— 5
+(i) the current tenancy has existed for at least 6 months,
+or
+(ii) a compulsory purchase order which authorises
+10
+purchase of the dwelling-house has become operative
+and the landlord intends to sell the dwelling-house
+to the person authorised by the compulsory purchase
+order to purchase it;
+(d) the landlord seeking possession is not—
+(i) a non-profit registered provider of social housing,
+(ii) a registered social landlord within the meaning of 15
+the Housing Act 1985 (see section 5(4) and (5) of that
+Act),
+(iii) a housing trust, within the meaning of the Housing
+Associations Act 1985, which is a charity, or
+(iv) where the dwelling-house is social housing within 20
+the meaning of Part 2 of the Housing and
+Regeneration Act 2008, a profit-making registered
+provider of social housing.
+In paragraph (c)(ii), “sell” includes transfer.”</quote>
+   <summary>The bill proposes a new ground for possession, Ground 1A, which allows a landlord to seek possession if they intend to sell the dwelling-house, the tenancy did not come into being by virtue of any provision of Schedule 1 to the Rent Act 1977 or section 4 of the Rent (Agriculture) Act 1976, the current tenancy has existed for at least 6 months or a compulsory purchase order has become operative, and the landlord is not a non-profit registered provider of social housing, a registered social landlord, a housing trust which is a charity, or a profit-making registered provider of social housing where the dwelling-house is social housing.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Human Rights">This change could potentially impact the rights of tenants, as it provides landlords with additional grounds to seek possession of a property.</pillar>
+     <pillar type="Economic Impact">This change could potentially impact the housing market, as it could lead to an increase in the number of properties being sold.</pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Ground 5F</subject>
+   <quote>The dwelling-house was supported accommodation when the tenancy was granted and any of the following applies—</quote>
+   <summary>The bill introduces a new ground for possession of a dwelling-house occupied as supported accommodation. This ground applies if the tenancy was granted for the purpose of providing the tenant with support services for a limited time and that period has ended, or if the support services have ended and the landlord has been unable to find a replacement provider, among other conditions.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Social Welfare">This change could potentially impact vulnerable individuals who rely on supported accommodation, depending on how it is implemented and enforced.</pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Ground 18</subject>
+   <quote>The tenancy is of supported accommodation and the tenant has unreasonably refused to co-operate with the person providing support services with regard to those services.</quote>
+   <summary>The bill introduces a new ground for possession if the tenant of supported accommodation has unreasonably refused to cooperate with the person providing support services.</summary>
+   <impact>3</impact>
+   <clarity>2</clarity>
+   <pillars>
+     <pillar type="Social Welfare">This change could potentially impact vulnerable individuals who rely on supported accommodation, depending on how it is implemented and enforced.</pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Ground 5G</subject>
+   <quote>The grant of the tenancy was in pursuance of a local housing authority’s duty to the tenant under section 193 of the Housing Act 1996 and—</quote>
+   <summary>The bill introduces a new ground for possession if the tenancy was granted in pursuance of a local housing authority's duty to the tenant under section 193 of the Housing Act 1996 and the local housing authority has notified the landlord that the tenancy is no longer required for the purposes of that duty.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Social Welfare">This change could potentially impact individuals who rely on local housing authority support, depending on how it is implemented and enforced.</pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Ground 6</subject>
+   <quote>Ground 6 is amended as follows.</quote>
+   <summary>The bill amends Ground 6, which relates to redevelopment, in several ways. These include changing the definition of a "relevant landlord" and adding new conditions for when the ground can be used.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Economic Impact">This change could potentially impact landlords and tenants in cases of redevelopment, depending on how it is implemented and enforced.</pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Ground 6A</subject>
+   <quote>Any of the following situations has occurred—</quote>
+   <summary>The bill introduces a new ground for possession to allow compliance with enforcement action. This ground applies if letting the dwelling-house causes the landlord to breach a banning order, or if an improvement notice specifies the dwelling-house as requiring remedial action, among other conditions.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System">This change could potentially impact landlords and tenants in cases of enforcement action, depending on how it is implemented and enforced.</pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Ground 7</subject>
+   <quote>In Ground 7—</quote>
+   <summary>The bill amends Ground 7, which relates to the death of a tenant, in several ways. These include extending the period for which the ground applies from twelve to 24 months.</summary>
+   <impact>2</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Social Welfare">This change could potentially impact tenants and their families in cases of the tenant's death, depending on how it is implemented and enforced.</pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Ground 8</subject>
+   <quote>In Ground 8—</quote>
+   <summary>The bill amends Ground 8, which relates to rent arrears, in several ways. These include omitting certain conditions for when the ground can be used and adding a new provision to ignore unpaid rent if the tenant is entitled to receive an amount for housing as part of an award of universal credit.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Social Welfare">This change could potentially impact tenants and landlords in cases of rent arrears, depending on how it is implemented and enforced.</pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Ground 8A</subject>
+   <quote>Within a three year period ending with the date of service of the notice under section 8—</quote>
+   <summary>The bill introduces a new ground for possession for repeated rent arrears. This ground applies if, within a three year period, at least two months' rent was unpaid for at least a day on at least three separate occasions.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Social Welfare">This change could potentially impact tenants and landlords in cases of repeated rent arrears, depending on how it is implemented and enforced.</pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Ground 14</subject>
+   <quote>In Ground 14, in each of paragraphs (a) and (aa), for “likely to cause” substitute “capable of causing”.</quote>
+   <summary>The bill amends Ground 14, which relates to anti-social behaviour, to change the standard for when the ground can be used from "likely to cause" to "capable of causing".</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System">This change could potentially impact tenants and landlords in cases of anti-social behaviour, depending on how it is implemented and enforced.</pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Schedule 2 to the 1988 Act</subject>
+   <quote>After Part 4 of Schedule 2 to the 1988 Act insert—
+“PART 5
+INTERPRETATION
+12 In this Schedule— 10
+“compulsory purchase order” has the same meaning as in
+the Acquisition of Land Act 1981 (see section 2 of that
+Act);
+15
+“HMO” has the same meaning as in Part 2 of the Housing
+Act 2004 (see section 77 of that Act);
+“housing association” has the meaning given by section 1 of
+the Housing Associations Act 1985;
+“managed accommodation” means supported
+accommodation—
+(a) into which a tenant has been admitted in order to 20
+meet a need for care, support or supervision, and
+(b) where the care, support or supervision is provided
+otherwise than by the landlord or a person acting
+on behalf of the landlord;
+“support services” in relation to a tenant in supported 25
+accommodation, means care, support or supervision;
+“supported accommodation” means a dwelling-house—
+(a) let by—
+(i) a housing association,
+(ii) a private registered provider of social 30
+housing,
+(iii) a registered charity, or
+(iv) a voluntary organisation, and
+(b)
+35
+where a tenant receives care, support or
+supervision provided either—
+(i) by the landlord or a person acting on behalf
+of the landlord, or
+(ii) by someone else, if the tenant has been
+admitted into the accommodation in order
+Renters (Reform) Bill 75
+Schedule 1—Changes to grounds for possession 
+to meet a need for care, support or
+supervision.</quote>
+   <summary>The bill proposes to insert a new Part 5 into Schedule 2 of the 1988 Act, which provides definitions for terms such as "compulsory purchase order", "HMO", "housing association", "managed accommodation", "support services", and "supported accommodation".</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Housing"></pillar>
+   </pillars>
+   <flag>WHITE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Schedule 2 to the 1988 Act</subject>
+   <quote>After Part 5 of Schedule 2 to the 1988 Act insert—
+“PART 6
+POWERS TO AMEND GROUNDS 2ZA, 2ZB, 5C AND 6A AND DEFINITION
+13 (1) The Secretary of State may by regulations amend this Schedule 5
+so as to—
+(a) amend Ground 2ZA to change the descriptions of the
+landlord who may use the ground;
+(b)
+10
+amend Ground 2ZB to change the descriptions of previous
+landlord mentioned in it;
+(c) provide for Ground 5C to apply only where the landlord
+seeking possession or the employer is of a particular
+description;
+(d)
+15
+add other situations to the list in the first paragraph of
+Ground 6A in which that ground may be relied on or
+remove any situations added by virtue of this
+sub-paragraph;
+(e) amend the definition of “supported accommodation” or
+“managed accommodation” in paragraph 12.
+(2) Regulations under this paragraph may— 20
+(a) make consequential, supplementary, incidental, transitional
+or saving provision;
+(b) make different provision for different purposes.
+(3)
+25
+Regulations under this paragraph are to be made by statutory
+instrument.
+(4) A statutory instrument containing regulations under this
+paragraph may not be made unless a draft of the instrument has
+been laid before and approved by a resolution of each House of
+Parliament.”</quote>
+   <summary>The bill proposes to insert a new Part 6 into Schedule 2 of the 1988 Act, which gives the Secretary of State the power to amend the Schedule by regulations. This includes the power to amend the descriptions of landlords who may use Ground 2ZA, to change the descriptions of previous landlords mentioned in Ground 2ZB, to provide for Ground 5C to apply only where the landlord seeking possession or the employer is of a particular description, to add or remove situations to the list in the first paragraph of Ground 6A in which that ground may be relied on, and to amend the definition of “supported accommodation” or “managed accommodation” in paragraph 12. The regulations may make consequential, supplementary, incidental, transitional or saving provision, and may make different provision for different purposes. The regulations are to be made by statutory instrument, which may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.</summary>
+   <impact>4</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Housing"></pillar>
+     <pillar type="Political Power"></pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>amendment</type>
+   <subject>Housing Act 1988</subject>
+   <quote>The 1988 Act is amended as follows.
+2
+35
+In section 1A (application of Chapters 1, 2 and 3 of Part 1 to dwelling in
+Wales), in subsection (3), after “tenancy” insert “, without the amendments
+made by the Renters (Reform) Act 2023”.</quote>
+   <summary>The bill proposes to amend the 1988 Act, specifically section 1A, to specify that the application of Chapters 1, 2 and 3 of Part 1 to dwelling in Wales is without the amendments made by the Renters (Reform) Act 2023.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Housing"></pillar>
+   </pillars>
+   <flag>WHITE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Section 26 or 47</subject>
+   <quote>Before imposing a financial penalty on a person under section 26 or 47, a
+10
+local housing authority must give the person notice of its proposal to do
+so (a “notice of intent”).</quote>
+   <summary>The bill proposes to insert a provision that requires a local housing authority to give a person notice of its proposal to impose a financial penalty under section 26 or 47 before doing so.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Housing"></pillar>
+     <pillar type="Justice System"></pillar>
+   </pillars>
+   <flag>GREEN</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Schedule 3—Financial penalties</subject>
+   <quote>This paragraph applies if a person fails to pay the whole or any part of a financial penalty which, in accordance with this Schedule, the person is liable to pay.</quote>
+   <quote>The local housing authority which imposed the financial penalty may recover the penalty or part on the order of the county court as if it were payable under an order of that court.</quote>
+   <quote>In proceedings before the county court for the recovery of a financial penalty or part of a financial penalty, a certificate which is—
+(a) signed by the chief finance officer of the authority which imposed the penalty, and
+(b) states that the amount due has not been received by a date specified in the certificate,
+is conclusive evidence of that fact.</quote>
+   <summary>The bill introduces a new provision for the recovery of financial penalties imposed by the local housing authority. If a person fails to pay a financial penalty, the local housing authority can recover the penalty through the county court. The certificate signed by the chief finance officer of the authority, stating that the amount due has not been received by a specified date, is considered conclusive evidence in court proceedings.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+     <pillar type="Economic Impact"></pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Schedule 3—Financial penalties</subject>
+   <quote>Where a local housing authority imposes a financial penalty under section 26 or 47, it may apply the proceeds towards meeting the costs and expenses (whether administrative or legal) incurred in, or associated with, carrying out any of its enforcement functions under this Act or otherwise in relation to the private rented sector.</quote>
+   <quote>Any proceeds of a financial penalty imposed under section 26 or 47 which are not applied in accordance with paragraph 12 must be paid to the Secretary of State.</quote>
+   <summary>The bill allows local housing authorities to use the proceeds from financial penalties to cover costs and expenses related to their enforcement functions. Any proceeds not used in this way must be paid to the Secretary of State.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Economic Impact"></pillar>
+     <pillar type="Justice System"></pillar>
+   </pillars>
+   <flag>BLUE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Schedule 4—Application of Chapter 1 of Part 1 to existing tenancies: transitional provision</subject>
+   <quote>The amendments made by Chapter 1 of Part 1 do not apply in relation to a deemed continuing tenancy until immediately after it is converted to a periodic tenancy.</quote>
+   <summary>The bill specifies that the amendments made by Chapter 1 of Part 1 do not apply to a deemed continuing tenancy until it is converted to a periodic tenancy.</summary>
+   <impact>2</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+     <pillar type="Economic Impact"></pillar>
+   </pillars>
+   <flag>WHITE</flag>
+</change>
+<change>
+   <type>insertion</type>
+   <subject>Schedule 4—Application of Chapter 1 of Part 1 to existing tenancies: transitional provision</subject>
+   <quote>Where, immediately before the extended application date, proceedings for an order for possession under section 21 of the 1988 Act in reliance on a valid notice given under that section of that Act have been commenced in relation to an assured shorthold tenancy and have not been concluded, or have not been commenced but have not become time-barred—
+(a) the tenancy remains an assured shorthold tenancy, and the notice remains valid, until any time when such proceedings in reliance on the notice become time-barred or are concluded, and
+(b) until that time the amendments made by Chapter 1 of Part 1 do not apply in relation to the tenancy.</quote>
+   <summary>The bill provides a transitional provision for assured shorthold tenancies where proceedings for an order for possession have been commenced but not concluded, or have not been commenced but have not become time-barred, immediately before the extended application date. In such cases, the tenancy remains an assured shorthold tenancy and the notice remains valid until the proceedings become time-barred or are concluded. The amendments made by Chapter 1 of Part 1 do not apply to the tenancy until that time.</summary>
+   <impact>3</impact>
+   <clarity>3</clarity>
+   <pillars>
+     <pillar type="Justice System"></pillar>
+     <pillar type="Economic Impact"></pillar>
+   </pillars>
+   <flag>YELLOW</flag>
+</change></all>

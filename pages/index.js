@@ -19,13 +19,16 @@ export default function Home({ bills }) {
           <h2>Available Bills:</h2>
 
           <ul>
-              {bills.map((doc, index) => (
+              {bills.map((doc, index) => {
+                return (
                   <li key={index}>
                       <Link href={`/bills/${doc.id}`}>
                           {doc.title}
                       </Link>
+                      <div dangerouslySetInnerHTML={{__html: doc.tldr || '<span/>'}}></div>
                   </li>
-              ))}
+                );
+              })}
           </ul>
         </section>
       </Page>

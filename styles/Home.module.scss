@@ -17,15 +17,31 @@
   }
 
   ul {
-    padding: .4em .4em .4em 2em;
+    padding: .4em 0;
+  }
+
+  ul, li {
+    list-style: none;
+  }
+
+  li {
+    padding: 0;
+    border: 1px dotted black;
+    margin-bottom: 1rem;
+  }
+
+  li p {
+    font-size: .9rem;
+    padding: .2rem .7rem .6rem;
+    margin: 0;
   }
 
   li a {
     display: block;
-    padding: .4em .6em;
     color: black;
     font-size: 1.2rem;
-    
+    padding: .7rem;
+    &:after {content: " »"}
   }
 
   a {

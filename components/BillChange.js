@@ -211,7 +211,7 @@ export default function BillChange({rawBill, ...change}) {
                 {
                   <>
                     <strong>‼️ {pillar.name}</strong>
-                    <p>{pillar.analysis?.trim() || <em style={{opacity: 0.5}}>(Possibly affected)</em>}</p>
+                    <p>{pillar.analysis?.trim() || <em style={{opacity: 0.5}}>(Variously affected)</em>}</p>
                   </>
                 }
               </li>

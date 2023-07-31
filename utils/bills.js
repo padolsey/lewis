@@ -132,8 +132,12 @@ export async function getBillSimpleData(directoryName) {
     const specFilePath = path.join(filePath, 'spec.json');
     const specFileContents = await fs.readFile(specFilePath, 'utf8');
 
+    const tldrFilePath = path.join(filePath, 'tldr.md');
+    const tldrHtmlContents = await getHtmlFromMarkdownFile(tldrFilePath);
+
     return {
       id: directoryName,
+      tldr: tldrHtmlContents,
       ...JSON.parse(specFileContents),
     };
   } else {

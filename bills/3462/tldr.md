@@ -1,0 +1,2 @@
+The Renters (Reform) Bill aims to overhaul the private rental sector in England and Wales by abolishing no-fault evictions, expanding tenants' rights, imposing new duties on landlords, establishing enforcement mechanisms like a landlord redress scheme, and strengthening local authorities' ability to regulate landlords - with the overall goal of creating a more balanced and regulated private rental market that provides greater protections for tenants.
+

@@ -1,0 +1,4067 @@
+Renters (Reform) Bill
+EXPLANATORY NOTES
+Explanatory notes to the Bill, prepared by the Department for Levelling Up, Housing and
+Communities, are published separately as 308—EN.
+EUROPEAN CONVENTION ON HUMAN RIGHTS
+Secretary Michael Gove has made the following statement under section 19(1)(a) of the Human
+Rights Act 1998:
+In my view the provisions of the Renters (Reform) Bill are compatible with the Convention
+rights.
+308 58/3 
+Renters (Reform) Bill
+[AS INTRODUCED]
+CONTENTS
+PART 1
+TENANCY REFORM
+CHAPTER 1
+ASSURED TENANCIES
+End of certain kinds of assured tenancy
+1 Assured tenancies to be periodic with rent period not exceeding a month
+2 Abolition of assured shorthold tenancies
+Changes to grounds for possession
+3 Changes to grounds for possession
+4 Form of notice of proceedings for possession
+Rent and other terms
+5 Statutory procedure for increases of rent
+6 Challenging amount or increase of rent
+7 Right to request permission to keep a pet
+8 Pet insurance
+Duties of landlords etc
+9 Duty to give statement of terms and other information
+10 Other duties of landlords and former landlords
+Landlords etc: financial penalties and offences
+11 Landlords etc: financial penalties and offences
+12 Financial penalties: procedure, appeals and enforcement
+13 No criminal liability of the Crown under Part 1 of the 1988 Act
+Other changes
+14 Notices to quit by tenants under assured tenancies: timing
+308 58/3 
+15 Notices to quit by tenants under assured tenancies: other
+16 Limitation on obligation to pay removal expenses
+17 Assured agricultural occupancies: grounds for possession
+18 Accommodation for homeless people: duties of local authority
+19 Tenancy deposit requirements
+Consequential amendments
+20 Consequential amendments
+CHAPTER 2
+TENANCIES THAT CANNOT BE ASSURED TENANCIES
+21 Tenancies of more than seven years not to be assured tenancies
+CHAPTER 3
+PENALTIES FOR UNLAWFUL EVICTION OR HARASSMENT OF OCCUPIER
+22 Penalties for unlawful eviction or harassment of occupier
+PART 2
+RESIDENTIAL LANDLORDS
+CHAPTER 1
+MEANING OF “RESIDENTIAL LANDLORD”
+23 Meaning of “residential landlord”
+CHAPTER 2
+LANDLORD REDRESS SCHEMES
+Landlord redress schemes
+24 Landlord redress schemes
+25 Approval and designation of landlord redress schemes
+26 Financial penalties for breach of regulations
+27 Offences relating to breach of regulations
+28 Decision under a landlord redress scheme may be made enforceable as if it
+were a court order
+Guidance
+29 Guidance for scheme administrator and local housing authority
+Interpretation
+30 Interpretation of Chapter 2
+ii Renters (Reform) Bill 
+Related amendments affecting the social rented sector
+31 Housing activities under social rented sector scheme
+CHAPTER 3
+THE PRIVATE RENTED SECTOR DATABASE
+The database and the database operator
+32 The database
+33 The database operator
+Landlord and dwelling entries
+34 Making entries in the database
+35 Requirement to keep active entries up-to-date
+36 Circumstances in which active entries become inactive and vice versa
+37 Verification, correction and removal of entries
+38 Fees for landlord and dwelling entries
+Marketing, advertising and letting
+39 Restrictions on marketing, advertising and letting dwellings
+Entries relating to banning orders, offences, financial penalties, etc.
+40 Entries relating to banning orders, offences, financial penalties, etc.
+Further duties of database operator
+41 Allocation of unique identifiers
+42 Other duties
+Access to and use of information in database
+43 Access to the database
+44 Disclosure by database operator etc
+45 Use of information from the database
+Removal of entries
+46 Removal of entries from database
+Enforcement
+47 Financial penalties
+48 Offences
+Final provisions
+49 Power to direct database operator and local housing authorities
+50 Entries under section 40: minor and consequential amendments
+Renters (Reform) Bill iii 
+51 Interpretation of Chapter 3
+CHAPTER 4
+PART 2: SUPPLEMENTARY PROVISION
+52 Financial penalties under sections 26 and 47
+53 Financial assistance by Secretary of State
+54 Crown application
+55 Application to Parliament
+56 Regulations
+57 Interpretation
+PART 3
+ENFORCEMENT AUTHORITIES
+58 Enforcement by local housing authorities: general duty
+59 Enforcement by local housing authorities: duty to notify
+60 Lead enforcement authority
+61 General duties and powers of lead enforcement authority
+62 Enforcement by the lead enforcement authority
+PART 4
+SUPPORTED AND TEMPORARY ACCOMMODATION
+63 Government policy on supported and temporary accommodation
+PART 5
+GENERAL
+64 Meaning of “the 1988 Act”
+65 Power to make consequential provision
+66 Extent
+67 Commencement and application
+68 Transitional provision
+69 Short title
+Schedule 1 — Changes to grounds for possession
+Schedule 2 — Consequential amendments relating to Chapter 1 of Part 1
+Schedule 3 — Financial penalties
+Application of Chapter 1 of Part 1 to existing tenancies:
+transitional provision
+Schedule 4 —
+iv Renters (Reform) Bill 
+[AS INTRODUCED]
+A
+BILL
+TO
+Make provision changing the law about rented homes, including provision
+abolishing fixed term assured tenancies and assured shorthold tenancies;
+imposing obligations on landlords and others in relation to rented homes and
+temporary and supported accommodation; and for connected purposes.
+B E IT ENACTED by the King’s most Excellent Majesty, by and with the advice and
+consent of the Lords Spiritual and Temporal, and Commons, in this present
+Parliament assembled, and by the authority of the same, as follows:—
+PART 1
+TENANCY REFORM
+CHAPTER 1
+ASSURED TENANCIES
+End of certain kinds of assured 5 tenancy
+1 Assured tenancies to be periodic with rent period not exceeding a month
+In the 1988 Act, before section 5 insert—
+“4A Assured tenancies to be periodic with rent period not exceeding a
+month
+(1) Terms of an assured tenancy are of no effect so far as they provide 10
+for the tenancy to be a fixed term tenancy.
+(2) Where terms of an assured tenancy are of no effect by virtue of
+subsection (1), the tenancy has effect as a periodic tenancy under which
+15
+the periods of the tenancy are the same as those for which rent is
+payable.
+(3) Terms of an assured tenancy which provide for the periods for which
+rent is payable (“rent periods”) are of no effect if they—
+(a) provide for any rent period to exceed 28 days, and
+(b) do so otherwise than by providing for monthly rent periods.
+308 58/3
+Renters (Reform) Bill 1
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(4) Where terms about rent periods are of no effect by virtue of subsection
+(3), the tenancy has effect as if it provided—
+(a) for successive rent periods of one month beginning with the
+first day of the tenancy, and
+(b) for the rent for each such rent period— 5
+(i) to be the amount calculated in accordance with the
+formula in subsection (5), and
+(ii) to be due on the first day of the period.
+(5) The formula is—
+R
+10
+D
+× 30 . 42
+where—
+R is the rent that would have been due for the first rent period
+of the tenancy under the terms that are of no effect by virtue
+of subsection (3);
+D is the number of whole days in that period. 15
+(6) Except as provided by subsections (1) and (3), nothing in this section
+limits any right of the landlord and the tenant to vary a term of the
+tenancy by agreement.
+(7)
+20
+For the purposes of this section, terms of an assured tenancy provide
+for “monthly” rent periods if they provide for rent to be payable for
+successive periods of one month, disregarding any provision for the
+first period to be a different period not exceeding 30 days.”
+2 Abolition of assured shorthold tenancies
+In the 1988 Act—
+(a) omit section 6A (demotion to assured shorthold tenancy because of 25
+anti-social behaviour);
+(b) omit Chapter 2 of Part 1 (assured shorthold tenancies).
+Changes to grounds for possession
+3 Changes to grounds for possession
+(1) Schedule 1 contains amendments of Schedule 2 to the 1988 Act (grounds for 30
+possession of dwelling-houses let on assured tenancies).
+(2) In section 7 of the 1988 Act (orders for possession)—
+(a) in subsection (5A)(b), for “16” substitute “5C”;
+(b) after subsection (5A) insert—
+“(5B) If the only grounds for possession which the court is satisfied 35
+are established are either or both of Grounds 7A and 14 in
+2 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+Schedule 2, the court may not make an order for possession
+to take effect within the period of 14 days beginning with the
+date of the service of the notice under section 8.”;
+(c) omit subsections (6), (6A), (6B) and (7).
+(3) In section 8 of the 1988 Act (notice of proceedings for possession)— 5
+(a) in subsection (1)(a) for “(4B)” substitute “(4AA)”;
+(b) in subsection (3)(b) for “(3A) to (4B)” substitute “(4) to (4AA)”;
+(c) omit subsection (3A);
+(d) in subsection (4)—
+(i) for “Ground 14” substitute “either or both of Grounds 7A and 10
+14”;
+(ii) after “whether” insert “with or”;
+(iii) omit “or with any ground other than Ground 7A”;
+(e) for subsections (4A) and (4B) substitute—
+“(4AA) If a notice under this section does not specify Ground 7A or 15
+14 in Schedule 2, the date specified in the notice as mentioned
+in subsection (3)(b) must not be before the end of the longest
+period shown in the following table for any ground specified
+in the notice.
+Ground specified in notice Period 20
+two months beginning with the
+date of service of the notice
+1, 1A, 1B, 2, 2ZA, 2ZB, 5,
+5A, 5B, 5C, 5D, 6, 6A, 7, 9
+four weeks beginning with the
+date of the service of the notice
+5E, 5F, 5G, 8, 8A, 10, 11, 18
+two weeks beginning with the 25
+date of the service of the notice”;
+4, 7B, 12, 13, 14ZA, 14A, 15,
+17
+(f) After subsection (5) insert—
+“(5A) A notice given by an intermediate landlord under Ground 2ZA
+30
+is to be treated, when the superior tenancy ends, as a notice
+given by the person who became the landlord by virtue of
+section 18 under Ground 2ZB.”;
+(g) omit subsection (6).
+4 Form of notice of proceedings for possession
+In section 8 of the 1988 Act, after subsection (6) insert—
+“(7) Regulations made under section 45(1) by virtue of subsection (3) may— 35
+(a) provide for the form to be published by the Secretary of State;
+(b) provide that the form to be used is the version that has effect
+at the time the requirement applies.”
+Renters (Reform) Bill 3
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+Rent and other terms
+5 Statutory procedure for increases of rent
+(1) Section 13 of the 1988 Act (increases of rent) is amended in accordance with
+subsections (2) to (8).
+(2) In the heading for “periodic tenancies” substitute “tenancies other than relevant 5
+low-cost tenancies”.
+(3) For subsection (1) substitute—
+“(1) This section applies to any assured tenancy other than a relevant
+low-cost tenancy.”
+(4) In subsection (2)— 10
+(a) in paragraph (a), for “the minimum period” substitute “two months”;
+(b) in paragraph (b)—
+(i) for the words before sub-paragraph (i) substitute “either”;
+(ii) after sub-paragraph (i) insert “or”;
+(c) in paragraph (c)— 15
+(i) in the words before sub-paragraph (i), after “below” insert “,
+either”;
+(ii) after sub-paragraph (i) insert “or”.
+(5) Omit subsection (3).
+(6) In subsection (4)— 20
+(a) in paragraph (a), for “by an application in the prescribed form refers
+the notice to the appropriate tribunal” substitute “applies to the
+appropriate tribunal under section 14(A3);
+(b)
+25
+in paragraph (b) for “variation of the rent which is different from”
+substitute “new rent which is lower than”.
+(7) After subsection (4) insert—
+“(4A) The rent for a period of an assured tenancy to which this section
+applies may not be greater than the rent for the previous period except
+by virtue of—
+(a) a notice under this section or an agreement under subsection 30
+(4)(b) following such a notice,
+(b) a determination under section 14, or
+(c) an agreement in writing between the landlord and the tenant
+35
+varying the rent, following a determination by the appropriate
+tribunal under section 14, where the agreed rent is lower than
+the rent that would be payable under section 14ZA or 14ZB as
+a result of the determination;
+and any provision relating to an assured tenancy to which this section
+40
+applies is of no effect so far as it provides that the rent for a particular
+period of the tenancy must or may be greater than the rent for the
+4 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+previous period otherwise than by virtue of a notice, determination
+or agreement mentioned in this subsection.
+(4B) Except as provided by subsection (4A), nothing in this section (or in
+5
+sections 14 to 14ZB) affects the right of the landlord and the tenant
+under an assured tenancy to which this section applies to vary by
+agreement any term of the tenancy.
+(4C) In this section “relevant low-cost tenancy” means—
+(a) an assured tenancy of social housing, within the meaning of
+10
+Part 2 of the Housing and Regeneration Act 2008, where the
+landlord is a private registered provider of social housing, and
+(b) any other assured tenancy of a description specified in
+regulations made by the Secretary of State.
+(4D) Regulations under subsection (4C)(b) are to be made by statutory
+instrument.
+(4E) A statutory instrument containing regulations under subsection (4C)(b) 15
+is subject to annulment in pursuance of a resolution of either House
+of Parliament.”
+(8) Omit subsection (5).
+(9) After section 13 of the 1988 Act insert—
+“13A Increases of rent under relevant low-cost tenancies 20
+(1) This section applies to a relevant low cost tenancy within the meaning
+given by section 13(4C).
+(2) For the purpose of securing an increase in the rent under a tenancy
+25
+to which this section applies, the landlord may serve on the tenant a
+notice in the prescribed form proposing a new rent to take effect at
+the beginning of a new period of the tenancy specified in the notice,
+being a period beginning not earlier than—
+(a) one month after the date of the service of the notice, and
+(b)
+30
+in the case of an assured agricultural occupancy, the first
+anniversary of the date on which the first period of the tenancy
+began, and
+(c) if the rent under the tenancy has previously been increased by
+virtue of a notice under this subsection or a determination
+under section 14, either—
+(i) in the case of an assured agricultural occupancy, the 35
+first anniversary of the date on which the increased rent
+took effect, or
+(ii) in any other case, the appropriate date.
+(3) The appropriate date is—
+(a) in a case to which subsection (4) applies, the date that falls 53 40
+weeks after the date on which the increased rent took effect;
+Renters (Reform) Bill 5
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(b) in any other case, the date that falls 52 weeks after the date on
+which the increased rent took effect.
+(4) This subsection applies where—
+(a)
+5
+the rent under the tenancy has been increased by virtue of a
+notice under this section or a determination under section 14
+on at least one occasion after the coming into force of the
+Regulatory Reform (Assured Periodic Tenancies)(Rent Increases)
+Order 2003, and
+(b)
+10
+the fifty-third week after the date on which the last such
+increase took effect begins more than six days before the
+anniversary of the date on which the first such increase took
+effect.
+(5) Where a notice is served under subsection (2), a new rent specified in
+15
+the notice takes effect as mentioned in the notice unless, before the
+beginning of the new period specified in the notice—
+(a) the tenant applies to the tribunal under section 14(A3), or
+(b) the landlord and the tenant agree on a variation of the rent
+which is different from that proposed in the notice or agree
+that the rent should not be varied.
+(6) Nothing in this section (or in section 14) affects the right of the landlord 20
+and the tenant under a relevant low-cost tenancy within the meaning
+given by section 13(4C) to vary by agreement any term of the tenancy
+(including a term relating to rent).”
+6 Challenging amount or increase of rent
+(1) Section 14 of the 1988 Act (determination of rent by tribunal) is amended in 25
+accordance with subsections (2) to (8).
+(2) Before subsection (1) insert—
+“(A1) A tenant under an assured tenancy other than a relevant low-cost
+30
+tenancy may make an application to the appropriate tribunal in the
+prescribed form for the purpose of challenging the rent payable under
+the tenancy.
+(A2) No application may be made under subsection (A1) if—
+(a) the rent payable under the tenancy is pursuant to a previous
+determination under this section, or
+(b) more than six months have elapsed since the beginning of the 35
+tenancy.
+(A3) A tenant under any assured tenancy may make an application to the
+appropriate tribunal in the prescribed form for the purpose of
+40
+challenging a new rent proposed in a notice under section 13(2) or
+13A(2).”
+(3) In subsection (1)—
+6 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(a) for the words from the beginning to “that section,” substitute “Where
+an application is made under subsection (A1) or (A3),”;
+(b) for paragraphs (a) and (b) substitute—
+“(a)
+5
+which has the same periods as those of the tenancy to
+which the application relates;
+(b) which begins—
+(i) in the case of an application under subsection
+(A1), on the date of the application;
+(ii)
+10
+in the case of an application under subsection
+(A3), at the beginning of the new period
+specified in the notice; and”;
+(c) in paragraph (c) for “notice” substitute “application”;
+(d) omit paragraph (d) and the “and” before it.
+(4) In subsection (3)—
+(a) in the words before paragraph (a)— 15
+(i) omit the words from “in relation to” to “above,”;
+(ii) for “notice”, in the second place it occurs, substitute
+“application”;
+(b)
+20
+in paragraphs (a) and (b) for “service of the notice” substitute “the
+application”.
+(5) In subsection (3A)—
+(a) in the words before paragraph (a), for the words from “on” to “served,”
+substitute “of the application”;
+(b)
+25
+in paragraph (a), for “that notice was served” substitute “the application
+was made”.
+(6) Omit subsections (6) and (7).
+(7) In subsection (8) omit “of a rent for a dwelling-house”.
+(8) Omit subsection (9).
+(9) After section 14 of the 1988 Act insert—
+“14ZA Effect of determination: rent payable 30
+(1) This section applies where the appropriate tribunal makes a
+determination on an application under section 14(A1) in relation to a
+tenancy.
+(2)
+35
+The rent payable under the tenancy as a result of the determination
+is—
+(a) the amount of rent determined by the appropriate tribunal on
+the application, in accordance with section 14(1), and
+(b) the appropriate amount (if any) in respect of rates.
+(3)
+40
+The rent payable under the tenancy as a result of the determination
+takes effect from the date that the appropriate tribunal directs.
+Renters (Reform) Bill 7
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(4) The date must not be earlier than the date of the application.
+(5) In this section “the appropriate amount in respect of rates” means the
+amount of rent attributable to any rates borne as mentioned in section
+14(5).
+14ZB Effect of determination: proposed new rent 5
+(1) This section applies where the appropriate tribunal makes a
+determination on an application under section 14(A3) in relation to a
+tenancy.
+(2)
+10
+The rent payable under the tenancy as a result of the determination
+is—
+(a) the amount of rent determined by the appropriate tribunal on
+the application, in accordance with section 14(1), and
+(b) the appropriate amount (if any) in respect of rates.
+(3)
+15
+The rent payable under the tenancy as a result of the determination
+takes effect from—
+(a) the beginning of the new period specified in the notice under
+section 13(2), or
+(b) if it appears to the tribunal that that would cause undue
+20
+hardship to the tenant, a date that the appropriate tribunal
+directs.
+(4) A date specified under subsection (3)(b) must not be later than the
+date of the determination.
+(5) In this section, “the appropriate amount in respect of rates” has the
+meaning given by section 14ZA(5).”
+(10) Omit sections 14A and 14B of the 1988 Act. 25
+7 Right to request permission to keep a pet
+(1) In the Housing Act 1988, after section 16 insert—
+“16A Requesting consent to keep a pet
+(1)
+30
+It is an implied term of every assured tenancy to which this section
+applies that—
+(a) a tenant may keep a pet at the dwelling-house if the tenant
+asks to do so in accordance with this section and the landlord
+consents;
+(b) such consent is not to be unreasonably refused by the landlord;
+(c) the landlord is to give or refuse consent in writing on or before 35
+the 42nd day after the date of the request, except as provided
+by subsections (2) to (5).
+8 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(2) Where the landlord reasonably requests further information from the
+tenant about the pet on or before the 42nd day after the date of the
+tenant's request—
+(a)
+5
+if the tenant provides that information, the landlord may delay
+giving or refusing consent until the 7th day after the date on
+which the tenant provides any further information that the
+landlord requests;
+(b) if the tenant does not provide that information, the landlord
+is not required to give or refuse consent.
+(3) Where— 10
+(a) the keeping of the pet at the dwelling-house would require the
+landlord to obtain the consent of a superior landlord under
+the terms of a superior tenancy, and
+(b)
+15
+the landlord seeks the consent of the superior landlord on or
+before the 42nd day after the date of the tenant’s request,
+the landlord may delay giving or refusing consent until the 7th day
+after the date on which the landlord receives consent or refusal from
+the superior landlord.
+(4)
+20
+Where the landlord and the tenant agree that the landlord may delay
+giving or refusing consent, the landlord may delay until whatever
+date is agreed between the landlord and the tenant.
+(5) Where more than one of subsections (2) to (4) apply, the landlord may
+delay until the latest date to which the landlord may delay giving or
+refusing consent under any of the subsections.
+(6) This section applies to every assured tenancy other than a tenancy of 25
+social housing, within the meaning of Part 2 of the Housing and
+Regeneration Act 2008.
+16B Requests for consent to keep a pet: further provision
+(1)
+30
+For the purposes of section 16A, a tenant keeps a pet at a
+dwelling-house if the tenant permits the pet to live at the
+dwelling-house (whether or not the tenant is the owner of the pet).
+(2) Section 16A does not limit the terms that may be agreed in relation
+to the presence at the dwelling-house of pets which do not live there.
+(3) The tenant’s request under section 16A must—
+(a) be in writing; 35
+(b) include a description of the pet for which consent is sought.
+(4) The circumstances in which it is reasonable for a landlord to refuse
+consent include those in which—
+(a)
+40
+the pet being kept at the dwelling-house would cause the
+landlord to be in breach of an agreement with a superior
+landlord;
+Renters (Reform) Bill 9
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(b) an agreement between the landlord and a superior landlord
+prohibits the keeping of a pet at the dwelling-house without
+consent of the superior landlord, and the landlord has taken
+5
+reasonable steps to obtain that consent but the superior landlord
+has not given it.
+(5) In proceedings in which a tenant alleges that the landlord has breached
+the implied term created by section 16A, the court may order specific
+performance of the obligation.
+16C Indemnity and insurance for pets
+(1) It is an implied term of every assured tenancy to which section 16A 10
+applies that if, at the time of consenting to the tenant keeping a pet,
+the landlord informs the tenant in writing that one of the following
+is a condition of the consent—
+(a)
+15
+that, in respect of the time the pet is at the dwelling-house, the
+tenant maintain insurance that covers the risk of pet damage
+to a level that is reasonable having regard to the pet and the
+dwelling-house in question, or
+(b) that the tenant pay the landlord’s reasonable costs of
+20
+maintaining insurance that covers the risk of pet damage in
+respect of the time the pet is at the dwelling-house to a level
+that is reasonable having regard to the pet and the
+dwelling-house in question,
+then the tenant must comply with that condition.
+(2) The reasonable costs referred to in subsection (1)(b)—
+(a) may be the amount of— 25
+(i) the premium for an insurance policy that covers only
+pet damage, or
+(ii) an additional premium attributable to the pet damage
+30
+element of an insurance policy that covers other risks
+as well;
+(b) if the premium under the insurance policy relates to a fixed
+period and it was reasonable for the landlord to choose that
+policy, may include any such premium payable by the landlord
+35
+in respect of a time when the pet has not yet arrived at the
+dwelling-house or is no longer at the dwelling-house;
+(c) may include any such premium payable by the landlord in
+respect of a time when the pet is no longer at the
+dwelling-house, if the tenant had not informed the landlord
+that the pet is no longer at the dwelling-house;
+(d) may include any excess payable by the landlord under the 40
+insurance policy.”
+(2) In section 45(1) of the Housing Act 1988, in the appropriate place insert—
+““pet” means an animal kept by a person mainly for—
+10 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(a) personal interest,
+(b) companionship,
+(c) ornamental purposes, or
+(d) any combination of paragraphs (a) to (c);
+“pet damage”, in relation to an assured tenancy of a dwelling-house, 5
+means any damage that the tenant’s pet causes to—
+(a) the dwelling-house or any of the common parts, where
+“common parts” has the same meaning as in Ground 13 in Part
+2 of Schedule 2, or
+(b) any of the landlord’s property that is in those places;” 10
+8 Pet insurance
+(1) In the Tenant Fees Act 2019, in section 1(4)—
+(a) omit the “or” at the end of paragraph (a);
+(b) after “tenant” in paragraph (b), insert “, or
+(c) if the tenant is keeping a pet in the housing, insurance 15
+that the landlord requires under an implied term of an
+assured tenancy under section 16C(1) of the Housing
+Act 1988 (insurance where landlord consents to keeping
+of a pet).”
+Duties of 20 landlords etc
+9 Duty to give statement of terms and other information
+In the 1988 Act, after section 16C (inserted by section 7 of this Act) insert—
+“Duties of landlords etc
+16D Duty to give statement of terms and other information
+(1) This section applies to an assured tenancy other than a tenancy of 25
+social housing (within the meaning of Part 2 of the Housing and
+Regeneration Act 2008) under which the landlord is a private registered
+provider of social housing.
+(2)
+30
+The landlord under a tenancy to which this section applies must give
+the tenant a written statement of—
+(a) such terms of the tenancy as are specified in regulations made
+by the Secretary of State, whether in the form of an agreement
+in writing between the landlord and tenant or a record of terms
+otherwise agreed,
+(b) where the landlord may wish to recover possession on any of 35
+Grounds 1B, 2ZA, 2ZB, 4, 5 to 5G or 18 in Schedule 2, the
+landlord’s wish to be able to recover possession on that ground,
+and
+Renters (Reform) Bill 11
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(c) any other information in writing about any of the following
+which is required to be given by regulations made by the
+Secretary of State—
+(i) the tenancy;
+(ii) the dwelling-house let on the tenancy; 5
+(iii) the tenant;
+(iv) the landlord;
+(v) the rights of the landlord or the tenant in relation to
+the tenancy or the dwelling-house let on it.
+(3) The statement under subsection (2) must be given before the beginning 10
+of the tenancy.
+(4) Regulations under this section are to be made by statutory instrument.
+(5) A statutory instrument containing regulations under this section is
+15
+subject to annulment in pursuance of a resolution of either House of
+Parliament.”
+10 Other duties of landlords and former landlords
+In the 1988 Act, after section 16D (inserted by section 9 of this Act) insert—
+“16E Other duties of landlords and former landlords
+(1)
+20
+This section applies to an assured tenancy other than a tenancy of
+social housing (within the meaning of Part 2 of the Housing and
+Regeneration Act 2008) under which the landlord is a private registered
+provider of social housing.
+(2) A landlord of a dwelling-house let on an assured tenancy to which
+this section applies must not—
+(a) purport to let the dwelling-house on that tenancy for a fixed 25
+term (see section 4A),
+(b) purport to bring the tenancy to an end by service of a notice
+to quit (see section 5(1)),
+(c)
+30
+serve on the tenant a document which purports to be a notice
+under section 8(3) but is not in the form prescribed under
+section 45(1) for the purposes of that provision,
+(d) serve on the tenant a notice under section 8(3), or another
+document purporting to bring the tenancy to an end (a
+35
+“purported notice under section 8(3)”), which specifies any
+ground in Schedule 2 which the landlord is not entitled to rely
+on,
+(e) serve on the tenant a notice under section 8(3), or a purported
+notice under section 8(3), which specifies any of Grounds 1B,
+40
+2ZA, 2ZB, 4, 5 to 5G or 18 in Schedule 2 even though no
+statement was given to the tenant under section 16D(2) in
+respect of that ground, or
+12 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(f) serve on the tenant a notice under section 8(3), or a purported
+notice under section 8(3), which—
+(i) specifies one or more of Grounds 1, 1A and 6 in
+Schedule 2, and
+(ii) specifies a date earlier than 6 months after the beginning 5
+of the tenancy as the earliest date on which proceedings
+for possession of the dwelling-house would begin.
+(3) A person who obtains possession of a dwelling-house let on a tenancy
+10
+to which this section applies as a result of service of a notice under
+section 8(3) which specifies Ground 1 or 1A in Schedule 2 must not,
+before the end of the period of three months beginning with the date
+specified in the notice under section 8(3)(b)—
+(a) let the dwelling-house on a tenancy, or
+(b) market the dwelling-house to let on a tenancy.
+(4) A person who obtains possession of a dwelling-house let on a tenancy 15
+to which this section applies as a result of service of a notice under
+section 8(3) which specifies Ground 1 or 1A in Schedule 2 must not
+authorise a letting agent to market the dwelling house, before the end
+20
+of the period of three months beginning with the date specified in the
+notice under section 8(3)(b), to let on a tenancy.
+(5) For the purposes of subsections (3) and (4) a person obtains possession
+of a dwelling-house as a result of service of a notice under section
+8(3) if—
+(a)
+25
+when notice was served on the tenant of the dwelling-house
+under that section, the person was the tenant’s landlord under
+the tenancy to which the notice related, and
+(b) as a result of the notice the tenant surrenders the tenancy,
+without an order for possession of the dwelling-house being
+made.
+(6) For the purposes of subsections (3) and (4) a person markets a 30
+dwelling-house to let on a tenancy when—
+(a) the person advertises that the dwelling-house is or may be
+available to let on a tenancy, or
+(b)
+35
+in the course of lettings agency work, the person informs any
+other person that the dwelling is or may be so available.
+(7) But subsection (6)(a) does not apply in relation to a person who
+publishes an advertisement in the course of a business that does not
+involve lettings agency work if the advertisement has been provided
+by another person.
+(8) For the purposes of this section, “lettings agency work” means things 40
+done by a person in the course of a business in response to instructions
+received from—
+Renters (Reform) Bill 13
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(a) a person (“a prospective landlord”) seeking to find another
+person to whom to let a dwelling-house, or
+(b) a person (“a prospective tenant”) seeking to find a
+dwelling-house to let.
+(9) However, “lettings agency work” does not include any of the following 5
+things when done by a person who does nothing else within subsection
+(8)—
+(a) publishing advertisements or disseminating information;
+(b)
+10
+providing a means by which a prospective landlord or a
+prospective tenant can, in response to an advertisement or
+dissemination of information, make direct contact with a
+prospective tenant or prospective landlord;
+(c) providing a means by which a prospective landlord and a
+prospective tenant can communicate directly with each other.
+(10) “Lettings agency work” also does not include things of a description, 15
+or things done by a person of a description, specified for the purposes
+of this section in regulations made by the Secretary of State by statutory
+instrument.
+(11)
+20
+A statutory instrument containing regulations under this section is
+subject to annulment in pursuance of a resolution of either House of
+Parliament.”
+Landlords etc: financial penalties and offences
+11 Landlords etc: financial penalties and offences
+In the 1988 Act, after section 16E (inserted by section 10 of this Act) insert—
+“Landlords: financial penalties and offences 25
+16F Financial penalties
+(1) A local housing authority may impose a financial penalty on a person
+who is or was a landlord of a dwelling-house let on an assured tenancy
+if satisfied beyond reasonable doubt—
+(a) that the person contravened section 16D or any paragraph of 30
+section 16E(2) other than paragraph (d), or
+(b) that—
+(i) the person contravened paragraph (d) of section 16E(2),
+and
+(ii) the tenant surrendered the tenancy as a result, without 35
+an order for possession of the dwelling-house being
+made.
+(2) More than one penalty may be imposed in relation to a contravention
+of section 16D(2) only if—
+14 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(a) the contravention continues after the end of 28 days beginning
+with the day after that on which the previous penalty for the
+contravention was imposed, unless the person appeals against
+the decision to impose the penalty within that period, or
+(b) if the person appeals against that decision within that period, 5
+the contravention continues after the end of 28 days beginning
+with the day after that on which the appeal is finally
+determined, withdrawn or abandoned.
+(3)
+10
+Subsection (2) does not enable a penalty to be imposed after the final
+notice in respect of the previous penalty has been withdrawn or
+quashed on appeal.
+(4) The amount of a financial penalty imposed under this section is to be
+determined by the authority imposing it, but must not be more than
+£5,000.
+(5) No financial penalty may be imposed under this section in respect of 15
+any conduct if—
+(a) the person has been convicted of an offence under section 16G
+in respect of the conduct,
+(b)
+20
+criminal proceedings under that section have been instituted
+against the person in respect of the conduct and the proceedings
+have not been concluded,
+(c) criminal proceedings under that section in respect of the
+conduct have been concluded and the person has not been
+convicted of the offence, or
+(d) a financial penalty has been imposed under section 16H in 25
+respect of that conduct.
+(6) The Secretary of State may give guidance to local housing authorities
+about the exercise of their functions under this section.
+(7)
+30
+Local housing authorities must have regard to any guidance issued
+under subsection (6).
+(8) For the purposes of this section and section 16G—
+(a) a financial penalty is imposed under this section or section 16H
+on the date specified in the final notice as the date on which
+the notice is given, and
+(b) “final notice” has the meaning given by paragraph 6 of Schedule 35
+2ZA.
+16G Offences
+(1) A person who is a landlord of a dwelling-house let on an assured
+tenancy is guilty of an offence if—
+(a) the person serves on the tenant a notice under section 8(3), or 40
+a purported notice under section 8(3) (within the meaning
+given by section 16E(2)(d))—
+Renters (Reform) Bill 15
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(i) specifying a ground in Schedule 2 knowing that they
+are not entitled to rely on that ground, or being reckless
+as to whether they are entitled to rely on it, or
+(ii)
+5
+specifying one or more of Grounds 1, 1A and 6 in
+Schedule 2 and specifying that the proceedings will not
+begin earlier than a date specified in the notice, knowing
+or being reckless as to the fact that the date is earlier
+than 6 months after the beginning of the tenancy, and
+(b)
+10
+the tenant surrenders the tenancy as a result, without an order
+for possession of the dwelling-house being made.
+(2) A person is guilty of an offence if the person contravenes section
+16E(3) or (4).
+(3) A person is guilty of an offence if—
+(a)
+15
+a relevant penalty has been imposed on the person and the
+final notice imposing the penalty has not been withdrawn, and
+(b) the conduct in respect of which the penalty was imposed
+continues after the end of the period of 28 days beginning
+with—
+(i)
+20
+the day after that on which the penalty was imposed
+on the person, or
+(ii) if the person appeals against the final notice in respect
+of the penalty within that period, the day after that on
+which the appeal is finally determined, withdrawn or
+abandoned.
+(4) A person is guilty of an offence if— 25
+(a) the person conducts themselves in a manner giving rise to
+liability to a financial penalty under section 16F, and
+(b) within the period of five years ending with the day on which
+the conduct occurs—
+(i) a relevant penalty has been imposed on the person for 30
+different conduct and the final notice imposing the
+penalty has not been withdrawn, or
+(ii) the person has been convicted of an offence under this
+section for different conduct.
+(5) In subsections (3) and (4) “relevant penalty” means a financial penalty 35
+which is imposed under section 16F or 16H where—
+(a) the period for bringing an appeal against the penalty
+under paragraph 10(2) of Schedule 2ZA has expired without
+an appeal being brought,
+(b) an appeal against the financial penalty under that paragraph 40
+has been withdrawn or abandoned, or
+(c) the final notice imposing the penalty has been confirmed or
+varied on appeal.
+16 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(7) A person may not be convicted of an offence under subsection (1), (2)
+or (4) in respect of any conduct if a financial penalty has been imposed
+under section 16F or 16H in respect of that conduct.
+(8)
+5
+A person guilty of an offence under this section is liable on summary
+conviction to a fine.
+16H Financial penalties as an alternative to prosecution under section 16G
+(1) A local housing authority may impose a financial penalty on a person
+if satisfied beyond reasonable doubt that the person is guilty of an
+offence under section 16G.
+(2) No financial penalty may be imposed under this section in respect of 10
+any conduct if—
+(a) the person has been convicted of an offence under section 16G
+in respect of the conduct,
+(b)
+15
+criminal proceedings under that section in respect of the
+conduct have been instituted against the person and the
+proceedings have not been concluded, or
+(c) criminal proceedings under that section in respect of the
+conduct have been concluded and the person has not been
+convicted of the offence.
+(3) The amount of a financial penalty imposed under this section is to be 20
+determined by the authority imposing it, but must not be more than
+£30,000.
+(4) The Secretary of State may give guidance to local housing authorities
+about the exercise of their functions under this section.
+(5) Local housing authorities must have regard to any guidance issued 25
+under subsection (4).
+16I Financial penalties: supplementary and interpretation
+(1) The Secretary of State may give financial assistance (by way of grant, loan
+30
+guarantee or in any other form) or make other payments to a local housing
+authority in respect of the local housing authority’s functions under or by
+virtue of sections 16F to 16H.
+(2) The Secretary of State may by regulations amend the amount specified
+in section 16F(4) or 16H(3) to reflect changes in the value of money.
+(3) Regulations under this section are to be made by statutory instrument.
+(4) A statutory instrument containing regulations under this section is 35
+subject to annulment in pursuance of a resolution of either House of
+Parliament.
+(5) Schedule 2ZA makes provision about—
+Renters (Reform) Bill 17
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(a) the procedure for imposing financial penalties under sections
+16F and 16H,
+(b) appeals against financial penalties under sections 16F and 16H,
+(c)
+5
+enforcement of financial penalties under sections 16F and 16H,
+and
+(d) how local housing authorities are to deal with the proceeds of
+financial penalties under sections 16F and 16H.
+(6) In sections 16F to 16H, this section and Schedule 2ZA “local housing
+10
+authority” has the meaning given by section 1 of the Housing Act
+1985.”
+12 Financial penalties: procedure, appeals and enforcement
+In the 1988 Act, after Schedule 2 insert—
+“SCHEDULE 2ZA section 16I
+FINANCIAL PENALTIES UNDER SECTIONS 16F AND 16H
+Notice of 15 intent
+1 Before imposing a financial penalty on a person under section 16F
+or 16H a local housing authority must give the person notice of its
+proposal to do so (a “notice of intent”).
+2
+20
+The notice of intent must be given before the end of the period of
+6 months beginning with the first day on which the authority has
+(1)
+sufficient evidence of the conduct to which the financial penalty
+relates.
+(2) But if the person is continuing to engage in the conduct on that
+25
+day, and the conduct continues beyond the end of that day, the
+notice of intent may be given—
+(a) at any time when the conduct is continuing, or
+(b) within the period of 6 months beginning with the last day
+on which the conduct occurs.
+3 The notice of intent must set out—
+(a) the date on which the notice of intent is given, 30
+(b) the amount of the proposed financial penalty,
+(c) the reasons for proposing to impose the financial penalty,
+and
+(d)
+35
+information about the right to make representations under
+paragraph 4.
+18 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+Right to make representations
+4 A person who is given a notice of intent may make written
+representations to the local housing authority about the proposal
+to impose a financial penalty.
+(1)
+(2) Any representations must be made within the period of 28 days 5
+beginning with the day after that on which the notice was given
+(“the period for representations”).
+Final notice
+5
+10
+After the end of the period for representations the local housing
+authority must—
+(a) decide whether to impose a financial penalty on the person,
+and
+(b) if it decides to impose a financial penalty, decide the amount
+of the penalty.
+6 If the authority decides to impose a financial penalty on the person, 15
+it must give the person a notice (a “final notice”) imposing that
+penalty.
+7 The final notice must require the penalty to be paid within the
+20
+period of 28 days beginning with the day after that on which the
+notice was given.
+8 The final notice must set out—
+(a) the date on which the final notice is given,
+(b) the amount of the financial penalty,
+(c) the reasons for imposing the penalty,
+(d) information about how to pay the penalty, 25
+(e) the period for payment of the penalty,
+(f) information about rights of appeal, and
+(g) the consequences of failure to comply with the notice.
+Withdrawal or amendment of notice
+9 (1) A local housing authority may at any time— 30
+(a) withdraw a notice of intent or final notice, or
+(b) reduce the amount specified in a notice of intent or final
+notice.
+(2)
+35
+The power in sub-paragraph (1) is to be exercised by giving notice
+in writing to the person to whom the notice was given.
+Appeals
+10 A person to whom a final notice is given may appeal to the First-tier
+Tribunal against—
+(1)
+Renters (Reform) Bill 19
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(a) the decision to impose the penalty, or
+(b) the amount of the penalty.
+(2) An appeal under this paragraph must be brought within the period
+5
+of 28 days beginning with the day after that on which the final
+notice was given.
+(3) If a person appeals under this paragraph, the final notice is
+suspended until the appeal is finally determined, withdrawn or
+abandoned.
+(4) An appeal under this paragraph—
+(a) is to be a re-hearing of the local housing authority’s decision, 10
+but
+(b) may be determined having regard to matters of which the
+authority was unaware.
+(5)
+15
+On an appeal under this paragraph the First-tier Tribunal may
+confirm, vary or cancel the final notice.
+(6) The final notice may not be varied under sub-paragraph (5) so as
+to make it impose a financial penalty of more than the local housing
+authority could have imposed.
+Recovery of financial penalty
+11 This paragraph applies if a person fails to pay the whole or any 20
+part of a financial penalty which, in accordance with this Schedule,
+the person is liable to pay.
+(1)
+(2) The local housing authority which imposed the financial penalty
+25
+may recover the whole or part of the penalty on the order of the
+county court as if it were payable under an order of that court.
+(3) In proceedings before the county court for the recovery of a financial
+penalty or part of a financial penalty, a certificate which is—
+(a) signed by the chief finance officer of the local housing
+authority which imposed the penalty, and
+(b) states that the amount due has not been received by a date 30
+specified in the certificate,
+is conclusive evidence of that fact.
+(4) A certificate to that effect and purporting to be so signed is to be
+treated as being so signed unless the contrary is proved.
+(5) In this paragraph “chief finance officer” has the same meaning as 35
+in section 5 of the Local Government and Housing Act 1989.
+Proceeds of financial penalties
+12 Where a local housing authority imposes a financial penalty under
+40
+this Act, it may apply the proceeds towards meeting the costs and
+expenses (whether administrative or legal) incurred in, or associated
+20 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+with, carrying out any of its enforcement functions under this Act
+or otherwise in relation to the private rented sector.
+13 Any proceeds of a financial penalty imposed under this Act which are not
+5
+applied in accordance with paragraph 12 must be paid to the Secretary of
+State.
+14 (1) In paragraph 12, “enforcement functions in relation to the private
+rented sector” means enforcement functions relating to—
+(a) residential premises in England that are let, or intended to
+be let, under a tenancy,
+(b) the common parts of such premises, 10
+(c) the activities of a landlord under a tenancy of residential
+premises in England,
+(d) the activities of a person carrying on English letting agency
+15
+work within the meaning of section 54 of the Housing and
+Planning Act 2016 in relation to such premises, or
+(e) the activities of a person carrying on English property
+management work within the meaning of section 55 of the
+Housing and Planning Act 2016 in relation to such premises.
+(2)
+20
+For the purposes of this paragraph “residential premises” has the
+meaning given by section 1 of the Housing Act 2004 except that it
+does not include social housing within the meaning of Part 2 of the
+Housing and Regeneration Act 2008.
+(3) For the purposes of this paragraph “tenancy” includes a licence to
+occupy.”
+13 No criminal liability of the Crown under Part 1 of the 1988 Act 25
+In section 44 of the 1988 Act (application of Part 1 of that Act to Crown
+property)—
+(a) in subsection (1), for “subsection (2)” substitute “subsections (1A) and
+(2)”;
+(b) after subsection (1) insert— 30
+“(1A) In Chapter 1—
+(a) section 16G does not bind the Crown;
+(b) in section 16H(1) as it applies by virtue of subsection
+35
+(1), the reference to a person being guilty of an offence
+under section 16G is to be read as a reference to the
+person—
+(i) satisfying the conditions in paragraphs (a) and
+(b) of section 16G(1),
+(ii) contravening section 16E(3) or (4), or
+(iii) satisfying the conditions in paragraphs (a) and 40
+(b)(i) of section 16G(4).
+Renters (Reform) Bill 21
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(1B) Subsection (1A)(a) does not affect the criminal liability of
+persons in the service of the Crown.”
+Other changes
+14 Notices to quit by tenants under assured tenancies: timing
+(1) Section 5 of the Protection from Eviction Act 1977 (notices to quit), is amended 5
+as follows.
+(2) In subsection (1), for paragraph (b) substitute—
+“(b) it satisfies subsection (1ZA).”
+(3) After subsection (1) insert—
+“(1ZA) A notice to quit satisfies this subsection— 10
+(a) where it is given by a tenant in relation to premises let under
+an assured tenancy, if it is given—
+(i) not less than any length of time before the date on
+15
+which the notice is to take effect, not exceeding two
+months, that the landlord has agreed to in writing, or
+(ii) in the absence of agreement under sub-paragraph (i),
+not less than two months before the date on which the
+notice is to take effect;
+(b)
+20
+otherwise, if it is given not less than four weeks before the
+date on which it is to take effect.
+But in relation to landlords under assured tenancies see section 5(1)
+of the Housing Act 1988 (notice to quit by landlord is of no effect).”
+15 Notices to quit by tenants under assured tenancies: other
+After section 5 of the Protection from Eviction Act 1977 insert—
+“5A Notices to quit by tenants under assured tenancies 25
+(1) Any provision that would bind a tenant as to the means of giving a
+notice in writing to quit premises let under an assured tenancy is of
+no effect.
+(2)
+30
+For the purposes of subsection (1) the “means of giving a notice in
+writing” is the mode by which the words of the notice are represented
+or reproduced in a visible form.
+(3) A notice by a tenant to quit premises let under an assured tenancy
+may be withdrawn before the date on which it takes effect by the
+tenant and landlord agreeing in writing to the withdrawal.”
+16 Limitation on obligation to pay removal expenses 35
+In section 11(1) of the 1988 Act (payment of removal expenses)—
+22 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(a) after “tenancy” insert “in relation to which the landlord is a private
+registered provider of social housing,”;
+(b) in the heading, for “in certain cases” substitute “by private registered
+providers of social housing”.
+17 Assured agricultural occupancies: grounds for possession 5
+In section 25 of the 1988 Act (security of tenure in relation to assured
+agricultural occupancies)—
+(a) omit subsection (1);
+(b) in subsection (2)—
+(i) for “Part II” substitute “Part 1”; 10
+(ii) for “Ground 16” substitute “Grounds 2ZA, 2ZB, 5A and 5C”.
+18 Accommodation for homeless people: duties of local authority
+(1) The Housing Act 1996 is amended as follows.
+(2)
+15
+In section 193 (duty to persons with priority need who are not homeless
+intentionally)—
+(a) in subsection (1A), omit paragraph (b) (exception for notice of refusal
+to co-operate) and the “or” before it;
+(b) in subsection (6) omit paragraph (cc);
+(c) in subsection (7AB) omit paragraph (c) and the “and” before it;
+(d) in subsection (7AC)— 20
+(i) in paragraph (a) omit “shorthold”;
+(ii) at the end of paragraph (a) insert “and”;
+(iii) omit paragraph (c) and the “and” before it.
+(3)
+25
+In section 193C (consequences of deliberate and unreasonable refusal to
+co-operate) omit subsections (3) to (10) (homelessness relief duty).
+(4) Omit section 195A (duty to offer accommodation following re-application
+after private sector offer).
+19 Tenancy deposit requirements
+(1)
+30
+Chapter 4 of Part 6 of the Housing Act 2004 (tenancy deposit schemes) is
+amended as follows.
+(2) In section 212—
+(a) in subsection (1), for “shorthold” substitute “assured”;
+(b) in subsection (2), for “shorthold” substitute “assured”;
+(c) in subsection (8)—
+(i) at the appropriate place insert— 35
+““assured tenancy” means an assured tenancy within the
+meaning of Chapter 1 of Part 1 of the Housing Act 1988
+Renters (Reform) Bill 23
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(for transitional provision see Schedule 4 to the Renters
+(Reform) Act 2023);”
+(ii) omit the definition of “shorthold tenancy”;
+(iii)
+5
+in the definition of “tenancy deposit”, for “a shorthold”
+substitute “an assured”;
+(d) in subsection (9), in paragraph (a), for “shorthold” substitute “assured”.
+(3) In section 213, in each place it occurs, for “a shorthold” substitute “an assured”.
+(4) In section 214—
+(a) in subsection (1)—
+(i) for “a shorthold” substitute “an assured”; 10
+(ii) omit “on or after 6 April 2007”;
+(b) after subsection (1) insert—
+“(1ZA) In relation to a tenancy that, immediately before the extended
+15
+application date, was an assured shorthold tenancy, subsection
+(1) applies as if after “assured tenancy”, in the first place it
+occurs, there were inserted “on or after 6 April 2007”.
+(1ZB) In subsection (1ZA)—
+“assured shorthold tenancy” means an assured shorthold
+20
+tenancy within the meaning of Chapter 2 of Part 1 of
+the Housing Act 1988 as it had effect before the
+amendments made by the Renters (Reform) Act 2023;
+“the extended application date” has the meaning given
+by section 67(4) of the Renters (Reform) Act 2023.”;
+(c) in subsection (5), for “a shorthold” substitute “an assured”.
+(5) For section 215 substitute— 25
+“215 Sanctions for non-compliance
+(1) Where a tenancy deposit has been paid in connection with an assured
+tenancy, the court may make an order for possession of the
+30
+dwelling-house let on the assured tenancy only if the tenancy deposit
+is being held in accordance with an authorised scheme.
+(2) Where a tenancy deposit has been paid in connection with an assured
+tenancy, the court may make an order for possession of the
+dwelling-house let on the assured tenancy only if such requirements
+35
+of the scheme as fell to be complied with by the landlord on receiving
+the tenancy deposit have been complied with (whether or not within
+the period mentioned by section 213(3)) in relation to the tenancy
+deposit.
+(3) Where a tenancy deposit has been paid in connection with an assured
+40
+tenancy, the court may make an order for possession of the
+dwelling-house let on the assured tenancy only if the requirements of
+section 213(5) and (6)(a) have been complied with.
+24 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(4) Subsections (1) to (3) do not apply in relation to an order for possession
+made on Ground 7A or 14 in Schedule 2 to the Housing Act 1988
+(whether or not any other grounds for possession are met).
+(5) Subsections (1) to (3) do not apply where—
+(a) the tenancy deposit has been returned to the tenant in full or 5
+with such deductions as are agreed between the landlord and
+tenant, or
+(b) an application to the county court has been made under section
+10
+214(1) and has been determined by that court, withdrawn or
+settled by agreement between the parties.
+(6) If any deposit given in connection with an assured tenancy could not
+be lawfully required as a result of section 213(7), the court may not
+make an order for possession of the dwelling-house let on the assured
+15
+tenancy until the property in question is returned to the person by
+whom it was given as a deposit.
+(7) In subsection (6) “deposit” has the meaning given by section 213(8).
+(8) In relation to an assured tenancy that—
+(a) was entered into before the commencement date (within the
+20
+meaning given by section 67(4) of the Renters (Reform) Act
+2023), and
+(b) immediately before the extended application date, was an
+assured shorthold tenancy,
+subsection (2) is to be read as if the words “on or after 6 April 2007”
+were inserted after “assured tenancy” in the first place it occurs.
+(9) See also paragraph 9 of Schedule 4 to the Renters (Reform) Act 2023 25
+(disapplication of amendments to this Chapter in relation to a tenancy
+that immediately before the extended application date was an assured
+tenancy other than an assured shorthold tenancy).
+(10) In this section—
+“assured shorthold tenancy” means an assured shorthold tenancy 30
+within the meaning of Chapter 2 of Part 1 of the Housing Act
+1988 as it had effect before the amendments made by the
+Renters (Reform) Act 2023;
+35
+“the court” means a court having jurisdiction to make an order
+for possession of a dwelling-house let on an assured tenancy
+(see section 40 of the Housing Act 1988);
+“dwelling-house” has the same meaning as in Part 1 of the
+Housing Act 1988 (see section 45 of that Act);
+40
+“the extended application date” has the meaning given by section
+67(4) of the Renters (Reform) Act 2023.”
+(6) Omit section 215A.
+(7) In section 215B—
+Renters (Reform) Bill 25
+Part 1—Tenancy reform
+Chapter 1—Assured tenancies 
+(a) in the title, for “Shorthold” substitute “Assured”;
+(b) in subsection (1)—
+(i) in paragraph (a) for “a shorthold” substitute “an assured”;
+(ii) in paragraph (d) for “shorthold” substitute “assured”.
+(8) In Schedule 10— 5
+(a) for “shorthold tenancies”, in each place it occurs, substitute “assured
+tenancies”;
+(b) for “a shorthold tenancy”, in each place it occurs, substitute “an assured
+tenancy”.
+Consequential amendments 10
+20 Consequential amendments
+Schedule 2 contains amendments in consequence of this Chapter.
+CHAPTER 2
+TENANCIES THAT CANNOT BE ASSURED TENANCIES
+21 Tenancies of more than seven years not to be assured tenancies 15
+(1) In Part 1 of Schedule 1 to the 1988 Act (tenancies which cannot be assured
+tenancies), after paragraph 3C insert—
+“Fixed term tenancies of more than seven years
+3D
+20
+A fixed term tenancy of a term certain of more than seven years
+from the date of the grant of the tenancy.”
+(2) In paragraph 1 of Schedule 10 to the Local Government and Housing Act
+1989 (security of tenure on ending of long residential tenancies), in
+sub-paragraph (1)(a) after “low rent” insert “and were not for a term of more
+than seven years”.
+(3) Where, immediately before the day on which this section comes into force, 25
+proceedings for an order for possession under section 8 of the 1988 Act in
+reliance on a valid notice given under that section of that Act have been
+commenced in relation to the tenancy and have not been concluded, or have
+not been commenced but have not become time-barred—
+(a) the tenancy remains an assured tenancy, and the notice remains valid, 30
+until any time when such proceedings in reliance on the notice become
+time-barred or are concluded, and
+(b) until that time the amendments made by subsections (1) and (2) do
+not apply in relation to the tenancy.
+(4) For the purposes of subsection (3), proceedings are “time-barred” after the 35
+time limit mentioned in section 8(3)(c) of the 1988 Act.
+26 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 2—Tenancies that cannot be assured tenancies 
+CHAPTER 3
+PENALTIES FOR UNLAWFUL EVICTION OR HARASSMENT OF OCCUPIER
+22 Penalties for unlawful eviction or harassment of occupier
+(1) The Protection from Eviction Act 1977 is amended as follows.
+(2) In section 1, after subsection (6) insert— 5
+“(7) A person may not be convicted of an offence under this section in
+respect of any conduct if a financial penalty has been imposed under
+section 1A in respect of that conduct.”
+(3) After section 1 insert—
+“1A Financial penalty for offence under section 1 10
+(1) A local housing authority may impose a financial penalty on a person
+if satisfied beyond reasonable doubt that the person has committed
+an offence under section 1 in relation to premises in England.
+(2)
+15
+No financial penalty may be imposed in respect of any conduct
+amounting to an offence under section 1 if—
+(a) the person has been convicted of an offence under that section
+in respect of the conduct,
+(b) criminal proceedings for an offence under that section in respect
+20
+of the conduct have been instituted against the person and the
+proceedings have not been concluded, or
+(c) criminal proceedings for an offence under that section in respect
+of the conduct have been concluded and the person has not
+been convicted of the offence.
+(3)
+25
+The amount of a financial penalty imposed under this section is to be
+determined by the authority imposing it, but must not be more than
+£30,000.
+(4) The Secretary of State may give guidance to local housing authorities
+about the exercise of their functions under this section.
+(5)
+30
+Local housing authorities must have regard to any guidance issued
+under subsection (4).
+(6) Schedule A1 makes provision about—
+(a) the procedure for imposing financial penalties,
+(b) appeals against financial penalties,
+(c) enforcement of financial penalties, and
+(d) how local housing authorities are to deal with the proceeds of 35
+financial penalties.
+(7) The Secretary of State may by regulations amend the amount specified
+in subsection (3) to reflect changes in the value of money.
+Renters (Reform) Bill 27
+Part 1—Tenancy reform
+Chapter 3—Penalties for unlawful eviction or harassment of occupier 
+(8) Regulations under this section are to be made by statutory instrument.
+(9) A statutory instrument containing regulations under this section is
+subject to annulment in pursuance of a resolution of either House of
+Parliament.”
+(4) Before Schedule 1 insert— 5
+“SCHEDULE A1 Section 1A
+FINANCIAL PENALTY FOR OFFENCE UNDER SECTION 1
+Notice of intent
+1
+10
+Before imposing a financial penalty on a person under section 1A
+a local housing authority must give the person notice of its proposal
+to do so (a “notice of intent”).
+2 The notice of intent must be given before the end of the period of
+6 months beginning with the first day on which the authority has
+(1)
+15
+sufficient evidence of the conduct to which the financial penalty
+relates.
+(2) But if the person is continuing to engage in the conduct on that
+day, and the conduct continues beyond the end of that day, the
+notice of intent may be given—
+(a) at any time when the conduct is continuing, or
+(b) within the period of 6 months beginning with the last day 20
+on which the conduct occurs.
+3 The notice of intent must set out—
+(a) the date on which the notice of intent is given,
+(b) the amount of the proposed financial penalty,
+(c) the reasons for proposing to impose the financial penalty, 25
+and
+(d) information about the right to make representations under
+paragraph 4.
+Right to make representations
+4 A person who is given a notice of intent may make written 30
+representations to the local housing authority about the proposal
+to impose a financial penalty.
+(1)
+(2) Any representations must be made within the period of 28 days
+35
+beginning with the day after that on which the notice was given
+(“the period for representations”).
+Final notice
+5 After the end of the period for representations the local housing
+authority must—
+28 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 3—Penalties for unlawful eviction or harassment of occupier 
+(a) decide whether to impose a financial penalty on the person,
+and
+(b) if it decides to impose a financial penalty, decide the amount
+of the penalty.
+6 If the authority decides to impose a financial penalty on the person, 5
+it must give the person a notice (a “final notice”) imposing that
+penalty.
+7 The final notice must require the penalty to be paid within the
+10
+period of 28 days beginning with the day after that on which the
+notice was given.
+8 The final notice must set out—
+(a) the date on which the final notice is served,
+(b) the amount of the financial penalty,
+(c) the reasons for imposing the penalty,
+(d) information about how to pay the penalty, 15
+(e) the period for payment of the penalty,
+(f) information about rights of appeal, and
+(g) the consequences of failure to comply with the notice.
+Withdrawal or amendment of notice
+9 (1) A local housing authority may at any time— 20
+(a) withdraw a notice of intent or final notice, or
+(b) reduce the amount specified in a notice of intent or final
+notice.
+(2)
+25
+The power in sub-paragraph (1) is to be exercised by giving notice
+in writing to the person to whom the notice was given.
+Appeals
+10 A person to whom a final notice is given may appeal to the First-tier
+Tribunal against—
+(1)
+(a) the decision to impose the penalty, or
+(b) the amount of the penalty. 30
+(2) An appeal under this paragraph must be brought within the period
+of 28 days beginning with the day after that on which the final
+notice was given.
+(3)
+35
+If a person appeals under this paragraph, the final notice is
+suspended until the appeal is finally determined, withdrawn or
+abandoned.
+(4) An appeal under this paragraph—
+(a) is to be a re-hearing of the local housing authority’s decision,
+but
+Renters (Reform) Bill 29
+Part 1—Tenancy reform
+Chapter 3—Penalties for unlawful eviction or harassment of occupier 
+(b) may be determined having regard to matters of which the
+authority was unaware.
+(5) On an appeal under this paragraph the First-tier Tribunal may
+confirm, vary or cancel the final notice.
+(6) The final notice may not be varied under sub-paragraph (5) so as 5
+to make it impose a financial penalty of more than the local housing
+authority could have imposed.
+Recovery of financial penalty
+11
+10
+This paragraph applies if a person fails to pay the whole or any
+part of a financial penalty which, in accordance with this Schedule,
+the person is liable to pay.
+(1)
+(2) The local housing authority which imposed the financial penalty
+may recover the whole or part of the penalty on the order of the
+county court as if it were payable under an order of that court.
+(3) In proceedings before the county court for the recovery of a financial 15
+penalty or part of a financial penalty, a certificate which is—
+(a) signed by the chief finance officer of the local housing
+authority which imposed the penalty, and
+(b)
+20
+states that the amount due has not been received by a date
+specified in the certificate,
+is conclusive evidence of that fact.
+(4) A certificate to that effect and purporting to be so signed is to be
+treated as being so signed unless the contrary is proved.
+(5)
+25
+In this paragraph “chief finance officer” has the same meaning as
+in section 5 of the Local Government and Housing Act 1989.
+Proceeds of financial penalties
+12 Where a local housing authority imposes a financial penalty under
+this Act, it may apply the proceeds towards meeting the costs and
+30
+expenses (whether administrative or legal) incurred in, or associated
+with, carrying out any of its enforcement functions under this Act
+or otherwise in relation to the private rented sector.
+13 Any proceeds of a financial penalty imposed under this Act which are not
+applied in accordance with paragraph 12 must be paid to the Secretary of
+State.
+14 (1) In paragraph 12, “enforcement functions in relation to the private 35
+rented sector” means enforcement functions relating to—
+(a) residential premises in England that are let, or intended to
+be let, under a tenancy,
+(b) the common parts of such premises,
+(c) the activities of a landlord under a tenancy of residential 40
+premises in England,
+30 Renters (Reform) Bill
+Part 1—Tenancy reform
+Chapter 3—Penalties for unlawful eviction or harassment of occupier 
+(d) the activities of a person carrying on English letting agency
+work within the meaning of section 54 of the Housing and
+Planning Act 2016 in relation to such premises, or
+(e)
+5
+the activities of a person carrying on English property
+management work within the meaning of section 55 of the
+Housing and Planning Act 2016 in relation to such premises.
+(2) For the purposes of this paragraph “residential premises” has the
+meaning given by section 1 of the Housing Act 2004 except that it
+10
+does not include social housing within the meaning of Part 2 of the
+Housing and Regeneration Act 2008.
+(3) For the purposes of this paragraph, “tenancy” includes a licence to
+occupy.”
+PART 2
+RESIDENTIAL LANDLORDS
+CHAPTER 1 15
+MEANING OF “RESIDENTIAL LANDLORD”
+23 Meaning of “residential landlord”
+(1) In this Part—
+20
+“residential landlord” means the landlord under a relevant tenancy of a
+dwelling in England that is not social housing;
+“residential tenancy” and “residential tenant” are to be read accordingly.
+(2) In subsection (1)—
+“dwelling” means a building or part of a building which is occupied or
+intended to be occupied as a separate dwelling;
+“social housing” has the same meaning as in Part 2 of the Housing and 25
+Regeneration Act 2008.
+(3) In this section, “relevant tenancy” means—
+(a) an assured tenancy within the meaning of the Housing Act 1988, or
+(b) a regulated tenancy within the meaning of the Rent Act 1977.
+(4) The Secretary of State may by regulations amend this Chapter so as to— 30
+(a) change the meaning of “residential landlord” in relation to an assured
+tenancy that is a sub-tenancy—
+(i) so that in addition to the landlord under the relevant tenancy,
+35
+it includes any or all superior landlords in relation to that
+tenancy, or
+(ii) so that it does not include superior landlords added by virtue
+of this paragraph;
+(b) change the meaning of “relevant tenancy” so as to add or remove a
+particular kind of—
+Renters (Reform) Bill 31
+Part 2—Residential landlords
+Chapter 1—Meaning of “residential landlord” 
+(i) tenancy of a dwelling that is periodic or granted for a term of
+less than 21 years, or
+(ii) licence to occupy a dwelling;
+(c) change the meaning of “dwelling”—
+(i) so that in addition to a building or part of a building occupied 5
+or intended to be occupied as a separate dwelling, it includes
+any other structure, vehicle or vessel so occupied or intended
+to be so occupied, or
+(ii)
+10
+so that it does not include anything added by virtue of this
+paragraph.
+(5) In subsection (4)(b)—
+(a) the reference to a tenancy of a dwelling includes a tenancy under
+which the dwelling is occupied for the purposes of either House of
+Parliament, and
+(b) the reference to a licence to occupy a dwelling includes such a licence 15
+under which the dwelling is occupied for the purposes of either House
+of Parliament.
+(6) The provision that may be made in regulations under subsection (4) by virtue
+of section 56(1)(a) includes provision amending section 57.
+(7) The provision that may be made in regulations under subsection (4) by virtue 20
+of section 56(1)(b) includes different provision for the purposes of different
+Chapters of this Part.
+CHAPTER 2
+LANDLORD REDRESS SCHEMES
+Landlord redress schemes 25
+24 Landlord redress schemes
+(1) The Secretary of State may make regulations requiring a residential landlord
+to be a member of a landlord redress scheme.
+(2) A “landlord redress scheme” means a scheme—
+(a) which provides for a complaint made by or on behalf of a prospective, current 30
+or former residential tenant against a member of the scheme to be
+independently investigated and determined by an independent individual,
+and
+(b) which is—
+(i) approved by the Secretary of State for the purposes of regulations 35
+under subsection (1), or
+(ii) administered by or on behalf of the Secretary of State and designated
+by the Secretary of State for those purposes.
+(3) In subsection (2)(a) “prospective residential tenant” means a person who—
+32 Renters (Reform) Bill
+Part 2—Residential landlords
+Chapter 2—landlord redress schemes 
+(a) offers to become a residential tenant of a dwelling that is marketed
+for the purpose of creating a residential tenancy, or
+(b) with a view to deciding whether to become a residential tenant of a
+dwelling that is marketed for that purpose—
+(i) requests information about the dwelling from a person 5
+marketing it, or
+(ii) visits or requests to visit such a dwelling by arrangement with
+a person marketing it.
+(4) Regulations under subsection (1) may—
+(a) require a person to be a member of a landlord redress scheme before 10
+a dwelling is marketed for the purpose of creating a residential tenancy
+under which that person will be a residential landlord;
+(b) prohibit a person from marketing a dwelling for the purpose of
+15
+creating a residential tenancy unless the person who will be a
+residential landlord if the tenancy is granted is a member of a landlord
+redress scheme;
+(c) require a person to remain a member of the scheme after ceasing to
+be a residential landlord, for a period specified in the regulations.
+(5)
+20
+Before making regulations under subsection (1), the Secretary of State must
+be satisfied that all persons who are to be required to be a member of a
+landlord redress scheme will be eligible to join such a scheme before being
+so required (subject to any provision in the scheme about expulsion, as to
+which see section 25(2)(k)).
+(6)
+25
+Nothing in this Chapter prevents a landlord redress scheme from providing
+(subject to regulations under section 25)—
+(a) for membership to be open to persons who wish to join as voluntary
+members;
+(b) for the investigation or determination of any complaints under a
+voluntary jurisdiction;
+(c) for voluntary mediation services; 30
+(d) for the exclusion from investigation and determination under the
+scheme of any complaint in such cases or circumstances as may be
+specified in or determined under the scheme.
+(7) In subsection (6)—
+“complaints under a voluntary jurisdiction” means complaints in relation 35
+to which there is no duty to be a member of a landlord redress scheme,
+where the members against whom the complaints are made have
+voluntarily accepted the jurisdiction of the scheme over those
+complaints;
+“voluntary mediation services” means mediation, conciliation or similar 40
+processes provided at the request of a member in relation to complaints
+made—
+(a) against the member, or
+(b) by the member against another person;
+Renters (Reform) Bill 33
+Part 2—Residential landlords
+Chapter 2—landlord redress schemes 
+“voluntary members” means members who are not subject to a duty to
+be a member of a landlord redress scheme.
+25 Approval and designation of landlord redress schemes
+(1)
+5
+This section applies where the Secretary of State makes regulations under
+section 24(1).
+(2) The Secretary of State must by regulations set out conditions which are to be
+satisfied before a scheme is approved or designated under section 24(2)(b),
+which must include conditions requiring the scheme to include provision in
+accordance with the regulations—
+(a) for the administrator to appoint an individual, having obtained the 10
+Secretary of State’s approval of the individual and the terms of the
+appointment, who is to be responsible for overseeing and monitoring
+the investigation and determination of complaints under the scheme,
+(b)
+15
+about the complaints that may be made under the scheme, which must
+include provision enabling the making of complaints about
+non-compliance with any codes of practice for residential landlords
+that are issued or approved by the Secretary of State,
+(c) about the time to be allowed for scheme members to resolve matters
+20
+before a complaint is accepted under the scheme in relation to those
+matters,
+(d) about the circumstances in which a complaint may be rejected,
+(e) about co-operation (which may include the joint exercise of functions)
+of an individual who is investigating or determining a complaint with
+25
+persons who have functions under other redress schemes and with
+local housing authorities,
+(f) about the provision of information to the persons mentioned in
+paragraph (e) and the Secretary of State,
+(g) if members are required to pay fees in respect of compulsory aspects of the
+scheme, about the level of those fees,
+(h) if there are voluntary aspects of the scheme— 30
+(i) for fees to be payable in respect of those aspects of the scheme,
+and
+(ii) for the fees to be set at a level that, taking one year with
+35
+another, is sufficient to meet the costs incurred in the
+administration of those aspects of the scheme;
+(i) for the individual determining a complaint to be able to require
+members to provide redress of the following types to the
+complainant—
+(i) providing an apology or explanation,
+(ii) paying compensation, and 40
+(iii) taking such other actions in the interests of the complainant
+as the individual determining the complaint may specify,
+(j) about the enforcement of the scheme and decisions made under the
+scheme,
+34 Renters (Reform) Bill
+Part 2—Residential landlords
+Chapter 2—landlord redress schemes 
+(k) for a person to be expelled from the scheme only—
+(i) in circumstances specified in the regulations,
+(ii) once steps to secure compliance that are specified in the
+regulations have been taken, and
+(iii) once the decision to expel the person has been reviewed by an 5
+independent person in accordance with the regulations,
+(l) for an expulsion to be revoked in circumstances specified in the
+regulations,
+(m)
+10
+prohibiting a person from joining the scheme when the person has
+been expelled from another landlord redress scheme and the expulsion
+has not been revoked,
+(n) for circumstances in which the administration of the scheme is to be
+transferred to a different administrator, and
+(o) about the closure of the scheme by the administrator.
+(3) Conditions set out in regulations under subsection (2) may include conditions 15
+requiring the administrator or proposed administrator of a scheme to
+undertake to do things on an ongoing basis following approval or designation.
+(4) Conditions set out in regulations under subsection (2)(n) may require an
+20
+approved scheme to provide for the administration of that scheme to be
+transferred to the Secretary of State or a person acting on behalf of the
+Secretary of State in circumstances specified in the regulations.
+(5) Where conditions set out in regulations under subsection (2)(n) require an
+approved scheme to include the provision mentioned in subsection (4), the
+25
+regulations may provide for a scheme whose administration is transferred as
+mentioned in that subsection to be treated as a designated scheme instead of
+an approved one.
+(6) The Secretary of State may by regulations make further provision about the
+approval or designation of landlord redress schemes under section 24(2)(b),
+including provision—
+(a) about the number of redress schemes that may be approved or 30
+designated (which may be one or more);
+(b) about the making of applications for approval;
+(c) about the period for which an approval or designation is valid;
+(d) about the withdrawal of approval or revocation of designation;
+(e) authorising the approval or designation of a scheme which provides for fees 35
+payable by a compulsory member to be calculated by reference to the total of
+the costs incurred, or to be incurred, in the administration of the compulsory
+aspects of the scheme (including costs unconnected with the member in
+question).
+(7) Regulations under this section may confer a discretion on the Secretary of 40
+State or require a scheme to do so.
+(8) In this section—
+Renters (Reform) Bill 35
+Part 2—Residential landlords
+Chapter 2—landlord redress schemes 
+“compulsory aspects”, in relation to a scheme, means aspects of the
+scheme relating to complaints in relation to which there is a duty to
+be a member of a landlord redress scheme;
+5
+“compulsory member”, in relation to a scheme, means a member of the
+scheme who is subject to a duty to be a member of a landlord redress
+scheme;
+“voluntary aspects”, in relation to a scheme, means aspects of the scheme
+that relate to—
+(a) complaints under a voluntary jurisdiction,
+(b) voluntary mediation services, or 10
+(c) voluntary members;
+and terms used in this definition have the meanings given by section
+24(7).
+26 Financial penalties for breach of regulations
+(1) A local housing authority may impose a financial penalty on a person if 15
+satisfied beyond reasonable doubt that the person has—
+(a) breached regulations under section 24(1) or (4), or
+(b) committed an offence under section 27.
+(2)
+20
+The amount of a financial penalty imposed under this section is to be
+determined by the authority imposing it, but must not be more than—
+(a) £5,000, if it is imposed under subsection (1)(a), or
+(b) £30,000, if it is imposed under subsection (1)(b).
+(3) More than one penalty may be imposed in respect of the same conduct only
+if—
+(a) the conduct continues after the end of 28 days beginning with the day 25
+after that on which the final notice in respect of the previous penalty
+for the conduct was given to the person, unless the person appeals
+against that notice within that period, or
+(b)
+30
+if the person appeals against that notice within that period, the conduct
+continues after the end of 28 days beginning with the day after that
+on which the appeal is finally determined, withdrawn or abandoned.
+(4) Subsection (3) does not enable a penalty to be imposed after the final notice
+in respect of the previous penalty has been withdrawn or quashed on appeal.
+(5)
+35
+No financial penalty may be imposed in respect of any conduct amounting
+to an offence under section 27 if—
+(a) the person has been convicted of an offence under that section in
+respect of the conduct,
+(b) criminal proceedings for an offence under that section in respect of
+40
+the conduct have been instituted against the person and the
+proceedings have not been concluded, or
+36 Renters (Reform) Bill
+Part 2—Residential landlords
+Chapter 2—landlord redress schemes 
+(c) criminal proceedings for an offence under that section in respect of
+the conduct have been concluded and the person has not been
+convicted.
+(6)
+5
+The Secretary of State may give guidance to local housing authorities about
+the exercise of their functions under this section.
+(7) Local housing authorities must have regard to any guidance issued under
+subsection (6).
+(8) The Secretary of State may by regulations amend the amounts specified in
+subsection (2) to reflect changes in the value of money.
+(9) For the purposes of this section and section 27— 10
+(a) a financial penalty is imposed under this section on the date specified
+in the final notice as the date on which the notice is given, and
+(b) “final notice” has the meaning given by paragraph 6 of Schedule 3.
+27 Offences relating to breach of regulations
+(1) A person commits an offence if— 15
+(a) a relevant penalty has been imposed on the person and the final notice
+imposing the penalty has not been withdrawn, and
+(b) the conduct in respect of which the penalty was imposed continues
+after the end of the period of 28 days beginning with—
+(i) the day after that on which the penalty was imposed on the 20
+person, or
+(ii) if the person appeals against the final notice in respect of the
+penalty within that period, the day after that on which the
+appeal is finally determined, withdrawn or abandoned.
+(2) A person commits an offence if— 25
+(a) a relevant penalty has been imposed on the person in respect of a
+breach of regulations under section 24(1) or (4) and the final notice
+imposing the penalty has not been withdrawn, and
+(b)
+30
+the person engages in conduct which constitutes a different breach of
+such regulations within the period of five years beginning with the
+day on which the penalty was imposed.
+(3) A person commits an offence if—
+(a) either—
+(i)
+35
+a relevant penalty has been imposed on the person in respect
+of an offence under this section and the final notice imposing
+the penalty has not been withdrawn, or
+(ii) the person has been convicted of such an offence, and
+(b) the person breaches regulations under section 24(1) or (4) within the
+40
+period of five years beginning with the day on which the relevant
+penalty was imposed or the person was convicted.
+Renters (Reform) Bill 37
+Part 2—Residential landlords
+Chapter 2—landlord redress schemes 
+(4) In subsections (1) to (3) “relevant penalty” means a financial penalty which
+is imposed under section 26 where—
+(a) the period for bringing an appeal against the penalty under paragraph
+10 of Schedule 3 has expired without an appeal being brought,
+(b) an appeal against the financial penalty under that paragraph has been 5
+withdrawn or abandoned, or
+(c) the final notice imposing the penalty has been confirmed or varied on
+appeal.
+(5)
+10
+A person may not be convicted of an offence under subsection (2) or (3) if a
+financial penalty has been imposed under section 26 in respect of the same
+conduct.
+(6) A person guilty of an offence under this section is liable on summary
+conviction to a fine.
+(7)
+15
+Where an offence under this section committed by a body corporate is proved
+to have been committed with the consent or connivance of, or to be attributable
+to any neglect on the part of, an officer of a body corporate, the officer as
+well as the body corporate commits the offence and is liable to be proceeded
+against and punished accordingly.
+(8)
+20
+Where the affairs of a body corporate are managed by its members, subsection
+(6) applies in relation to the acts and defaults of a member in connection with
+the member's functions of management as if the member were an officer of
+the body corporate.
+(9) In section 40 of the Housing and Planning Act 2016 (introduction and key
+definitions), in subsection (3), in the table, after the last row insert—
+Landlord redress schemes: 25
+continuing or repeat
+breaches”.
+section 27(1), (2)
+or (3)
+Renters (Reform)
+Act 2023
+“8
+28 Decision under a landlord redress scheme may be made enforceable as if it
+were a court order
+(1) The Secretary of State may by regulations make provision for, or in connection 30
+with, authorising the administrator of a landlord redress scheme to apply to
+a court or tribunal for an order that a determination made under the scheme
+and accepted by the complainant in question be enforced as if it were an
+order of a court.
+(2) Before making the regulations, the Secretary of State must consult— 35
+(a) one or more bodies appearing to the Secretary of State to represent
+the interests of residential landlords,
+(b) one or more bodies appearing to the Secretary of State to represent
+the interests of residential tenants, and
+(c) such other persons as the Secretary of State considers appropriate. 40
+38 Renters (Reform) Bill
+Part 2—Residential landlords
+Chapter 2—landlord redress schemes 
+Guidance
+29 Guidance for scheme administrator and local housing authority
+(1) The Secretary of State may from time to time issue or approve guidance for
+5
+local housing authorities in England and the administrators of landlord redress
+schemes about cooperation between such local housing authorities and persons
+exercising functions under the schemes.
+(2) A local housing authority must have regard to any guidance issued or
+approved under this section.
+(3)
+10
+The Secretary of State must exercise the powers in section 25 for the purpose
+of ensuring that the administrator of a redress scheme has regard to any
+guidance issued or approved under this section.
+Interpretation
+30 Interpretation of Chapter 2
+(1) In this Chapter—
+“landlord redress scheme” has the meaning given by section 24(2); 15
+“residential premises” has the meaning given by section 1 of the Housing
+Act 2004.
+(2) For the meanings of “residential landlord”, “residential tenancy” and
+“residential tenant” see section 23.
+Related amendments affecting 20 the social rented sector
+31 Housing activities under social rented sector scheme
+(1) Schedule 2 to the Housing Act 1996 (social rented sector: housing complaints)
+is amended as follows.
+(2) In paragraph 1—
+(a) in sub-paragraph (1), after “housing activities” insert “other than private 25
+rented sector activities”;
+(b) in sub-paragraph (3), at the end insert “, subject to paragraph 2A”.
+(3) In paragraph 4 of paragraph 2(1), after “scheme” insert “which must not
+30
+include any private rented sector activities, except so far as the Secretary of
+State consents in writing to complaints about such activities being made under
+the scheme.”
+(4) After paragraph 2 insert—
+“2A Criteria under paragraph 2(b) of paragraph 2(1) must include criteria
+preventing a person who—
+Renters (Reform) Bill 39
+Part 2—Residential landlords
+Chapter 2—landlord redress schemes 
+(a) is a residential landlord, within the meaning given by section
+23 of the Renters (Reform) Act 2023, and
+(b) is not a social landlord,
+from becoming a member of the scheme.”
+(5) After paragraph 12 insert— 5
+“Interpretation
+13 In this Schedule “private rented sector activities” means activities
+carried on by a person as a residential landlord within the meaning
+given by section 23 of the Renters (Reform) Act 2023.”
+CHAPTER 3 10
+THE PRIVATE RENTED SECTOR DATABASE
+The database and the database operator
+32 The database
+(1) The database operator must establish and operate a database containing—
+(a) entries in respect of persons who are, or intend to become, residential 15
+landlords,
+(b) entries in respect of dwellings which are, or are intended to be, let under
+residential tenancies, and
+(c) entries made under section 40 in respect of the following—
+(i) persons against whom relevant banning orders have been made, 20
+(ii) persons who have been convicted of, or on whom financial penalties
+have been imposed in relation to, relevant banning order offences,
+and
+(iii)
+25
+persons who have been convicted of offences, on whom financial
+penalties have been imposed or who have been subject to regulatory
+action, of a description prescribed by regulations under that section.
+(2) In this Chapter—
+(a) “landlord entry” means an entry in the database in respect of a person
+mentioned in subsection (1)(a);
+(b) “dwelling entry” means an entry in the database in respect of a 30
+dwelling mentioned in subsection (1)(b).
+(3) Landlord and dwelling entries may be either active or inactive: see sections
+34(4) and 36.
+33 The database operator
+(1) In this Chapter “database operator” means— 35
+(a) the Secretary of State, or
+40 Renters (Reform) Bill
+Part 2—Residential landlords
+Chapter 3—The Private Rented Sector Database 
+(b) a person who the Secretary of State has arranged to be the database
+operator.
+(2) The arrangements—
+(a) may include provision for payments by the Secretary of State;
+(b) may include provision about bringing the arrangements to an end. 5
+(3) The Secretary of State may by regulations—
+(a) require the database operator to ensure that the database has features
+and functionality specified in the regulations,
+(b)
+10
+confer on the database operator powers to enter into contracts and
+other agreements for the purpose of facilitating the operation of the
+database,
+(c) provide for functions of the database operator specified in the
+regulations to be carried out by lead enforcement authorities, local
+15
+housing authorities or others specified in the regulations instead of,
+or in addition to, being carried out by the database operator, and
+(d) make transitional or saving provision which applies when there is a
+change of database operator.
+(4) Regulations under subsection (3)(d) may relate to a specific change of database
+operator or to changes that might arise from time to time.
+Landlord and dwelling entries 20
+34 Making entries in the database
+(1) The Secretary of State may by regulations make provision about the making
+of landlord and dwelling entries in the database.
+(2) The regulations may, in particular—
+(a) provide for how, and by whom, a landlord or dwelling entry is to be 25
+made,
+(b) require information or documents to be provided,
+(c) impose other requirements, including requirements for the payment of fees,
+and
+(d) allow an entry to be made before all of the requirements imposed by 30
+the regulations have been complied with, provided that any
+requirements not complied with by that time are complied with before
+the end of a period specified in the regulations.
+(3)
+35
+The period specified as mentioned in subsection (2)(d) must not exceed the
+period of 28 days beginning with the day on which the entry is made.
+(4) A landlord or dwelling entry made in accordance with the regulations is an
+active entry from the time it is made until it becomes an inactive entry in
+accordance with regulations under section 36.
+Renters (Reform) Bill 41
+Part 2—Residential landlords
+Chapter 3—The Private Rented Sector Database 
+(5) See section 43 for the power to make regulations specifying the information
+contained in active landlord and dwelling entries that is to be made available
+to the public by the database operator.
+35 Requirement to keep active entries up-to-date
+(1) The Secretary of State may by regulations make provision requiring active 5
+landlord and dwelling entries in the database to be kept up-to-date.
+(2) The regulations may, in particular—
+(a) provide for how, and by whom, an active landlord or dwelling entry
+is to be kept up-to-date,
+(b) require information or documents to be provided, 10
+(c) impose other requirements, and
+(d) specify the time by which the requirements must be complied with.
+(3) The requirements that may be imposed by regulations under this section do
+not include requirements for the payment of fees.
+36 Circumstances in which active entries become inactive and vice versa 15
+(1) The Secretary of State may by regulations make provision about the
+circumstances in which an active landlord or dwelling entry in the database
+is to become an inactive entry, and vice versa.
+(2) The regulations may, in particular—
+(a) provide for an active landlord or dwelling entry to become inactive 20
+after a period specified in or determined in accordance with the
+regulations if requirements specified in the regulations are not met,
+(b) provide for an active landlord or dwelling entry to become inactive
+25
+in circumstances in which an active entry is no longer required in
+respect of the landlord or dwelling, and
+(c) specify requirements that must be met for an inactive landlord or
+dwelling entry to become an active entry.
+(3) The requirements that may be imposed by regulations under this section include
+requirements for the payment of fees.
+37 Verification, correction and removal of entries 30
+(1) The Secretary of State may by regulations make provision about—
+(a) the verification of landlord and dwelling entries in the database,
+(b) the correction of errors in such entries, and
+(c) the removal of such entries from the database.
+(2) The regulations may, in particular— 35
+(a) require a proportion of landlord and dwelling entries, and of anything
+required to be provided by regulations under section 34, 35 or 36,
+42 Renters (Reform) Bill
+Part 2—Residential landlords
+Chapter 3—The Private Rented Sector Database 
+specified in or determined in accordance with the regulations to be
+verified by local housing authorities or others,
+(b) make provision about how that verification is to be carried out,
+(c)
+5
+authorise the correction of errors in landlord and dwelling entries and
+specify by whom such corrections may be made, and
+(d) authorise the removal from the database of landlord and dwelling
+entries that appear to a person specified in the regulations not to meet
+requirements imposed by or under this Chapter for inclusion in the
+database.
+38 Fees for landlord and dwelling entries 10
+(1) This section applies where regulations under section 34 or 36 require payment of a
+fee.
+(2) The amount of any such fee is to be—
+(a) specified in the regulations, or
+(b) if the regulations so provide, determined by the database operator. 15
+(3) The amount so specified or determined—
+(a) may be calculated by reference to costs incurred, or likely to be incurred—
+(i) in the establishment and operation of the database,
+(ii)
+20
+in the enforcement of requirements imposed by or under this Chapter,
+and
+(iii) in the performance of any other functions of the database operator
+under this Chapter,
+including costs unconnected with the fee-payer, and
+(b)
+25
+in the case of a fee charged for an entry in the database to become active
+again after becoming inactive as a result of provision made by virtue of
+section 36(2)(a), may be higher than the fee that would otherwise be charged
+had the entry remained active.
+(4) The fees are to be payable to the database operator by such persons and in such
+circumstances as the regulations may provide.
+(5) The Secretary of State may direct the database operator to pay to local housing 30
+authorities or into the Consolidated Fund the amount it receives in respect of the
+fees it charges, or any part of that amount.
+(6) If the Secretary of State is the database operator—
+(a) subsection (5) does not apply, and
+(b) the Secretary of State may pay to local housing authorities the amount it 35
+receives in respect of fees it charges, or any part of that amount.
+Renters (Reform) Bill 43
+Part 2—Residential landlords
+Chapter 3—The Private Rented Sector Database 
+Marketing, advertising and letting
+39 Restrictions on marketing, advertising and letting dwellings
+(1) A person must not market a dwelling for the purpose of creating a residential
+tenancy unless—
+(a) there is an active landlord entry in the database in respect of the person 5
+who will be the residential landlord if the tenancy is granted, and
+(b) there is an active dwelling entry in the database in respect of the
+dwelling.
+(2)
+10
+A person who advertises a dwelling for the purpose of creating a residential
+tenancy must include in any written advertisement the unique identifiers
+allocated by the database operator to—
+(a) the person who will be the residential landlord if the tenancy is
+granted, and
+(b) the dwelling.
+(3) A person who is a residential landlord in relation to a dwelling is under a 15
+duty to ensure that—
+(a) there is an active landlord entry in the database in respect of the person
+and an active dwelling entry in the database in respect of the dwelling,
+and
+(b) any requirements relating to the entries imposed by regulations under 20
+section 35 are complied with.
+(4) The Secretary of State may by regulations specify cases or circumstances in
+which—
+(a)
+25
+a person of a description specified in the regulations is to be subject
+to the duty in subsection (3) instead of the residential landlord;
+(b) a duty imposed by this section, either does not apply at all or does
+not apply for a period specified in or determined in accordance with
+the regulations.
+(5)
+30
+A breach of subsection (1), (2) or (3) does not affect the validity or
+enforceability of a residential tenancy or other contract by virtue of any rule
+of law relating to the validity or enforceability of contracts in circumstances
+involving illegality.
+Entries relating to banning orders, offences, financial penalties, etc.
+40 Entries relating to banning orders, offences, financial penalties, etc.
+(1) A local housing authority must make an entry in the database in respect of 35
+a person if—
+(a) a relevant banning order has been made against the person following
+an application by the authority,
+44 Renters (Reform) Bill
+Part 2—Residential landlords
+Chapter 3—The Private Rented Sector Database 
+(b) the person has been convicted of a relevant banning order offence
+following the institution of criminal proceedings by the authority, or
+(c) the authority has imposed a financial penalty on the person in relation
+to a relevant banning order offence.
+(2) A local housing authority may make an entry in the database in respect of a 5
+person if—
+(a) the person has been convicted of a relevant banning order offence
+following the institution of criminal proceedings by a person other
+than a local housing authority, or
+(b) a financial penalty has been imposed on the person in relation to a 10
+relevant banning order offence by a person other than a local housing
+authority.
+(3) The person who instituted the criminal proceedings or imposed the penalty
+15
+must provide to the local housing authority such information as the authority
+requests for the purpose of making an entry under subsection (2).
+(4) The Secretary of State may by regulations impose a duty on local housing
+authorities to make entries in the database under subsection (2) in
+circumstances specified in the regulations.
+(5) An entry may be made under subsection (1) or (2) only if—
+(a) the period for appealing against any order, conviction or penalty 20
+mentioned in those subsections has expired, and
+(b) any such appeal has been finally determined, withdrawn or abandoned.
+(6) The Secretary of State may by regulations authorise or require local housing
+authorities to make an entry in the database in respect of a person—
+(a) who is convicted of an offence, on whom a financial penalty is imposed 25
+or who is subject to regulatory action, of a description prescribed by
+the regulations, and
+(b) where the offence, financial penalty or regulatory action relates to
+30
+conduct which occurred at a time when the person was a residential
+landlord or marketing a dwelling for the purpose of creating a
+residential tenancy.
+(7) Regulations under subsection (6) may, in particular—
+(a) describe an offence by reference to—
+(i) the nature of the offence,
+(ii) the characteristics of the offender, 35
+(iii) the place where the offence is committed,
+(iv) the circumstances in which it is committed,
+(v) the court sentencing a person for the offence, or
+(vi) the sentence imposed, and
+(b) make provision for local housing authorities to obtain information 40
+from another person for the purpose of making an entry in the
+database under the regulations.
+Renters (Reform) Bill 45
+Part 2—Residential landlords
+Chapter 3—The Private Rented Sector Database 
+(8) An entry made under this section must include—
+(a) the name of the person in respect of whom the entry is made,
+(b) where the entry is made under subsection (1), the date the banning
+5
+order was made and the date on which the person will cease to be
+subject to it, and
+(c) such other information as may be prescribed by regulations made by
+the Secretary of State.
+(9) Regulations under subsection (8)(c) may, in particular, require an entry to
+include—
+(a) the person’s address or other contact details, 10
+(b) details of any dwellings in relation to which the person is a residential
+landlord, and
+(c) details of the offence, financial penalty or regulatory action to which
+the entry relates.
+(10) A local housing authority must take reasonable steps to ensure that any entry 15
+it has made in the database under this section is correct and up-to-date.
+(11) See section 43 for the power to make regulations specifying the information
+contained in entries under this section that is to be made available to the
+public by the database operator.
+(12) In this Chapter— 20
+“relevant banning order” means an order under Chapter 2 of Part 2 of
+the Housing and Planning Act 2016 that—
+(a) is made on or after the day on which this section comes into
+force,
+(b) bans a person from letting housing (within the meaning of that 25
+Part of that Act) in England, and
+(c) relates to an offence committed at a time when the person
+against whom the order was made was—
+(i) a residential landlord, or
+(ii) marketing a dwelling for the purpose of creating a 30
+residential tenancy.
+“relevant banning order offence” means a banning order offence (as
+defined in Part 2 of the Housing and Planning Act 2016) committed—
+(a) on or after the day on which this section comes into force, and
+(b) at a time when the person who committed the offence was— 35
+(i) a residential landlord, or
+(ii) marketing a dwelling for the purpose of creating a
+residential tenancy.
+46 Renters (Reform) Bill
+Part 2—Residential landlords
+Chapter 3—The Private Rented Sector Database 
+Further duties of database operator
+41 Allocation of unique identifiers
+(1) The database operator must allocate an identifier (referred to in this Chapter
+5
+as a “unique identifier”) to each person in respect of whom, and dwelling in
+respect of which, an entry is made in the database under this Chapter.
+(2) The identifier must be a sequence of letters, numbers or both that enables the
+person or dwelling to be distinguished from any other person in respect of
+whom, or dwelling in respect of which, there is an entry in the database.
+(3)
+10
+This section does not require the database operator to allocate a unique
+identifier to a person to whom, or dwelling to which, a unique identifier has
+previously been allocated.
+42 Other duties
+(1) The database operator must—
+(a)
+15
+ensure that facilities are available for persons who are unable to use
+a computer or other electronic device, or do not wish to do so, to make
+and maintain landlord and dwelling entries in the database,
+(b) ensure that local housing authorities are able to edit the database for
+the purpose of carrying out the functions conferred on them by or
+under this Chapter,
+(c) ensure that facilities are available for breaches of any requirement 20
+imposed by section 39 to be reported to the database operator and
+that reports of such breaches are passed on to such local housing
+authorities as the database operator thinks appropriate, and
+(d)
+25
+publish advice and information explaining to residential landlords
+and residential tenants their rights and obligations under this Chapter.
+(2) The database operator must report to the Secretary of State on—
+(a) the performance of the database, and
+(b) any matters or trends relating to the database and the information
+30
+contained in it that the database operator considers are appropriate
+to be brought to the attention of the Secretary of State.
+(3) Reports under subsection (2) are to be made at such times, and cover such
+matters—
+(a) as may be agreed between the database operator and the Secretary of
+State, or
+(b) in default of such agreement, as the Secretary of State may direct. 35
+(4) Subsection (2) does not apply if the Secretary of State is the database operator.
+Renters (Reform) Bill 47
+Part 2—Residential landlords
+Chapter 3—The Private Rented Sector Database 
+Access to and use of information in database
+43 Access to the database
+(1) The Secretary of State may by regulations—
+(a)
+5
+specify the information contained in active landlord and dwelling
+entries in the database, and in entries made in the database under
+section 40, which the database operator is to make available to the
+public,
+(b) make provision requiring an active landlord entry and an entry made
+under section 40 in respect of the same person to be linked,
+(c) in the case of an entry made by a local housing authority in respect 10
+of a person under section 40—
+(i) specify the period after which information contained in the
+entry is to be made available to the public, which must be no
+15
+less than 21 days beginning with the day on which the entry
+is made,
+(ii) make provision for the person to be notified by the local
+housing authority of the period for the purpose of making
+representations to the authority about any errors in information
+contained in the entry, and
+(iii) specify the circumstances in which information contained in 20
+such an entry is to cease to be available to the public, and
+(d) specify the manner and form in which information is to be made
+available to the public by the database operator under the regulations.
+(2)
+25
+The database operator must give access to information in the database to the
+following—
+(a) lead enforcement authorities,
+(b) local housing authorities,
+(c) local weights and measures authorities in England,
+(d)
+30
+mayoral combined authorities, as defined by section 107A(8) of the
+Local Democracy, Economic Development and Construction Act 2009,
+and
+(e) the Greater London Authority.
+(3) If the Secretary of State is not the database operator, the database operator
+must give access to information in the database to the Secretary of State.
+44 Disclosure by database operator etc 35
+(1) The database operator must not disclose restricted information from the
+database except—
+(a) in accordance with section 43(2), or
+(b) where authorised by regulations under this section.
+48 Renters (Reform) Bill
+Part 2—Residential landlords
+Chapter 3—The Private Rented Sector Database 
+(2) The Secretary of State may by regulations make provision authorising the
+disclosure from the database of restricted information where the disclosure
+is necessary—
+(a)
+5
+to enable or facilitate compliance with a statutory requirement specified
+in the regulations,
+(b) to enable or facilitate compliance with a requirement of a rule of law
+specified in the regulations, or
+(c) to facilitate the exercise of statutory functions specified in the
+regulations.
+(3) The regulations may— 10
+(a) specify the manner and form in which the information may be
+disclosed, and
+(b) impose restrictions on the use and further disclosure of information
+disclosed under the regulations.
+(4) A disclosure authorised by the regulations does not breach— 15
+(a) any obligation of confidence owed by the database operator, or
+(b) any other restriction on the disclosure of information (however
+imposed).
+(5)
+20
+Nothing in this section or the regulations authorises the making of a disclosure
+that would contravene the data protection legislation (but in determining
+whether a disclosure would do so, take into account the powers conferred
+by this section and the regulations).
+(6) A person commits an offence if the person knowingly or recklessly discloses
+restricted information in contravention of—
+(a) subsection (1), or 25
+(b) a restriction on further disclosure imposed by regulations under this
+section.
+(7) A person guilty of an offence under subsection (6) is liable on summary
+conviction to a fine.
+(8) In this section— 30
+“data protection legislation” has the same meaning as in the Data
+Protection Act 2018 (see section 3 of that Act);
+“restricted information” means information that—
+(a)
+35
+is not made available to the public by virtue of regulations
+under section 43, and
+(b) relates to and identifies a particular person (including a body
+corporate).
+(9) For the purposes of subsection (8) information identifies a particular person
+if the identity of that person—
+(a) is specified in the information, 40
+(b) can be deduced from the information, or
+Renters (Reform) Bill 49
+Part 2—Residential landlords
+Chapter 3—The Private Rented Sector Database 
+(c) can be deduced from the information taken together with any other
+information.
+45 Use of information from the database
+(1)
+5
+A lead enforcement authority may only use information obtained from the
+database for purposes connected with the authority’s functions under this
+Part.
+(2) A local housing authority may only use information obtained from the
+database for purposes connected with the authority’s functions relating to
+housing, residential landlords or residential tenancies.
+(3) A local weights and measures authority may only use information obtained 10
+from the database for purposes connected with the authority’s functions of
+enforcing standards relating to housing.
+(4) A mayoral combined authority and the Greater London Authority may only
+15
+use information obtained from the database for purposes connected with the
+authority’s functions relating to housing.
+Removal of entries
+46 Removal of entries from database
+(1) The database operator must remove a landlord or dwelling entry from the
+20
+database if it has been an inactive entry throughout a continuous period of
+5 years.
+(2) The database operator must remove an entry made under section 40 at the
+end of the period of 10 years beginning with the day on which the entry is
+made.
+(3)
+25
+But if, in the case of an entry made in respect of a relevant banning order,
+the ban imposed by the order continues after the end of the period mentioned
+in subsection (2), that subsection does not apply and the database operator
+must remove the entry when the ban ends.
+Enforcement
+47 Financial penalties
+(1) A local housing authority may impose a financial penalty on a person if 30
+satisfied beyond reasonable doubt that the person has—
+(a) breached a requirement imposed by section 39(1), (2) or (3),
+(b) committed an offence under section 48.
+(2)
+35
+The amount of a financial penalty imposed under this section is to be
+determined by the authority imposing it, but must not be more than—
+(a) £5,000, if it is imposed under subsection (1)(a), or
+50 Renters (Reform) Bill
+Part 2—Residential landlords
+Chapter 3—The Private Rented Sector Database 
+(b) £30,000, if it is imposed under subsection (1)(b).
+(3) More than one financial penalty may be imposed under this section in respect
+of the same conduct only if—
+(a)
+5
+the conduct continues after the end of 28 days beginning with the day
+after that on which the previous penalty in respect of the conduct was
+imposed on the person, unless the person appeals against the decision
+to impose the penalty within that period, or
+(b) if the person appeals against the decision to impose the penalty within
+10
+that period, the conduct continues after the end of 28 days beginning
+with the day after that on which the appeal is finally determined,
+withdrawn or abandoned.
+(4) Subsection (3) does not enable a penalty to be imposed after the final notice
+in respect of the previous penalty has been withdrawn or quashed on appeal.
+(5)
+15
+No financial penalty may be imposed under this section in respect of any
+conduct if—
+(a) the person has been convicted of an offence under section 48 in respect
+of the conduct,
+(b) criminal proceedings for an offence under that section in respect of
+20
+the conduct have been instituted against the person and the
+proceedings have not been concluded, or
+(c) criminal proceedings for an offence under that section in respect of
+the conduct have been concluded and the person has not been
+convicted.
+(6)
+25
+The Secretary of State may give guidance to local housing authorities about
+the exercise of their functions under this section.
+(7) Local housing authorities must have regard to any guidance issued under
+subsection (6).
+(8) The Secretary of State may by regulations amend the amounts specified in
+subsection (2) to reflect changes in the value of money.
+(9) For the purposes of this section and section 48— 30
+(a) a financial penalty is imposed under this section on the date specified
+in the final notice as the date on which the notice is given, and
+(b) “final notice” has the meaning given by paragraph 6 of Schedule 3.
+48 Offences
+(1) A person commits an offence if the person knowingly or recklessly provides 35
+information to the database operator which is false or misleading in a material
+respect in purported compliance with a requirement imposed by regulations
+under this Chapter.
+(2) A person commits an offence if—
+Renters (Reform) Bill 51
+Part 2—Residential landlords
+Chapter 3—The Private Rented Sector Database 
+(a) a relevant penalty has been imposed on the person and the final notice
+imposing the penalty has not been withdrawn, and
+(b) the conduct in respect of which the penalty was imposed continues
+after the end of the period of 28 days beginning with—
+(i) the day after that on which the penalty was imposed on the 5
+person, or
+(ii) if the person appeals against the decision to impose the penalty
+within that period, the day after that on which the appeal is
+finally determined, withdrawn or abandoned.
+(3) A person commits an offence if— 10
+(a) a relevant penalty has been imposed on the person in respect of a
+breach of a requirement imposed by section 39(1), (2) or (3) and the
+final notice imposing the penalty has not been withdrawn, and
+(b)
+15
+the person engages in conduct which constitutes a different breach of
+such a requirement within the period of five years beginning with the
+day on which the penalty was imposed.
+(4) A person commits an offence if—
+(a) either—
+(i)
+20
+a relevant penalty has been imposed on the person in respect
+of an offence under this section and the final notice imposing
+the penalty has not been withdrawn, or
+(ii) the person has been convicted of such an offence, and
+(b) the person breaches a requirement imposed by section 39(1), (2) or (3)
+25
+within the period of five years beginning with the day on which the
+relevant penalty was imposed or the person was convicted.
+(5) In subsections (2) to (4) “relevant penalty” means a financial penalty which
+is imposed under section 47 where—
+(a) the period for bringing an appeal against the decision to impose the
+30
+penalty under paragraph 10 of Schedule 3 has expired without an
+appeal being brought,
+(b) an appeal against the decision to impose penalty under that paragraph
+has been withdrawn or abandoned, or
+(c) the final notice imposing the penalty has been confirmed or varied on
+appeal.
+(6) A person may not be convicted of an offence under subsections (1), (3) or (4) 35
+if a financial penalty has been imposed under section 47 in respect of the
+same conduct.
+(7) A person guilty of an offence under this section is liable on summary
+conviction to a fine.
+(8) Where an offence under this section committed by a body corporate is proved 40
+to have been committed with the consent or connivance of, or to be attributable
+to any neglect on the part of, an officer of a body corporate, the officer as
+52 Renters (Reform) Bill
+Part 2—Residential landlords
+Chapter 3—The Private Rented Sector Database 
+well as the body corporate commits the offence and is liable to be proceeded
+against and punished accordingly.
+(9) Where the affairs of a body corporate are managed by its members, subsection
+5
+(8) applies in relation to the acts and defaults of a member in connection with
+the member's functions of management as if the member were an officer of
+the body corporate.
+(10) In section 40 of the Housing and Planning Act 2016 (introduction and key
+definitions), in subsection (3), in the table, after the eighth row (as inserted
+by section 26(9) of this Act) insert—
+Private rented sector database: 10
+provision of false or misleading
+information
+“9 section 48(1)
+Private rented sector database:
+continuing or repeat breaches”.
+section 48(2), (3) or
+(4)
+10
+Final provisions 15
+49 Power to direct database operator and local housing authorities
+(1) The Secretary of State may from time to time give directions—
+(a) to the database operator about the manner in which it is to exercise
+its functions, and
+(b) to local housing authorities about the manner in which they are to 20
+exercise the functions conferred on them by or under this Chapter.
+(2) Directions under subsection (1) may provide, in particular, that a function is
+only to be exercised—
+(a) after consultation with the Secretary of State, or
+(b) with the consent of the Secretary of State. 25
+(3) Subsection (1)(a) does not apply if the Secretary of State is the database
+operator.
+50 Entries under section 40: minor and consequential amendments
+(1) The Housing and Planning Act 2016 is amended as follows.
+(2) In section 28 (database of rogue landlords and property agents), after 30
+subsection (3) insert—
+“(4) In relation to rogue landlords, see also the database established under
+section 32 of the Renters (Reform) Act 2023.”
+Renters (Reform) Bill 53
+Part 2—Residential landlords
+Chapter 3—The Private Rented Sector Database 
+(3) In section 29 (duty to include person with banning order), after subsection
+(2) insert—
+“(3) In this section, references to a “banning order” are to a banning order
+made—
+(a) before the day on which Chapter 3 of Part 2 of the Renters 5
+(Reform) Act 2023 comes into force, or
+(b) on or after that day if—
+(i) the order does not ban the person against whom it is
+made from letting housing in England, or
+(ii) the order relates to an offence to which subsection (4) 10
+applies.
+(4) This subsection applies to an offence which was committed by a person
+who at the time was neither—
+(a)
+15
+a residential landlord as defined in Part 2 of the Renters
+(Reform) Act 2023 (see sections 23 and 57(1) of that Act), nor
+(b) marketing a dwelling for the purpose of creating a residential
+tenancy, as defined for the purposes of that Part of that Act
+(see section 57(2) to (6) of that Act).”
+(4)
+20
+In section 30 (power to include person convicted of banning order offence),
+after subsection (7)—
+“(8) In this section, references to a “banning order offence” are to a banning
+order offence committed—
+(a) before the day on which Chapter 3 of Part 2 of the Renters
+(Reform) Act 2023 comes into force, or
+(b) on or after that day if it is an offence to which subsection (9) 25
+applies.
+(9) This subsection applies to a banning order offence which was
+committed by a person who at the time was neither—
+(a)
+30
+a residential landlord as defined in Part 2 of the Renters
+(Reform) Act 2023 (see sections 23 and 57(1) of that Act), nor
+(b) marketing a dwelling for the purpose of creating a residential
+tenancy, as defined for the purposes of that Part of that Act
+(see section 57(2) to (6) of that Act).”
+51 Interpretation of Chapter 3
+In this Chapter— 35
+“database” means the database established under section 32;
+“lead enforcement authority” has the same meaning as in Part 3;
+“relevant banning order” and “relevant banning order offence” have the
+meanings given by section 40;
+“unique identifier” has the meaning given by section 41(1). 40
+54 Renters (Reform) Bill
+Part 2—Residential landlords
+Chapter 3—The Private Rented Sector Database 
+CHAPTER 4
+PART 2: SUPPLEMENTARY PROVISION
+52 Financial penalties under sections 26 and 47
+Schedule 3 makes provision about—
+(a) the procedure for imposing a financial penalty under section 26 or 47, 5
+(b) appeals against financial penalties under those sections,
+(c) enforcement of financial penalties under those sections, and
+(d) how local housing authorities are to deal with the proceeds of financial
+penalties under those sections.
+53 Financial assistance by Secretary of State 10
+The Secretary of State may give financial assistance (by way of grant, loan guarantee
+or in any other form) or make other payments to a person who exercises functions
+under or by virtue of this Part.
+54 Crown application
+(1) Subject to subsections (2) to (4), this Part and any regulations made under it 15
+bind the Crown.
+(2) Sections 27 and 48 do not bind the Crown.
+(3) In paragraph (b) of section 26(1) as it applies by virtue of subsection (1), the
+20
+reference to a person committing an offence under section 27 is to be read as
+a reference to the person satisfying the conditions in subsection (1)(a) and
+(b), (2)(a) and (b), or (3)(a) and (b) of that section.
+(4) In paragraph (b) of section 47(1) as it applies by virtue of subsection (1), the
+reference to a person committing an offence under section 48 is to be read as
+a reference to the person either—
+(a) knowingly or recklessly providing information to the database operator 25
+which is false or misleading in a material respect in purported
+compliance with a requirement imposed by regulations under Chapter
+3, or
+(b)
+30
+satisfying the conditions in subsection (2)(a) and (b), (3)(a) and (b), or
+(4)(a) and (b) of section 48.
+(5) Subsection (2) does not affect the criminal liability of persons in the service
+of the Crown.
+55 Application to Parliament
+35
+Where regulations under section 23(4)(b) provide for the meaning of “relevant
+tenancy” given by that section to include a tenancy or licence under which
+a dwelling is occupied for the purposes of either House of Parliament, this
+Renters (Reform) Bill 55
+Part 2—Residential landlords
+Chapter 4—Part 2: supplementary provision 
+Part has effect in its application in relation to such a tenancy or licence with
+the following modifications—
+(a) sections 27 and 48 do not apply;
+(b)
+5
+in paragraph (b) of section 26(1), the reference to a person committing
+an offence under section 27 is to be read as a reference to the person
+satisfying the conditions in subsection (1)(a) and (b), (2)(a) and (b), or
+(3)(a) and (b) of that section;
+(c) in paragraph (b) of section 47(1), the reference to a person committing
+10
+an offence under section 48 is to be read as a reference to the person
+either—
+(i) knowingly or recklessly providing information to the database
+operator which is false or misleading in a material respect in
+purported compliance with a requirement imposed by
+regulations under Chapter 3, or
+(ii) satisfying the conditions in subsection (2)(a) and (b), (3)(a) and 15
+(b), or (4)(a) and (b) of section 48.
+56 Regulations
+(1) A power to make regulations under this Part includes power to make—
+(a)
+20
+consequential, supplementary, incidental, transitional or saving
+provision;
+(b) different provision for different purposes or areas;
+(c) the full provision to which the power extends or any less provision
+(whether by way of exception or otherwise).
+(2)
+25
+The power under subsection (1)(a) to make transitional provision includes
+power to provide for regulations to apply (with or without modifications) in
+relation to tenancies or licences entered into, or advertising begun, before the
+date on which the regulations come into force.
+(3) Regulations under this Part are to be made by statutory instrument.
+(4)
+30
+A statutory instrument containing regulations under section 23, 24, 25, 39(4),
+40(6), 43 or 44(2) (whether alone or with other provision) may not be made
+unless a draft of the instrument has been laid before and approved by a
+resolution of each House of Parliament.
+(5) Any other statutory instrument containing regulations under this Part is
+35
+subject to annulment in pursuance of a resolution of either House of
+Parliament.
+57 Interpretation
+(1) In this Part—
+“dwelling” has the meaning given by section 23(2);
+40
+“local housing authority” means a district council, a London borough
+council, the Common Council of the City of London or the Council
+of the Isles of Scilly;
+56 Renters (Reform) Bill
+Part 2—Residential landlords
+Chapter 4—Part 2: supplementary provision 
+“residential landlord” has the meaning given by section 23.
+(2) For the purposes of this Part, a person markets a dwelling for the purpose
+of creating a residential tenancy when—
+(a)
+5
+the person advertises that the dwelling is or may be available for let
+under a residential tenancy, or
+(b) in the course of lettings agency work, the person informs any other
+person that the dwelling is or may be so available.
+(3) But subsection (2)(a) does not apply in relation to a person who publishes an
+10
+advertisement in the course of a business that does not involve lettings agency
+work if the advertisement has been provided by another person.
+(4) For the purposes of this section, “lettings agency work” means things done
+by a person in the course of a business in response to instructions received
+from—
+(a)
+15
+a person (“a prospective landlord”) seeking to find another person to
+whom to let a dwelling, or
+(b) a person (“a prospective tenant”) seeking to find a dwelling to rent.
+(5) However, “lettings agency work” does not include any of the following things
+when done by a person who does nothing else within subsection (4)—
+(a) publishing advertisements or disseminating information;
+(b) providing a means by which a prospective landlord or a prospective 20
+tenant can, in response to an advertisement or dissemination of
+information, make direct contact with a prospective tenant or
+prospective landlord;
+(c)
+25
+providing a means by which a prospective landlord and a prospective
+tenant can communicate directly with each other.
+(6) “Lettings agency work” also does not include things of a description, or things
+done by a person of a description, specified in regulations made by the
+Secretary of State.
+PART 3
+ENFORCEMENT AUTHOR 30 ITIES
+58 Enforcement by local housing authorities: general duty
+(1) It is the duty of every local housing authority to enforce the landlord legislation in
+its area.
+(2)
+35
+But the duty in subsection (1) does not prevent a local housing authority from
+taking enforcement action in respect of a breach of the landlord legislation
+which occurs outside of its area.
+(3) The duty is also subject to sections 59(3) (enforcement by another local housing
+authority) and 62(4) (enforcement by the lead enforcement authority).
+(4) In this Part—
+Renters (Reform) Bill 57
+Part 3—Enforcement authorities 
+“local housing authority” means a district council, a London borough
+council, the Common Council of the City of London or the Council
+of the Isles of Scilly;
+“the landlord legislation” means—
+(a) Part 2 of this Act, 5
+(b) sections 1 and 1A of the Protection from Eviction Act 1977,
+and
+(c) Chapter 1 of Part 1 of the Housing Act 1988.
+(5)
+10
+For the purposes of this Part, a reference to a local housing authority taking
+enforcement action is a reference to that authority—
+(a) imposing a financial penalty, or
+(b) instituting proceedings against a person for an offence,
+under the landlord legislation.
+59 Enforcement by local housing authorities: duty to notify
+(1) Where a local housing authority (“LA1”) proposes to take enforcement action 15
+in respect of a breach of the landlord legislation which occurs (or which also
+occurs) in the area of another local housing authority (“LA2”), LA1 must
+notify LA2 that it proposes to do so.
+(2)
+20
+If LA1 notifies LA2 under subsection (1) but does not take the action referred
+to in that subsection, LA1 must notify LA2 of that fact.
+(3) Where a local housing authority receives a notification under subsection (1),
+the authority is relieved of the duty under section 58(1) in relation to the
+breach unless the authority receives a notification under subsection (2).
+(4) Subsection (5) applies where—
+(a) a local housing authority (“LA1”) has imposed a financial penalty 25
+under the landlord legislation,
+(b) the breach to which the penalty relates occurred in the area of another
+local housing authority (“LA2”), and
+(c) the final notice imposing the penalty has not been withdrawn.
+(5) LA1 must notify LA2 as soon as reasonably practicable if— 30
+(a) the period for bringing an appeal against the penalty expires without
+an appeal being brought,
+(b) an appeal against the penalty is withdrawn or abandoned, or
+(c) the final notice imposing the penalty is confirmed or varied on appeal.
+(6) Subsection (7) applies where— 35
+(a) a local housing authority (“LA1”) has instituted proceedings against
+a person for an offence under the landlord legislation, and
+(b) the conduct to which the offence relates occurred in the area of another
+local housing authority (“LA2”).
+58 Renters (Reform) Bill
+Part 3—Enforcement authorities 
+(7) LA1 must notify LA2 as soon as reasonably practicable if the person is
+convicted of the offence.
+60 Lead enforcement authority
+(1)
+5
+The Secretary of State may make arrangements for a relevant person to be the lead
+enforcement authority for the purposes of any provisions of the landlord legislation.
+(2) The arrangements may include arrangements—
+(a) for payments by the Secretary of State;
+(b) about bringing the arrangements to an end.
+(3)
+10
+The Secretary of State may by regulations made by statutory instrument make
+transitional or saving provision which applies when there is a change in the
+lead enforcement authority for any provisions of the landlord legislation.
+(4) The regulations may relate to a specific change in the lead enforcement
+authority or to changes that might arise from time to time.
+(5) In this Part—
+“lead enforcement authority” means a relevant person which the Secretary 15
+of State has arranged to be a lead enforcement authority under
+subsection (1);
+“relevant person” means—
+(a)
+20
+a combined authority established under section 103 of the Local
+Democracy, Economic Development and Construction Act 2009,
+(b) the Greater London Authority, or
+(c) a local housing authority.
+(6) For the purposes of this Part, a lead enforcement authority is “responsible”
+25
+for the provisions of the landlord legislation for the purposes of which it is
+such an authority under arrangements made under subsection (1).
+61 General duties and powers of lead enforcement authority
+(1) A lead enforcement authority must oversee the operation of the provisions
+for which it is responsible.
+(2) A lead enforcement authority must provide—
+(a) local housing authorities, and 30
+(b) the public in England,
+with information and advice about the operation of the provisions for which
+it is responsible, in such form and manner as the lead enforcement authority
+considers appropriate.
+(3) A lead enforcement authority may disclose information to a local housing 35
+authority for the purposes of enabling that authority to determine whether
+there has been a breach of, or an offence under, the provisions for which the
+lead enforcement authority is responsible.
+Renters (Reform) Bill 59
+Part 3—Enforcement authorities 
+(4) A lead enforcement authority may issue guidance to local housing authorities
+about the exercise of their functions under any of the provisions for which it
+is responsible.
+(5)
+5
+Local housing authorities must have regard to any guidance issued under
+subsection (4).
+(6) A lead enforcement authority must keep under review and from time to time
+advise the Secretary of State about the following—
+(a) the operation of the landlord provisions for which it is responsible;
+(b)
+10
+social and commercial developments relating to tenancies in England,
+other than tenancies of social housing, so far as it considers those
+developments relevant to the provisions for which it is responsible.
+(7) The Secretary of State may give a lead enforcement authority directions as
+to the exercise of any of its functions.
+(8)
+15
+A direction may relate to all or particular kinds of local housing authorities
+and may make different provision for different purposes.
+(9) In this section —
+“social housing” has the same meaning as in Part 2 of the Housing and
+Regeneration Act 2008;
+“tenancies” includes licences to occupy.
+62 Enforcement by the lead enforcement authority 20
+(1) A lead enforcement authority may—
+(a) take steps to enforce the provisions for which it is responsible where
+it considers it necessary or expedient to do so;
+(b)
+25
+for that purpose, exercise any powers that a local housing authority
+may exercise for the purpose of the enforcement of those provisions.
+(2) Where a lead enforcement authority proposes to take steps under subsection
+(1) in respect of a breach of, or an offence under, the provisions for which it
+is responsible, it must notify the local housing authority in whose area the
+breach or offence occurred that it proposes to do so.
+(3) If a lead enforcement authority notifies a local housing authority under 30
+subsection (2) but does not take the steps referred to in that subsection, the
+lead enforcement authority must notify the local housing authority of that
+fact.
+(4)
+35
+Where a local housing authority receives a notification under subsection (2),
+the authority is relieved of the duty under section 58(1) in relation to the
+breach or offence unless the authority receives a notification under subsection
+(3).
+(5) But a lead enforcement authority may require a local housing authority to
+40
+assist the lead enforcement authority in taking the steps referred to in
+subsection (1).
+60 Renters (Reform) Bill
+Part 3—Enforcement authorities 
+(6) A local housing authority must report to a lead enforcement authority,
+whenever the lead enforcement authority requires and in such form and with
+such particulars as it requires, on the exercise of that local housing authority’s
+5
+functions under the provisions for which the lead enforcement authority is
+responsible.
+PART 4
+SUPPORTED AND TEMPORARY ACCOMMODATION
+63 Government policy on supported and temporary accommodation
+(1)
+10
+The Secretary of State must prepare a report setting out the Government’s
+policy in relation to—
+(a) the standards of safety and quality that should apply in relation to—
+(i) supported exempt accommodation, as defined by section 12 of
+the Supported Housing (Regulatory Oversight) Act 2023, and
+(ii)
+15
+accommodation in England the availability for occupation of
+which is secured under Part 7 of the Housing Act 1996
+(homelessness),
+(b) how, and by whom, those standards should be developed, overseen
+and enforced, and
+(c)
+20
+the provision of information by and to local housing authorities about
+the exercise of their functions in relation to such accommodation.
+(2) The report must set out how the Secretary of State proposes to implement
+the policy referred to in subsection (1).
+(3) The report must be published and laid before Parliament before the end of
+25
+the period of one year beginning with the day on which this section comes
+into force.
+(4) In this section “local housing authority” has the same meaning as in Part 2.
+PART 5
+GENERAL
+64 Meaning of “the 1988 Act”
+In this Act “the 1988 Act” means the Housing Act 1988. 30
+65 Power to make consequential provision
+(1) The Secretary of State may by regulations made by statutory instrument make
+provision that is consequential on this Act.
+(2)
+35
+Regulations under this section may amend, repeal or revoke provision made
+by or under an Act passed—
+(a) before this Act, or
+Renters (Reform) Bill 61
+Part 4—Supported and temporary accommodation 
+(b) later in the same session of Parliament as this Act.
+(3) The power to make regulations under this section includes power to make
+transitional or saving provision, including provision for the regulations to
+5
+apply (with or without modifications) in relation to tenancies or licences
+entered into, or advertising begun, before the date on which the regulations
+come into force.
+(4) A statutory instrument containing (whether alone or with other provision)
+regulations under this section that amend or repeal provision made by an
+10
+Act may not be made unless a draft of the instrument has been laid before,
+and approved by a resolution of, each House of Parliament.
+(5) Any other statutory instrument containing regulations under this section is
+subject to annulment in pursuance of a resolution of either House of
+Parliament.
+66 Extent
+(1) This Act extends to England and Wales only, subject to subsection (2). 15
+(2) An amendment or repeal made by this Act has the same extent as the
+provision amended or repealed.
+67 Commencement and application
+(1)
+20
+Chapter 1 of Part 1 comes into force on such day as the Secretary of State
+may by regulations appoint (“the commencement date”) and applies in
+accordance with subsection (2).
+(2) Chapter 1 of Part 1 applies (subject to any provision made by or under this
+Act)—
+(a)
+25
+in relation to every assured tenancy that is entered into on or after
+the commencement date, and
+(b) on and after the extended application date, in relation to every assured
+tenancy that—
+(i) was entered into before the commencement date, and
+(ii) continues in effect on the extended application date,
+(and accordingly, on the extended application date any such tenancy 30
+becomes an assured tenancy to which section 4A of the 1988 Act, as
+inserted by section 1 of this Act, applies).
+(3) Schedule 4 contains transitional provision relating to the application of Chapter
+35
+1 of Part 1 to assured tenancies referred to in subsection (2)(b) (“existing
+tenancies”).
+(4) In paragraph (b) of subsection (2) “the extended application date” means—
+(a) in relation to any assured tenancy referred to in that paragraph that
+is converted to a periodic tenancy on or after the commencement date
+62 Renters (Reform) Bill
+Part 5—General 
+but before the date appointed under paragraph (b) of this subsection,
+the date on which it is so converted;
+(b) in relation to any other assured tenancy referred to in paragraph (b)
+5
+of subsection (2), a date appointed by the Secretary of State by
+regulations.
+(5) For the purposes of subsection (4)(a) an assured tenancy is “converted to a
+periodic tenancy” if and when it becomes a periodic tenancy on the expiry
+of a fixed term.
+(6)
+10
+For the purposes of the relevant provisions, a fixed term assured tenancy and
+a periodic tenancy that arises on its expiry by virtue of section 5 of the 1988
+Act are to be treated as a single assured tenancy (a “deemed continuing
+tenancy”) which—
+(a) is entered into when the fixed term tenancy was entered into, and
+(b) becomes a periodic tenancy on the expiry of the fixed term.
+(7) In subsection (6), “the relevant provisions” means— 15
+(a) Part 1 of the Housing Act 1988 as amended by Chapter 1 of Part 1,
+(b) this section, and
+(c) Schedule 4.
+(8)
+20
+Chapter 2 of Part 1 comes into force at the end of the period of two months
+beginning with the day on which this Act is passed.
+(9) The following come into force on the day on which this Act is passed—
+(a) Part 2, for the purposes of making regulations;
+(b) section 60;
+(c) this Part.
+(10) The following come into force on such day as the Secretary of State may by 25
+regulations appoint—
+(a) Chapter 3 of Part 1;
+(b) Part 2, for purposes other than making regulations;
+(c) sections 58, 59, 61 and 62;
+(d) Part 4. 30
+(11) Different days may be appointed under this section for different purposes.
+(12) Regulations under this section are to be made by statutory instrument.
+68 Transitional provision
+(1)
+35
+The Secretary of State may by regulations made by statutory instrument make
+transitional or saving provision (in addition to the transitional and saving
+made by this Act) in connection with the coming into force of any provision
+of this Act.
+(2) The power to make regulations under subsection (1) includes power to provide
+for a provision of this Act to apply (with or without modifications) in relation
+Renters (Reform) Bill 63
+Part 5—General 
+to tenancies or licences entered into, or advertising begun, before the date on
+which the provision comes into force.
+(3) The power to make regulations under subsection (1) includes power to make
+different provision for different purposes.
+69 Short title 5
+This Act may be cited as the Renters (Reform) Act 2023.
+64 Renters (Reform) Bill
+Part 5—General 
+SCHEDULES
+SCHEDULE 1 Section 3
+CHANGES TO GROUNDS FOR POSSESSION
+Introductory
+1 Schedule 2 to the 1988 Act (grounds for possession of dwelling-houses let 5
+on assured tenancies) is amended as follows.
+Amendments of Ground 1: occupation by landlord or family
+2 For Ground 1 (excluding the italic heading) substitute—
+10
+“At the date specified in the notice under section 8, the current
+tenancy has existed for at least 6 months and the landlord who is
+seeking possession requires the dwelling-house as the only or
+principal home of any of the following—
+(a) the landlord;
+(b)
+15
+the landlord’s spouse or civil partner or a person with whom
+the landlord lives as if they were married or in a civil
+partnership;
+(c) the landlord’s—
+(i) parent;
+(ii) grandparent;
+(iii) sibling; 20
+(iv) child;
+(v) grandchild;
+(d) a child or grandchild of a person mentioned in paragraph
+(b).
+A relationship of the half-blood is to be treated as a relationship of 25
+the whole blood.
+In the case of joint landlords seeking possession, references to “the
+landlord” in this ground are to be read as references to at least one
+of those joint landlords.”
+New grounds 30 for sale of dwelling-house
+3 After Ground 1 insert—
+“Ground 1A
+The following conditions are met—
+(a)
+35
+the landlord who is seeking possession intends to sell the
+dwelling-house;
+Renters (Reform) Bill 65
+Schedule 1—Changes to grounds for possession 
+(b) the assured tenancy on which the dwelling-house is let did
+not come into being by virtue of any provision of Schedule
+1 to the Rent Act 1977 or section 4 of the Rent (Agriculture)
+Act 1976;
+(c) at the date specified in the notice under section 8, either— 5
+(i) the current tenancy has existed for at least 6 months,
+or
+(ii) a compulsory purchase order which authorises
+10
+purchase of the dwelling-house has become operative
+and the landlord intends to sell the dwelling-house
+to the person authorised by the compulsory purchase
+order to purchase it;
+(d) the landlord seeking possession is not—
+(i) a non-profit registered provider of social housing,
+(ii) a registered social landlord within the meaning of 15
+the Housing Act 1985 (see section 5(4) and (5) of that
+Act),
+(iii) a housing trust, within the meaning of the Housing
+Associations Act 1985, which is a charity, or
+(iv) where the dwelling-house is social housing within 20
+the meaning of Part 2 of the Housing and
+Regeneration Act 2008, a profit-making registered
+provider of social housing.
+In paragraph (c)(ii), “sell” includes transfer.”
+4 After Ground 1A (inserted by paragraph 3 of this Schedule) insert— 25
+“Ground 1B
+The following conditions are met—
+(a) the landlord who is seeking possession intends to sell the
+dwelling-house;
+(b) the assured tenancy on which the dwelling-house is let did 30
+not come into being by virtue of any provision of Schedule
+1 to the Rent Act 1977 or section 4 of the Rent (Agriculture)
+Act 1976;
+(d)
+35
+the landlord who is seeking possession is a private registered
+provider of social housing;
+(e) the assured tenancy was entered into pursuant to a
+rent-to-buy agreement;
+(f) the period stated in that agreement has expired;
+(g) the landlord who is seeking possession has complied with—
+(i) any provision of the rent-to-buy agreement requiring 40
+the landlord to offer the dwelling-house for sale to
+the tenant, and
+(ii) any requirements in the agreement about such an
+offer.
+66 Renters (Reform) Bill
+Schedule 1—Changes to grounds for possession 
+In this ground—
+“market rent” includes any amount payable by way of a service charge;
+“rent-to-buy agreement” means an agreement in writing which—
+(a)
+5
+provides for the tenant to pay rent that is no higher than
+80% of market rent, and
+(b) gives notice that the landlord intends after a period stated
+in the agreement which is not less than 5 years or, for
+dwelling-houses in Greater London, 10 years from the
+10
+beginning of the tenancy to offer the dwelling-house for sale
+to the tenant.”
+Amendments of Ground 2: sale by mortgagee
+5 In Ground 2—
+(a) in the words before paragraph (a) omit “granted before the
+beginning of the tenancy”;
+(b) omit paragraph (c) (and the “and” before it). 15
+New ground for possession when superior lease ends
+6 After Ground 2 insert—
+“Ground 2ZA
+The landlord who is seeking possession—
+(a) holds the interest in the dwelling-house under a superior 20
+tenancy where—
+(i) the superior landlord has given a valid notice to
+terminate that tenancy, or
+(ii)
+25
+the superior tenancy is for a fixed term which will
+end within the period of 12 months beginning with
+the date of the service of the notice under section 8,
+and
+(b) is, or, in the case of joint landlords seeking possession, at
+least one of them is—
+(i) a private registered provider of social housing, 30
+(ii) a tenant of the superior landlord under an
+agricultural tenancy within the meaning of the
+Agricultural Holdings Act 1986 or a farm business
+35
+tenancy within the meaning of the Agricultural
+Tenancies Act 1995,
+(iii) a person who held the dwelling-house for the
+purpose of making it available for occupation as
+supported accommodation, or
+(iv)
+40
+a company of which a local authority owns at least
+50% of the issued share capital.”
+Renters (Reform) Bill 67
+Schedule 1—Changes to grounds for possession 
+New ground for possession by superior landlord
+7 After Ground 2ZA (inserted by paragraph 6 of this Schedule) insert—
+“Ground 2ZB
+5
+The landlord who is seeking possession became the landlord by
+virtue of section 18 no more than 6 months before the date on which
+the possession proceedings were commenced, and the previous
+landlord under the assured tenancy was, or, in the case of previous
+joint landlords, at least one of them was—
+(a) a private registered provider of social housing,
+(b) a tenant of the superior landlord under an agricultural 10
+tenancy within the meaning of the Agricultural Holdings
+Act 1986 or a farm business tenancy within the meaning of
+the Agricultural Tenancies Act 1995,
+(c)
+15
+a person who held the dwelling-house for the purpose of
+making it available for occupation as supported
+accommodation, or
+(d) a company of which a local authority owns at least 50% of
+the issued share capital.”
+Repeal of Ground 3: holiday accommodation
+8 Omit Ground 3. 20
+Amendments of Ground 4: student accommodation
+9 In Ground 4—
+(a) omit the opening words;
+(b) omit paragraph (a) (together with the final “and”);
+(c) paragraph (b) becomes an unnumbered paragraph. 25
+Amendment of Ground 5: ministers of religion
+10 In Ground 5 omit paragraph (a) (together with the final “and”).
+New ground for possession for occupation by agricultural worker
+11 After Ground 5 insert—
+“Ground 5A 30
+The landlord seeking possession requires the dwelling-house for
+the purpose of housing a person who will be employed by the
+landlord, or in the case of joint landlords seeking possession, by at
+35
+least one of those landlords, in agriculture as a seasonal or
+permanent employee.
+For the purposes of this ground, “agriculture” has the same meaning
+as in the Rent (Agriculture) Act 1976 (see section 1 of that Act).”
+68 Renters (Reform) Bill
+Schedule 1—Changes to grounds for possession 
+New ground for possession for occupation by person who meets employment requirements
+12 After Ground 5A (inserted by paragraph 11 of this Schedule) insert—
+“Ground 5B
+The landlord seeking possession—
+(a) is a private registered provider of social housing, 5
+(b) holds the dwelling-house for the purpose of accommodating
+persons who meet requirements connected with their
+employment, and
+(c)
+10
+requires the dwelling-house to let it under a new tenancy
+to a person who meets those requirements,
+and the tenant in possession does not fulfil those requirements.”
+Ground 16 to be renumbered as Ground 5C and to be a mandatory ground for possession
+13 Ground 16 in Part 2 of Schedule 2, together with the italic heading before
+15
+it, moves to after Ground 5B (inserted by paragraph 12 of this Schedule)
+and becomes Ground 5C in Part 1 of that Schedule.
+(1)
+(2) For the first paragraph of the new Ground 5C substitute—
+“The dwelling-house was let to the tenant in consequence of the
+tenant’s employment—
+(a) by the landlord seeking possession,
+(b) in the case of joint landlords seeking possession, by at least 20
+one of them,
+(c) by a previous landlord under the tenancy, or
+(d) pursuant to an agreement between any of those landlords
+and the employer,
+and either— 25
+(a) the tenant has ceased to be in that employment, or
+(b) the tenancy was granted for the purpose of providing the
+tenant with accommodation during the early period of their
+30
+employment, that purpose has been fulfilled and the landlord
+seeking possession intends to let the dwelling-house to
+another current or future employee of the employer.
+In this ground, “the employer” means the tenant’s employer at the
+time the tenant entered the tenancy.”
+(3) In the italic heading, for “16” substitute “5C”.
+New ground 35 for possession for end of employment requirements
+14 After Ground 5C (as renumbered by paragraph 13 of this Schedule) insert—
+“Ground 5D
+The landlord seeking possession is a private registered provider of
+social housing, the tenancy agreement includes a requirement
+Renters (Reform) Bill 69
+Schedule 1—Changes to grounds for possession 
+connected with the tenant’s employment and the tenant no longer
+fulfils that requirement.”
+New ground for possession for occupation as supported accommodation
+15 After Ground 5D (inserted by paragraph 14 of this Schedule) insert—
+“Ground 5E 5
+The landlord seeking possession requires possession of the
+dwelling-house to let it as supported accommodation where—
+(a) the landlord holds the dwelling-house for the purpose of
+10
+making it available for occupation as supported
+accommodation, and
+(b) the tenant did not enter the assured tenancy for the purpose
+of receiving care, support or supervision at the
+dwelling-house.”
+New grounds for possession of dwelling-house occupied as supported accommodation
+16 After Ground 5E (inserted by paragraph 15 of this Schedule) insert— 15
+“Ground 5F
+(1)
+The dwelling-house was supported accommodation when the
+tenancy was granted and any of the following applies—
+(a)
+20
+the tenancy was granted for the purpose of providing the
+tenant with support services for a limited time in order to
+enable the tenant to be able to live in other accommodation
+in the future and the period for which those support services
+were to be provided has ended;
+(b)
+25
+a person other than the landlord provides or provided
+support services to the tenant, but—
+(i) the support services have come to an end or the
+person is not fulfilling their obligations under the
+arrangements for the provision of those services, and
+(ii)
+30
+where the dwelling-house is not managed
+accommodation, the landlord has used reasonable
+endeavours to find another person to provide support
+services to the tenant but has not been able to do so;
+(c) where the accommodation or support services were funded
+35
+wholly or partly by someone other than the landlord or the
+tenant—
+(i) that funding is no longer being provided,
+(ii) where the dwelling-house is not managed
+accommodation, the landlord has used reasonable
+40
+endeavours to identify alternative funding but has
+not been able to do so, and
+(iii) it would not be reasonable for the landlord to
+continue to provide accommodation or for the person
+70 Renters (Reform) Bill
+Schedule 1—Changes to grounds for possession 
+who provided support services to continue that
+provision without that funding;
+(d) the tenant does not need the level of support services that
+are provided at the dwelling-house;
+(e) the tenant does not need any support services; 5
+(f) the support services that are provided at the dwelling-house
+do not meet the tenant’s needs;
+(g) the dwelling-house has physical features intended to enable
+10
+persons with needs for particular support services to live
+more independently than they could do so without those
+features and those physical features are not needed by the
+tenant;
+(h) the dwelling-house is physically unsuitable for a person with
+the tenant’s needs for support services to live in.
+In this ground, references to the “landlord” are to the landlord who 15
+is seeking possession.”
+(2) After Ground 17 insert—
+“Ground 18
+20
+The tenancy is of supported accommodation and the tenant has
+unreasonably refused to co-operate with the person providing
+support services with regard to those services.”
+New ground for possession for tenancy granted for homelessness duty
+17 After Ground 5F (inserted by paragraph 16 of this Schedule) insert—
+“Ground 5G
+The grant of the tenancy was in pursuance of a local housing 25
+authority’s duty to the tenant under section 193 of the Housing Act
+1996 and—
+(a) the local housing authority has notified the landlord that the
+30
+tenancy is no longer required for the purposes of that duty,
+and
+(b) the date specified in the notice under section 8 is no more
+than 12 months after the date on which the local housing
+authority notified the landlord as mentioned in paragraph
+(a).
+In this ground “local housing authority” has the meaning given by 35
+section 1 of the Housing Act 1985.”
+Amendments of Ground 6: redevelopment
+18 (1) Ground 6 is amended as follows.
+(2)
+40
+In the first unnumbered paragraph, for the words from the beginning to
+“superior landlord” substitute “A relevant landlord”.
+Renters (Reform) Bill 71
+Schedule 1—Changes to grounds for possession 
+(3) After paragraph (a) insert—
+“(aa) either—
+(i) the assured tenancy began at least 6 months before
+the date specified in the notice under section 8, or
+(ii) a compulsory purchase order was made authorising 5
+the landlord who is seeking possession to purchase
+the dwelling-house and the dwelling-house was
+transferred to that landlord within the period of one
+10
+year ending with the date specified in the notice
+under section 8, and”
+(4) Omit paragraph (b) (together with the final “and”).
+(5) Omit the unnumbered paragraph after paragraph (c).
+(6) For the final unnumbered paragraph substitute—
+“For the purposes of this ground, a “relevant landlord” is—
+(a) if the landlord who is seeking possession is— 15
+(i) a non-profit registered provider of social housing,
+(ii) a registered social landlord within the meaning of
+the Housing Act 1985 (see section 5(4) and (5) of that
+Act),
+(iii) a housing trust, within the meaning of the Housing 20
+Associations Act 1985, which is a charity, or
+(iv) where the dwelling-house is social housing within
+the meaning of Part 2 of the Housing and
+25
+Regeneration Act 2008, a profit-making registered
+provider of social housing,
+a superior landlord;
+(b) otherwise—
+(i) the landlord who is seeking possession, or
+(ii)
+30
+if the landlord who is seeking possession is the
+unit-holder of a commonhold unit comprising or
+containing the dwelling-house and in relation to
+which the commonhold association exercises
+functions, a commonhold association.
+35
+In this ground “commonhold association”, “commonhold unit” and
+“unit-holder” have the meanings given by Part 1 of the Commonhold
+and Leasehold Reform Act 2002 (see sections 11 to 13 and 34 of that
+Act).”
+New ground for possession to allow compliance with enforcement action
+19 After Ground 6 insert—
+“Ground 6A 40
+(1)
+Any of the following situations has occurred—
+72 Renters (Reform) Bill
+Schedule 1—Changes to grounds for possession 
+(a) letting the dwelling-house causes the landlord to breach a
+banning order under section 16 of the Housing and Planning
+Act 2016, or would do so if the landlord were to continue
+to let the dwelling-house;
+(b) an improvement notice under section 11 or 12 of the Housing 5
+Act 2004—
+(i) specifies the dwelling-house or premises in which
+the dwelling-house is contained as requiring remedial
+action, and
+(ii) specifies overcrowding as the deficiency giving rise 10
+to the hazard in respect of which that remedial action
+is to be taken;
+(c) a prohibition order under section 20 or 21 of the Housing
+Act 2004 prohibits use of—
+(i) the dwelling-house, 15
+(ii) the common parts, or
+(iii) any part of the dwelling-house or of the common
+parts,
+20
+either for all purposes or for any purpose that is incompatible
+with continued occupation by the tenant;
+(d) the dwelling-house is or is in an HMO which is required to
+be licensed under section 61 of the Housing Act 2004, and—
+(i) the landlord applied for a licence under section 63
+25
+of the Housing Act 2004 and the local housing
+authority refused to grant a licence, or
+(ii) the landlord held a licence but the licence has been
+revoked;
+(e) the dwelling-house is or is in a house which is required to
+be licensed under section 85 of the Housing Act 2004, and—
+(i) the landlord applied for a licence under section 87 30
+of the Housing Act 2004 and the local housing
+authority refused to grant a licence, or
+(ii) the landlord held a licence but the licence has been
+revoked;
+(f) the dwelling-house is or is in an HMO which is licensed 35
+under Part 2 of the Housing Act 2004 or a house which is
+licensed under Part 3 of that Act and that HMO or house is
+occupied by more than the maximum number of households
+or persons specified in the licence.
+In this ground— 40
+“common parts” has the same meaning as in Ground 13;
+“house” has the same meaning as in Part 3 of the Housing Act 2004
+(see section 99 of that Act);
+45
+references to the “landlord” are to the landlord who is seeking
+possession or, in the case of joint landlords seeking possession, to
+at least one of them;
+Renters (Reform) Bill 73
+Schedule 1—Changes to grounds for possession 
+“local housing authority” has the meaning given in section 261 of the
+Housing Act 2004.”
+Amendments of Ground 7: death of tenant
+20 In Ground 7—
+(a) in the first unnumbered paragraph— 5
+(i) omit the words from “is a periodic” to “England, which”;
+(ii) for “twelve” substitute “24”;
+(b) omit the third unnumbered paragraph.
+Amendments of Ground 8: rent arrears
+21 In Ground 8— 10
+(a) omit paragraphs (c) and (d);
+(b) at the end insert—
+“When calculating how much rent is unpaid for the purpose
+15
+of this ground, if the tenant is entitled to receive an amount
+for housing as part of an award of universal credit under
+Part 1 of the Welfare Reform Act 2012, any amount that was
+unpaid only because the tenant had not yet received the
+payment of that award is to be ignored.”
+New ground for possession for repeated rent arrears
+22 After Ground 8 insert— 20
+“Ground 8A
+Within a three year period ending with the date of service of the
+notice under section 8—
+(a)
+25
+if rent is payable monthly, at least two months’ rent was
+unpaid for at least a day on at least three separate occasions,
+or
+(b) if rent is payable for a period shorter than a month, at least
+eight weeks’ rent was unpaid for at least a day on at least
+three separate occasions.
+For the purposes of this ground, occasions are “separate” if in 30
+between those occasions the amount of the unpaid rent reduced to
+less than the amount mentioned in sub-paragraph (a) or
+sub-paragraph (b) (whichever is applicable) for at least one day.
+35
+When calculating how much rent is unpaid for the purpose of this
+ground, if the tenant is entitled to receive an amount for housing
+as part of an award of universal credit under Part 1 of the Welfare
+Reform Act 2012, any amount that was unpaid only because the
+tenant had not yet received the payment of that award is to be
+ignored.
+74 Renters (Reform) Bill
+Schedule 1—Changes to grounds for possession 
+For the purposes of this ground, “rent” means rent lawfully due
+from the tenant.”
+Amendments of Ground 14: anti-social behaviour
+23
+5
+In Ground 14, in each of paragraphs (a) and (aa), for “likely to cause”
+substitute “capable of causing”.
+Power to amend Schedule 2 and new interpretation provisions
+24 After Part 4 of Schedule 2 to the 1988 Act insert—
+“PART 5
+INTERPRETATION
+12 In this Schedule— 10
+“compulsory purchase order” has the same meaning as in
+the Acquisition of Land Act 1981 (see section 2 of that
+Act);
+15
+“HMO” has the same meaning as in Part 2 of the Housing
+Act 2004 (see section 77 of that Act);
+“housing association” has the meaning given by section 1 of
+the Housing Associations Act 1985;
+“managed accommodation” means supported
+accommodation—
+(a) into which a tenant has been admitted in order to 20
+meet a need for care, support or supervision, and
+(b) where the care, support or supervision is provided
+otherwise than by the landlord or a person acting
+on behalf of the landlord;
+“support services” in relation to a tenant in supported 25
+accommodation, means care, support or supervision;
+“supported accommodation” means a dwelling-house—
+(a) let by—
+(i) a housing association,
+(ii) a private registered provider of social 30
+housing,
+(iii) a registered charity, or
+(iv) a voluntary organisation, and
+(b)
+35
+where a tenant receives care, support or
+supervision provided either—
+(i) by the landlord or a person acting on behalf
+of the landlord, or
+(ii) by someone else, if the tenant has been
+admitted into the accommodation in order
+Renters (Reform) Bill 75
+Schedule 1—Changes to grounds for possession 
+to meet a need for care, support or
+supervision.
+PART 6
+POWERS TO AMEND GROUNDS 2ZA, 2ZB, 5C AND 6A AND DEFINITION
+13 (1) The Secretary of State may by regulations amend this Schedule 5
+so as to—
+(a) amend Ground 2ZA to change the descriptions of the
+landlord who may use the ground;
+(b)
+10
+amend Ground 2ZB to change the descriptions of previous
+landlord mentioned in it;
+(c) provide for Ground 5C to apply only where the landlord
+seeking possession or the employer is of a particular
+description;
+(d)
+15
+add other situations to the list in the first paragraph of
+Ground 6A in which that ground may be relied on or
+remove any situations added by virtue of this
+sub-paragraph;
+(e) amend the definition of “supported accommodation” or
+“managed accommodation” in paragraph 12.
+(2) Regulations under this paragraph may— 20
+(a) make consequential, supplementary, incidental, transitional
+or saving provision;
+(b) make different provision for different purposes.
+(3)
+25
+Regulations under this paragraph are to be made by statutory
+instrument.
+(4) A statutory instrument containing regulations under this
+paragraph may not be made unless a draft of the instrument has
+been laid before and approved by a resolution of each House of
+Parliament.”
+SCHEDULE 2 Section 20 30
+CONSEQUENTIAL AMENDMENTS RELATING TO CHAPTER 1 OF PART 1
+Housing Act 1988
+1 The 1988 Act is amended as follows.
+2
+35
+In section 1A (application of Chapters 1, 2 and 3 of Part 1 to dwelling in
+Wales), in subsection (3), after “tenancy” insert “, without the amendments
+made by the Renters (Reform) Act 2023”.
+3 In section 5 (security of tenure)—
+76 Renters (Reform) Bill
+Schedule 2—Consequential amendments relating to Chapter 1 of Part 1 
+(a) in subsection (1)—
+(i) in paragraph (a)(i) omit “or 21”;
+(ii) omit paragraphs (b) and (c) (but not the “or” after them);
+(iii)
+5
+in the words after paragraph (d), for “a periodic” substitute
+“an”;
+(b) omit subsections (2) to (7).
+4 Omit section 6.
+5 In section 9 (extended discretion of court in possession claims), in subsection
+(6), omit paragraph (b) and the “or” before it.
+6 In section 10A (power to order transfer of tenancy in certain cases) omit 10
+subsection (8).
+7 In section 24 (assured agricultural occupancies), in subsection (2)(a) omit
+“which is not an assured shorthold tenancy”.
+Housing Act 1996
+8 The Housing Act 1996 is amended as follows. 15
+9 In section 175 (homelessness and threatened homelessness) omit subsection
+(5).
+10 In section 188 (referral of case to another local housing authority) omit
+subsection (1A).
+11 In section 193A(4) (consequences of refusal of final accommodation offer 20
+or final Part 6 offer at the initial relief stage)—
+(a) in paragraph (a) omit “shorthold”;
+(b) at the end of paragraph (a) insert “and”;
+(c) omit paragraph (c) and the “and” before it.
+12 In section 195 (duties in cases of threatened homelessness) omit subsection 25
+(6).
+13 In section 209 (discharge of interim duties: arrangements with private
+landlord), in subsection (2), in the words after paragraph (b), for the words
+30
+from “assured shorthold tenancy” (in the first place it occurs) to the end
+substitute “assured tenancy”.
+14 In section 218 (index of defined expressions: Part 7), in the entry for assured
+tenancy and assured shorthold tenancy, omit “and assured shorthold
+tenancy”.
+Renting Homes (Wales) Act 2016 (anaw 1)
+15 In Schedule 12 to the Renting Homes (Wales) Act 2016— 35
+(a) in the Welsh text, after paragraph 29 insert—
+“29A At ddibenion paragraffau 28 a 29, mae Deddf Tai 1988 yn
+gymwys heb y diwygiadau a wnaed gan Ddeddf Cartrefi
+Rhent 2023 (p. ).”;
+Renters (Reform) Bill 77
+Schedule 2—Consequential amendments relating to Chapter 1 of Part 1 
+(b) in the English text, after paragraph 29 insert—
+“29A For the purposes of paragraphs 28 and 29, the Housing
+Act 1988 applies without the amendments made by the
+Renters (Reform) Act 2023 (c. ).”
+SCHEDULE 3 Section 52 5
+FINANCIAL PENALTIES
+Notice of intent
+1 Before imposing a financial penalty on a person under section 26 or 47, a
+10
+local housing authority must give the person notice of its proposal to do
+so (a “notice of intent”).
+2 The notice of intent must be given before the end of the period of 6 months
+beginning with the first day on which the authority has sufficient evidence
+of the conduct to which the financial penalty relates.
+(1)
+(2)
+15
+But if the person is continuing to engage in the conduct on that day, and
+the conduct continues beyond the end of that day, the notice of intent may
+be given—
+(a) at any time when the conduct is continuing, or
+(b) within the period of 6 months beginning with the last day on which
+the conduct occurs.
+3 The notice of intent must set out— 20
+(a) the date on which the notice of intent is given,
+(b) the amount of the proposed financial penalty,
+(c) the reasons for proposing to impose the penalty, and
+(d)
+25
+information about the right to make representations under paragraph
+4.
+Right to make representations
+4 A person who is given a notice of intent may make written representations
+to the authority about the proposal to impose a financial penalty.
+(1)
+(2)
+30
+Any representations must be made within the period of 28 days beginning
+with the day after the day on which the notice of intent was given to the
+person (“the period for representations”).
+Final notice
+5 After the end of the period for representations the enforcement authority
+must—
+(a) decide whether to impose a financial penalty on the person, and 35
+(b) if it decides to do so, decide the amount of the penalty.
+78 Renters (Reform) Bill
+Schedule 3—Financial penalties 
+6 If the local housing authority decides to impose a financial penalty on the
+person, it must give a notice to the person (a “final notice”) imposing that
+penalty.
+7
+5
+The final notice must require the penalty to be paid within the period of
+28 days beginning with the day after that on which the notice was given.
+8 The final notice must set out—
+(a) the date on which the final notice is given,
+(b) the amount of the financial penalty,
+(c) the reasons for imposing the penalty,
+(d) information about how to pay the penalty, 10
+(e) the period for payment of the penalty,
+(f) information about rights of appeal, and
+(g) the consequences of failure to comply with the notice.
+Withdrawal or amendment of notice
+9 (1) A local housing authority may at any time— 15
+(a) withdraw a notice of intent or final notice, or
+(b) reduce an amount specified in a notice of intent or final notice.
+(2) The power in sub-paragraph (1) is to be exercised by giving notice in
+writing to the person to whom the notice was given.
+Appeals 20
+10 A person to whom a final notice is given may appeal to the First-tier
+Tribunal against—
+(1)
+(a) the decision to impose the penalty, or
+(b) the amount of the penalty.
+(2) An appeal under this paragraph must be brought within the period of 28 25
+days beginning with the day after that on which the final notice is given
+to the person.
+(3) If a person appeals under this paragraph, the final notice is suspended
+until the appeal is finally determined, withdrawn or abandoned.
+(4) An appeal under this paragraph— 30
+(a) is to be a re-hearing of the authority’s decision, but
+(b) may be determined having regard to matters of which the authority
+was unaware.
+(5)
+35
+On an appeal under this paragraph the First-tier Tribunal may quash,
+confirm or vary the final notice.
+(6) The final notice may not be varied under sub-paragraph (5) so as to impose
+a financial penalty of more than the local housing authority could have
+imposed.
+Renters (Reform) Bill 79
+Schedule 3—Financial penalties 
+Recovery of financial penalty
+11 This paragraph applies if a person fails to pay the whole or any part of a
+financial penalty which, in accordance with this Schedule, the person is
+liable to pay.
+(1)
+(2) The local housing authority which imposed the financial penalty may 5
+recover the penalty or part on the order of the county court as if it were
+payable under an order of that court.
+(3) In proceedings before the county court for the recovery of a financial penalty
+or part of a financial penalty, a certificate which is—
+(a) signed by the chief finance officer of the authority which imposed 10
+the penalty, and
+(b) states that the amount due has not been received by a date specified
+in the certificate,
+is conclusive evidence of that fact.
+(4) A certificate to that effect and purporting to be so signed is to be treated 15
+as being so signed unless the contrary is proved.
+(5) In this paragraph “chief finance officer” has the same meaning as in section
+5 of the Local Government and Housing Act 1989.
+Proceeds of financial penalties
+12 Where a local housing authority imposes a financial penalty under section 20
+26 or 47, it may apply the proceeds towards meeting the costs and expenses
+(whether administrative or legal) incurred in, or associated with, carrying
+out any of its enforcement functions under this Act or otherwise in relation
+to the private rented sector.
+13 Any proceeds of a financial penalty imposed under section 26 or 47 which are not 25
+applied in accordance with paragraph 12 must be paid to the Secretary of State.
+14 In paragraph 13, “enforcement functions in relation to the private rented
+sector” means enforcement functions relating to—
+(1)
+(a)
+30
+residential premises in England that are let, or intended to be let,
+under a tenancy,
+(b) the common parts of such premises,
+(c) the activities of a landlord under a tenancy of residential premises
+in England,
+(d)
+35
+the activities of a person carrying on English letting agency work
+within the meaning of section 54 of the Housing and Planning Act
+2016 in relation to such premises, or
+(e) the activities of a person carrying on English property management
+work within the meaning of section 55 of the Housing and Planning
+Act 2016 in relation to such premises.
+(2) For the purposes of this paragraph “residential premises” has the meaning 40
+given by section 1 of the Housing Act 2004 except that it does not include
+80 Renters (Reform) Bill
+Schedule 3—Financial penalties 
+social housing within the meaning of Part 2 of the Housing and
+Regeneration Act 2008.
+(3) For the purposes of this paragraph, “tenancy” includes a licence to occupy.
+SCHEDULE 4 Section 67(3)
+APPLICATION OF CHAPTER 1 OF PART 1 TO EXISTING TENANCIES: TRANSITIONAL 5
+PROVISION
+Section 1: start of deemed rent period for existing tenancies
+1 In relation to an existing tenancy, section 4A of the 1988 Act (inserted by
+section 1) is to be read as if—
+(a) in subsection (3)— 10
+(i) in the words before paragraph (a), after “effect” there were
+inserted “, so far as relating to rent periods beginning on or
+after the extended application date (within the meaning
+given by section 67(2)(b) of the Renters (Reform) Act 2023),”;
+(ii) in paragraph (a), after “rent period” there were inserted 15
+“beginning on or after the extended application date”;
+(b) in subsection (4), for paragraph (a) (and the “and” following it) there
+were substituted—
+“(a) for successive rent periods of one month beginning—
+(i) if the extended application date is a date on 20
+which a rent period would, but for subsection
+(3), have begun, with the extended application
+date, or
+(ii)
+25
+otherwise, with the day after the last day of
+the rent period within which the extended
+application date falls, and”;
+(c) in subsection (5), for “R is the rent that would have been due for
+the first rent period of the tenancy under the terms that are of no
+30
+effect by virtue of subsection (3)” there were substituted “R is the
+rent due for the rent period before the first rent period provided
+for by subsection (4)(a)”.
+Section 2: application in relation to a deemed continuing tenancy
+2 The amendments made by Chapter 1 of Part 1 do not apply in relation to
+35
+a deemed continuing tenancy until immediately after it is converted to a
+periodic tenancy.
+Renters (Reform) Bill 81
+Schedule 4—Application of Chapter 1 of Part 1 to existing tenancies: transitional provision 
+Section 2: tenancy remains an assured shorthold tenancy until disposal of section 21 notice
+given prior to application date
+3 Where, immediately before the extended application date, proceedings for
+5
+an order for possession under section 21 of the 1988 Act in reliance on a
+valid notice given under that section of that Act have been commenced in
+relation to an assured shorthold tenancy and have not been concluded, or
+have not been commenced but have not become time-barred—
+(a) the tenancy remains an assured shorthold tenancy, and the notice
+10
+remains valid, until any time when such proceedings in reliance on
+the notice become time-barred or are concluded, and
+(b) until that time the amendments made by Chapter 1 of Part 1 do
+not apply in relation to the tenancy.
+In this paragraph “time-barred” means prohibited by section 21(4D) or (4E)
+of the 1988 Act.
+Section 3 15 (2)(c): saving of section 7(7) in relation to tenancies where fixed term ends before
+application date
+4 Section 7(7) of the 1988 Act continues to apply after the extended application
+date, despite section 3(2)(c), in relation to an existing tenancy that was a
+fixed term tenancy before the extended application date.
+Section 5 20 : no effect on rent increases before application date
+5 The amendments made by section 5 do not affect the validity of any increase
+in rent under an existing tenancy, before the extended application date, in
+reliance on a provision—
+(a) which was at the time binding on the tenant, and
+(b) under which the rent for a particular period of the tenancy would 25
+or might be greater than the rent for an earlier period.
+Sections 9 and 11: provision of information in writing
+6 (1) Where an existing tenancy is wholly or partly in writing—
+(a)
+30
+section 16D and 16E(2)(e) of the 1988 Act (inserted by sections 9
+and 11) do not apply;
+(b) section 16F(1) of that Act (inserted by section 11) is to be read as if
+for “contravened section 16D” there were substituted “contravened
+paragraph 6(2) of Schedule 4 to the Renters (Reform) Act 2023”.
+(2)
+35
+The landlord under any existing tenancy that is wholly or partly in writing
+must give the tenant any information in writing about the changes made
+by this Act which is required to be given by regulations made by the
+Secretary of State.
+(3) Regulations under sub-paragraph (2) may—
+(a)
+40
+provide for the information to be given in the form of a document
+produced by the Secretary of State;
+82 Renters (Reform) Bill
+Schedule 4—Application of Chapter 1 of Part 1 to existing tenancies: transitional provision 
+(b) provide that the document to be given is the version that has effect
+at the time the requirement applies.
+(4) Where an existing tenancy is wholly oral, section 16D(3) of the 1988 Act
+5
+(inserted by section 9) is to be read as if, for “before the beginning of an
+assured tenancy” there were substituted “before the extended application
+date (within the meaning given by section 67(2)(b) of the Renters (Reform)
+Act 2023)”.
+(5) Regulations under sub-paragraph (2) are to be made by statutory instrument.
+(6)
+10
+A statutory instrument containing regulations under sub-paragraph (2) is
+subject to annulment in pursuance of a resolution of either House of
+Parliament.
+Section 11: no liability in respect of conduct before application date
+7 Conduct engaged in, in relation to an existing tenancy, before the extended
+application date—
+(a) does not give rise to liability to a financial penalty under section 15
+16F or 16H of the 1988 Act (inserted by section 11), and
+(b) does not constitute an offence under section 16G (as so inserted).
+Section 14: no effect on notice to quit given before application date
+8
+20
+The amendment made by section 14 does not affect the validity of any
+notice given under section 5 of the Protection from Eviction Act 1977 in
+relation to an existing tenancy before the extended application date.
+Section 19: tenancy deposits
+9 The amendments made by section 19 do not apply in relation to an existing
+25
+tenancy that, immediately before the extended application date, was an
+assured tenancy other than an assured shorthold tenancy.
+Interpretation
+10 In this Schedule—
+“the commencement date” has the meaning given by section 67(1);
+30
+“converted to a periodic tenancy” has the meaning given by section
+67(5);
+“deemed continuing tenancy” has the meaning given by section 67(6);
+“the extended application date” has the meaning given by section
+67(4).
+Renters (Reform) Bill 83
+Schedule 4—Application of Chapter 1 of Part 1 to existing tenancies: transitional provision 
+Renters (Reform) Bill
+[AS INTRODUCED]
+A
+BILL
+TO
+Make provision changing the law about rented homes, including provision abolishing
+fixed term assured tenancies and assured shorthold tenancies; imposing obligations on
+landlords and others in relation to rented homes and temporary and supported
+accommodation; and for connected purposes.
+Presented by Secretary Michael Gove
+supported by the Prime Minister,
+the Chancellor of the Exchequer,
+Secretary Mel Stride, Secretary Lucy Frazer and
+Rachel Maclean.
+Ordered, by The House of Commons, to be
+Printed, 17th May 2023.
+© Parliamentary copyright House of Commons 2023
+This publication may be reproduced under the terms of the Open Parliament Licence, which is published at
+www.parliament.uk/site-information/copyright
+PUBLISHED BY THE AUTHORITY OF THE HOUSE OF COMMONS
+308 58/3 
