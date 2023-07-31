@@ -1,2 +1,1 @@
-The bill gives regulators more power over big tech companies to promote competition and protect consumers, but critics argue it could also stifle innovation. Key changes around mergers, penalties, and regulator powers need more public debate to ensure the right balance.
-
+The Digital Markets, Competition and Consumers Bill introduces new regulations for digital markets, including the power to designate firms with Strategic Market Status, impose conduct requirements on them, make pro-competition interventions, and require merger notifications; it also enhances enforcement of competition law, strengthens consumer rights such as for subscription contracts, and improves dispute resolution processes.

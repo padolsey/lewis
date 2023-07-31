@@ -3,7 +3,7 @@ import ChunkedConcurrentGPTRequest from '../ChunkedConcurrentGPTRequest.mjs';
 export default class BillDeltaQuery extends ChunkedConcurrentGPTRequest {
   id = 'bill_delta';
   // chunkerTokenLimit = 5500;
-  chunkerTokenLimit = 2800;
+  chunkerTokenLimit = 2900;
 
   constructor(documentSpec) {
     super();
@@ -17,7 +17,7 @@ export default class BillDeltaQuery extends ChunkedConcurrentGPTRequest {
       // max_tokens: 9000,
 
       model: 'gpt-4',
-      max_tokens: 3000,
+      max_tokens: 3100,
       temperature: 0.0,
       messages: [
         { role: 'system', content: `
